@@ -1,0 +1,128 @@
+---
+title: "Clinical Findings"
+---
+
+::: {.patient-banner}
+# Interpreting Your Findings
+
+You have completed Karla's Passy-Muir Valve and clinical swallowing evaluation.
+
+Use the findings obtained during your patient encounter, along with information from the medical record and interdisciplinary team, to determine your next steps.
+:::
+
+::: {.warning}
+## SLP Task
+
+Do not make recommendations based on a single finding.
+
+Integrate Karla's medical history, respiratory status, PMV tolerance, oral mechanism examination, PO trials, and overall clinical presentation.
+:::
+
+## PMV Findings
+
+Review what you observed during Karla's PMV evaluation.
+
+Discuss with your group:
+
+1. Did Karla tolerate cuff deflation and PMV placement?
+
+2. What findings support your decision?
+
+3. Were there any changes in:
+   - Respiratory status?
+   - Secretion management?
+   - Cough?
+   - Voice?
+   - Patient comfort?
+
+4. Would you recommend continued PMV use?
+
+5. Are any precautions or monitoring recommendations needed?
+
+---
+
+## Swallowing Findings
+
+Review what you observed during the clinical swallowing evaluation.
+
+### Oral Mechanism Examination
+
+1. Were any abnormalities identified during the OME?
+
+2. How might these findings affect swallowing function?
+
+3. Did the OME findings change how you approached PO trials?
+
+### PO Trials
+
+Consider the patient's response across the consistencies you selected.
+
+1. Were there differences across consistencies or methods of presentation?
+
+2. Did you observe any clinical signs that increased concern for dysphagia?
+
+3. Were there concerns related to oral efficiency?
+
+4. Did fatigue, respiratory status, or cognition influence performance?
+
+5. Did any findings cause you to modify or discontinue trials?
+
+---
+
+## Put the Findings Together
+
+Consider Karla's evaluation in the context of her complete clinical picture:
+
+- Pre-hospital coughing during meals
+- Reduced oral intake
+- Unintentional weight loss
+- Community-acquired pneumonia
+- Recent respiratory failure
+- Prolonged intubation
+- Tracheostomy
+- Current respiratory status
+- Findings from today's evaluation
+
+### Discuss
+
+1. Which findings are most clinically significant?
+
+2. Do today's findings support concern for oropharyngeal dysphagia?
+
+3. What can you reasonably conclude from the clinical swallowing evaluation?
+
+4. What information remains unknown?
+
+---
+
+::: {.note-box}
+## Bedside Assessment
+
+Remember that a clinical swallowing evaluation can identify clinical signs and risk factors associated with dysphagia, but it does not provide direct visualization of swallowing physiology.
+
+Consider whether additional information is needed before making long-term diet or treatment recommendations.
+:::
+
+---
+
+## What Comes Next?
+
+Before continuing, determine as a group:
+
+**PMV Recommendation:**  
+Would you recommend continued PMV use? Why or why not?
+
+**Oral Intake:**  
+Do you have enough information to make a recommendation regarding oral intake?
+
+**Further Assessment:**  
+Is additional swallowing assessment indicated? Anything else?
+
+**Instrumentation:**  
+If you recommend an instrumental swallowing assessment, what clinical question are you trying to answer?
+
+---
+
+## Continue
+
+[Develop Clinical Recommendations](clinical-decision.html)

@@ -1,0 +1,32 @@
+---
+title: "UO Acute Care Simulation Lab"
+---
+
+# Acute Care Simulation Lab
+
+Welcome to the University of Oregon Acute Care Simulation Lab.
+
+Each simulation is designed to mirror the clinical reasoning process used by Speech-Language Pathologists in the acute care setting. Select a simulation below to begin.
+
+::: {.card-grid}
+
+::: {.chart-card}
+## 🧠 Simulation 1
+
+### Initial Patient Contact
+
+Acute ischemic stroke with altered mental status requiring an initial Speech-Language Pathology consultation.
+
+Students will complete:
+
+- Case Overview
+- Chart Review
+- Vital Signs
+- Bedside Contact
+- Clinical Impression & Recommendations
+
+[Begin Simulation 1](simulations/sim1/index.qmd)
+
+:::
+
+::: 

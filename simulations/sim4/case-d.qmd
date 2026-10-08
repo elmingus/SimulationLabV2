@@ -1,0 +1,200 @@
+---
+title: "Case D: Hearing Impairment"
+---
+
+::: {.patient-banner}
+# Robert Greene
+
+**79-year-old male** | **Consult:** AAC Evaluation
+:::
+
+::: {.warning}
+
+**SLP Task:** Review the patient information below and determine the most appropriate communication supports to facilitate functional communication in the acute care setting.
+
+:::
+
+## Patient Snapshot
+
+| Patient Information | Details |
+|---|---|
+| Name | Robert Greene |
+| Age | 79 |
+| Admitting Diagnosis | Right shoulder fracture following a fall |
+| Current Setting | Acute Care Medical-Surgical Unit |
+| Communication Status | Verbal |
+| Hearing | Bilateral hearing impairment; hearing aids at home |
+| Vision | Functional with glasses |
+| Motor Status | Right arm immobilized; left hand functional |
+| Cognitive Status | Alert; staff report inconsistent responses |
+| Language | English |
+| Family | Spouse available by telephone |
+
+## Chief Concern
+
+::: {.note-box}
+
+The patient has difficulty hearing staff, particularly when staff speak from outside his visual field or while wearing a mask.
+
+The patient has attempted to communicate the following:
+
+- Right shoulder pain rated as **3/10**
+- Need for restroom assistance
+- Difficulty using the television controls
+- Desire to activate closed captioning
+- Request for his spouse to bring his hearing aids
+
+Staff are uncertain whether some incorrect responses reflect confusion or reduced auditory access.
+
+:::
+
+::: {.warning}
+
+**Immediate Clinical Concern:** A patient may appear confused, uncooperative, or cognitively impaired when spoken information is not accessible.
+
+:::
+
+## Step 1: Identify the Communication Barrier
+
+Consider:
+
+- Can the patient understand written language?
+- Can the patient read lips or facial cues?
+- Does masking affect communication?
+- Does the patient hear better in one ear?
+- Is the room noisy?
+- Can the patient use a personal amplifier?
+- Can the patient write with the unaffected hand?
+- Are inaccurate responses reduced when information is written?
+
+## Step 2: Modify the Environment
+
+Before assuming cognitive impairment, trial:
+
+- Gain the patient's attention before speaking.
+- Face the patient directly.
+- Reduce background noise.
+- Ensure adequate lighting.
+- Speak clearly at a normal rate.
+- Avoid shouting.
+- Present one message at a time.
+- Use written key words.
+- Use a whiteboard.
+- Provide a personal amplifier when available.
+- Confirm understanding through teach-back.
+
+## Step 3: Evaluate Communication Modalities
+
+Determine whether the patient can:
+
+- Understand large-print written questions
+- Read a whiteboard
+- Point to yes/no choices
+- Write short responses with the left hand
+- Follow directions when visual cues are provided
+- Use gestures
+- Understand speech with amplification
+- Use bedside call and television controls
+
+Consider comparing performance across conditions:
+
+1. Spoken instruction only
+2. Spoken instruction while facing the patient
+3. Spoken instruction plus written key words
+4. Written instruction only
+5. Spoken instruction with amplification
+
+## Step 4: Select Communication Supports
+
+Which supports would you trial?
+
+- Whiteboard
+- Large-print written choices
+- Yes/no board
+- Personal voice amplifier
+- Written pain scale
+- Gesture
+- Closed captioning
+- Bedside communication card
+- Communication partner strategies
+- Tablet-based text
+- Family-provided hearing aids
+
+Consider:
+
+- Which method is fastest for immediate needs?
+- Which method can staff use consistently?
+- What should be documented at the bedside?
+- How will you verify that the hearing aids are functioning when they arrive?
+
+## Step 5: Address Immediate Needs
+
+The patient communicates:
+
+- Shoulder pain is 3/10.
+- He needs restroom assistance.
+- He wants closed captions activated.
+- He would like his spouse to bring his hearing aids.
+
+Determine the appropriate response.
+
+| Patient Need | Appropriate Follow-Up |
+|---|---|
+| Shoulder pain | Notify nursing and support pain communication |
+| Restroom assistance | Notify nursing immediately |
+| Television captions | Assist directly or coordinate with staff |
+| Hearing aids | Confirm consent and contact spouse |
+| Communication access | Establish bedside communication strategies |
+
+## Step 6: Patient and Staff Education
+
+Education may include:
+
+- Approach from the front.
+- Gain attention before speaking.
+- Reduce environmental noise.
+- Face the patient during communication.
+- Use written key words and short sentences.
+- Confirm understanding.
+- Keep the whiteboard within reach.
+- Use closed captions.
+- Avoid interpreting reduced auditory access as cognitive impairment.
+- Ensure hearing aids are labeled and stored safely when not in use.
+
+## Documentation Task
+
+Complete a SOAP note that includes:
+
+- Hearing and communication barriers identified
+- Environmental modifications trialed
+- Communication modalities assessed
+- Patient performance with written versus spoken information
+- AAC or amplification supports provided
+- Immediate needs identified
+- Staff and family education
+- Recommendations and follow-up plan
+
+## Reflection Questions
+
+1. Which communication methods were most effective for this patient?
+
+2. How did you distinguish reduced hearing access from possible cognitive impairment?
+
+3. What strategies should nursing staff use consistently across shifts?
+
+<details>
+<summary><strong>Reveal Example Clinical Reasoning</strong></summary>
+
+The patient's verbal expression is functional, but access to spoken information is limited because his hearing aids are unavailable. Written communication, direct visual access to the speaker, environmental modifications, and amplification should be trialed before drawing conclusions about cognition.
+
+A whiteboard or large-print written choice board may support immediate communication. A personal amplifier may improve access until the patient's hearing aids arrive.
+
+Staff should approach from the front, reduce background noise, face the patient, use written key words, and confirm comprehension. Closed captioning should be activated to improve environmental access.
+
+With the patient's consent, his spouse may be contacted and asked to bring the hearing aids. Nursing should address pain and restroom needs.
+
+</details>
+
+## Continue
+
+[Review AAC Resources](resources.html)

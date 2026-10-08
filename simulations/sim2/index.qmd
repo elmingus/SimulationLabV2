@@ -1,0 +1,91 @@
+---
+title: "Simulation 2: Cognitive Screening"
+---
+
+::: {.patient-banner}
+# Cindy Carlson
+
+**92-year-old female** | **DOB:** 09/10/1932 | **Location:** Acute Care / Neuro Unit
+
+::: {.banner-grid}
+::: {.banner-item}
+**Hospital Day**  
+1
+:::
+
+::: {.banner-item}
+**Primary Diagnosis**  
+Right MCA Ischemic Stroke
+:::
+
+::: {.banner-item}
+**Consult**  
+SLP Cognitive-Communication Evaluation
+:::
+
+::: {.banner-item}
+**Prior Function**  
+Independent
+:::
+:::
+:::
+
+## Simulation 2: Cognitive Screening
+
+This simulation focuses on chart review, clinical readiness for cognitive screening, and functional implications of cognitive-communication findings following right hemisphere stroke.
+
+::: {.warning}
+**Clinical task:** Determine whether Cindy is appropriate for cognitive screening today. If appropriate, administer the MoCA during simulation and use results to describe functional implications.
+:::
+
+## Learning Focus
+
+Students will:
+
+- Gather relevant clinical information from the medical chart.
+- Identify cognitive-communication risk factors after right MCA stroke.
+- Determine whether the patient is appropriate for cognitive screening.
+- Connect cognitive domains to functional skills and discharge planning.
+- Communicate findings using medical and patient-centered language.
+
+## Simulation Workflow
+
+::: {.card-grid}
+
+::: {.chart-card}
+### 📋 Step 1  
+## Chart Review
+
+Review the H&P, imaging, medications, prior level of function, and current plan of care.
+
+[Begin Chart Review](chart.html)
+:::
+
+::: {.chart-card}
+### 🏥 Step 2  
+## Interdisciplinary Notes
+
+Review nursing, OT/PT, and medical notes for functional concerns.
+
+[Review Notes](interdisciplinary.html)
+:::
+
+::: {.chart-card}
+### 🧠 Step 3  
+## Screening Readiness
+
+Determine whether Cindy is appropriate for MoCA administration today.
+
+[Assess Readiness](readiness.html)
+:::
+
+::: {.chart-card}
+### 🔎 Step 4  
+## Functional Implications
+
+Use cognitive domains to connect screening results to real-world function.
+
+[Review Implications](implications.html)
+:::
+
+:::

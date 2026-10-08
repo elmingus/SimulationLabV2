@@ -1,0 +1,352 @@
+---
+title: "Clinical Evaluation"
+---
+
+::: {.patient-banner}
+# Karla Green — Bedside Evaluation
+
+You are now seeing Karla at bedside for her Passy-Muir Valve and clinical swallowing evaluation.
+
+Use the patient, available equipment, medical record, and information obtained from the healthcare team to complete your assessment.
+:::
+
+::: {.warning}
+## SLP Task
+
+Conduct the evaluation as you would in the acute care setting.
+
+Determine what information you need, obtain appropriate baseline measures, complete the PMV assessment, and proceed with the clinical swallowing evaluation as appropriate.
+
+**Do not assume that all necessary information will be provided automatically. Ask questions, obtain measurements, and request additional findings when clinically indicated.**
+:::
+
+## Entering the Room
+
+Karla is resting in bed with the head of bed elevated.
+
+She is awake and visually attends when you enter the room.
+
+She currently has:
+
+- Shiley 6 cuffed tracheostomy
+- Humidified tracheostomy collar at 28% FiO₂
+- Nasogastric tube in place
+- Pulse oximeter available at bedside
+- Writing materials available for communication
+
+Karla attempts to mouth a greeting when you approach.
+
+---
+
+## Patient Interview
+
+Before beginning the physical assessment, obtain information directly from Karla as appropriate.
+
+::: {.note-box}
+### What would you like to know?
+
+Develop your own interview questions.
+
+Consider what information may be relevant to:
+
+- Current symptoms
+- Swallowing prior to hospitalization
+- Current swallowing concerns
+- Previous diet
+- Eating and drinking habits
+- Recent changes in intake
+- Respiratory symptoms
+- Communication
+- Patient goals
+
+**Ask the patient your questions. Your instructor will provide Karla's responses.**
+:::
+
+### Discuss
+
+1. Which information from Karla's interview is most clinically relevant?
+
+2. Does the patient report align with information obtained from her daughter and the medical record?
+
+3. Is there additional information you would want from Karla's family or healthcare team?
+
+---
+
+## Baseline Assessment
+
+Before manipulating the tracheostomy or beginning PO trials, determine Karla's baseline status.
+
+::: {.warning}
+### Obtain Baseline Vitals
+
+Identify the physiologic measures you would obtain and monitor during today's evaluation.
+
+**Ask your instructor for each measurement you determine is clinically relevant.**
+:::
+
+Record the information obtained:
+
+| Measure | Baseline |
+|------|------|
+| SpO₂ | |
+| Respiratory Rate | |
+| Heart Rate | |
+| Other | |
+
+### Observe the Patient
+
+Consider:
+
+- Respiratory effort
+- Respiratory pattern
+- Secretion management
+- Cough
+- Alertness
+- Positioning
+- Ability to follow commands
+- Current communication
+
+What observations influence whether you are ready to proceed?
+
+---
+
+## Oral Mechanism Examination
+
+Complete a focused oral mechanism examination.
+
+::: {.note-box}
+### Plan Your Examination
+
+Determine which structures and functions should be assessed based on Karla's history and today's referral.
+
+**Do not rely on the website as an OME checklist. Conduct the examination with your patient and request findings from your instructor as needed.**
+:::
+
+Consider information related to:
+
+- Facial symmetry and movement
+- Labial function
+- Lingual function
+- Jaw movement
+- Palatal movement
+- Dentition and oral condition
+- Secretion management
+- Volitional cough
+- Voice, if obtainable
+
+### Clinical Reasoning
+
+After completing the OME, discuss:
+
+1. Which findings were within functional limits?
+
+2. Which findings may influence swallowing efficiency or safety?
+
+3. Are any findings consistent with Karla's medical history?
+
+4. Do the OME findings change how you plan to approach PO trials?
+
+---
+
+## Passy-Muir Valve Evaluation
+
+Determine whether Karla is appropriate to proceed with cuff deflation and PMV placement.
+
+::: {.warning}
+### Apply What You Learned in Simulation 6
+
+You are responsible for determining the appropriate sequence of the PMV evaluation.
+
+Consider:
+
+- Tracheostomy characteristics
+- Cuff status
+- Secretion management
+- Upper-airway patency
+- Baseline respiratory status
+- Patient positioning
+- Patient response to cuff deflation
+- Respiratory status following valve placement
+
+**Verbalize each step of your assessment and request findings from your instructor as needed.**
+:::
+
+### During the Trial
+
+Monitor Karla throughout the PMV assessment.
+
+Obtain repeat physiologic measures when clinically indicated.
+
+| Measure | Baseline | During PMV | After PMV |
+|------|------|------|------|
+| SpO₂ | | | |
+| Respiratory Rate | | | |
+| Heart Rate | | | |
+| Other | | | |
+
+In addition to physiologic measures, monitor for:
+
+- Increased work of breathing
+- Respiratory discomfort
+- Air trapping
+- Changes in secretion management
+- Ability to exhale through the upper airway
+- Vocal quality
+- Vocal intensity
+- Cough
+- Patient comfort
+
+### Stop and Discuss
+
+Before proceeding to swallowing assessment:
+
+1. Is Karla tolerating the PMV?
+
+2. What evidence supports your decision?
+
+3. Would you continue PMV use during the swallowing evaluation?
+
+4. Is there anything you need to address before introducing PO trials?
+
+---
+
+## Clinical Swallowing Evaluation
+
+If you determine that Karla is medically appropriate to continue, proceed with the swallowing portion of the evaluation.
+
+::: {.note-box}
+### Plan Your PO Trials
+
+Available consistencies may include:
+
+- Ice chips
+- Thin liquid
+- Mildly thick liquid
+- Puree
+- Soft solid
+- Regular solid
+
+**You are responsible for selecting the consistencies, method of presentation, amount, and progression of PO trials.**
+
+Explain your rationale before administering each trial.
+:::
+
+### Before Each Trial
+
+Consider:
+
+- Patient positioning
+- Alertness
+- Respiratory status
+- Secretion management
+- Oral readiness
+- Appropriate bolus size
+- Method of presentation
+
+---
+
+## During PO Trials
+
+Observe for clinical findings related to:
+
+### Oral Phase
+
+- Acceptance
+- Labial seal
+- Bolus control
+- Mastication
+- Oral manipulation
+- Oral transit
+- Oral residue
+
+### Pharyngeal / Airway-Related Clinical Signs
+
+- Coughing
+- Throat clearing
+- Changes in vocal quality
+- Multiple swallows
+- Changes in respiratory pattern
+- Increased work of breathing
+- Patient-reported difficulty
+
+### Overall Tolerance
+
+- Endurance
+- Fatigue
+- Ability to maintain attention
+- Ability to follow directions
+- Changes across repeated trials
+
+::: {.warning}
+## Continue, Modify, or Stop?
+
+You are not required to administer every available consistency.
+
+After each portion of the evaluation, determine whether you have sufficient information to:
+
+- Continue PO trials
+- Modify the presentation or consistency
+- Trial an alternative consistency
+- Discontinue PO trials
+- Recommend additional assessment
+
+Be prepared to justify your decision.
+:::
+
+---
+
+## Reassessment
+
+Before completing the bedside encounter:
+
+- Reassess respiratory status as indicated.
+- Obtain repeat vital signs as appropriate.
+- Assess patient comfort.
+- Consider secretion management.
+- Determine whether the PMV should remain in place.
+- Provide appropriate patient education.
+
+### Patient Education
+
+What would you explain to Karla before leaving the room?
+
+Consider:
+
+- Findings from today's evaluation
+- PMV use
+- Current swallowing recommendations
+- Safety precautions
+- Need for additional assessment
+- Next steps in care
+
+---
+
+## End of Bedside Evaluation
+
+Before leaving the room, discuss with your group:
+
+1. What are the **three most important findings** from today's evaluation?
+
+2. What findings increase your concern for oropharyngeal dysphagia?
+
+3. What findings support or limit continued PMV use?
+
+4. Do you have enough information to make an oral diet recommendation?
+
+5. What information remains unknown?
+
+6. Is an instrumental swallowing assessment indicated?
+
+::: {.note-box}
+## Remember
+
+A clinical swallowing evaluation provides important information about swallowing function and clinical risk, but it does not allow direct visualization of swallowing physiology.
+
+Your recommendations should reflect both **what you observed** and **what remains unknown**.
+:::
+
+---
+
+## Continue
+
+[Review Clinical Findings](findings.html)

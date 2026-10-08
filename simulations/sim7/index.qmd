@@ -1,0 +1,75 @@
+---
+title: "Simulation 7"
+---
+
+::: {.patient-banner}
+## Complex Dysphagia Evaluation
+
+Today's simulation focuses on the evaluation of a medically complex patient with a tracheostomy and suspected oropharyngeal dysphagia. Students will integrate chart review, Passy-Muir Valve (PMV) assessment, bedside swallowing evaluation, interdisciplinary information, and clinical reasoning to develop appropriate recommendations.
+:::
+
+::: {.warning}
+## SLP Task
+
+Work through each module with your group. Review the patient's medical history and interdisciplinary documentation, determine readiness for PMV evaluation, complete a PMV and clinical swallowing evaluation, and develop recommendations regarding communication, oral intake, and need for further assessment.
+:::
+
+## Learning Objectives
+
+By the end of this session, students will be able to:
+
+- Integrate medical and interdisciplinary information relevant to PMV and swallowing evaluation.
+- Determine readiness for Passy-Muir Valve assessment in a medically complex patient.
+- Conduct a focused clinical swallowing evaluation in the acute care setting.
+- Identify clinical findings associated with increased risk for oropharyngeal dysphagia.
+- Interpret bedside findings within the context of respiratory, medical, and nutritional status.
+- Identify the limitations of the clinical swallowing evaluation.
+- Determine when instrumental swallowing assessment is indicated.
+- Develop appropriate recommendations for communication, oral intake, and continued dysphagia management.
+- Document clinical findings and recommendations using professional medical terminology.
+
+---
+
+## Today's Modules
+
+### 1. Chart Review
+
+Review Karla Green's medical history, hospital course, respiratory status, and swallowing history. Identify factors that may influence today's evaluation.
+
+[Begin Chart Review](chart.html)
+
+### 2. Interdisciplinary Notes
+
+Review documentation from Respiratory Therapy, Nursing, the medical team, and other disciplines to identify information relevant to PMV candidacy and swallowing safety.
+
+[Review Interdisciplinary Notes](interdisciplinary.html)
+
+### 3. PMV & Swallowing Considerations
+
+Integrate information from the chart and interdisciplinary team to plan your evaluation and determine how PMV status may influence the swallowing assessment.
+
+[Review Evaluation Considerations](considerations.html)
+
+### 4. Clinical Evaluation
+
+Complete the PMV and clinical swallowing evaluation with your patient. Use information from the live patient encounter and available clinical findings to guide your assessment.
+
+[Begin Clinical Evaluation](evaluation.html)
+
+### 5. Clinical Findings
+
+Review and integrate findings from today's PMV and swallowing evaluation.
+
+[Review Clinical Findings](findings.html)
+
+### 6. Clinical Decision & Recommendations
+
+Determine appropriate recommendations regarding PMV use, oral intake, instrumental swallowing assessment, and continued SLP intervention.
+
+[Complete the Simulation](clinical-decision.html)
+
+### 7. Clinical Implications
+
+Reflect on the strengths and limitations of the clinical swallowing evaluation and consider how today's findings influence the next steps in Karla's care.
+
+[Clinical Implications](implications.html)

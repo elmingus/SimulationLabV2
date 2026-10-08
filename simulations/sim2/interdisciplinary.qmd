@@ -1,0 +1,72 @@
+---
+title: "Interdisciplinary Notes"
+---
+
+::: {.patient-banner}
+# Cindy Carlson
+
+**92-year-old female** | **Diagnosis:** Right MCA Ischemic Stroke | **Consult:** Cognitive-Communication Evaluation
+:::
+
+## Nursing Note
+
+::: {.note-box}
+**Time:** 0715  
+**Author:** RN
+
+Patient alert intermittently throughout morning. Oriented to name inconsistently; unable to state location or date. Frequently looks toward the right side of the room and does not attend to items placed on the left side of tray table. Requires repeated verbal cues for safety. Attempted to get out of bed without calling for assistance. Spouse at bedside and reports patient is "not acting like herself."
+:::
+
+## Occupational Therapy Note
+
+::: {.note-box}
+**OT Evaluation Summary**
+
+Patient demonstrates left-sided inattention during grooming and upper-body dressing tasks. Requires moderate cues to locate items placed on left side. Decreased awareness of left upper extremity positioning. Safety concerns noted due to reduced insight and impaired visual scanning.
+:::
+
+## Physical Therapy Note
+
+::: {.note-box}
+**PT Evaluation Summary**
+
+Patient requires assistance for transfers. Demonstrates right gaze preference and reduced awareness of left side during mobility. Increased fall risk due to poor safety awareness and reduced attention to environmental obstacles.
+:::
+
+## Physician Progress Note
+
+::: {.note-box}
+**Neurology Impression**
+
+Right MCA ischemic stroke with persistent left neglect, fluctuating orientation, and cognitive concerns. Continue medical management and rehabilitation therapies. SLP cognitive-communication evaluation requested to assist with discharge planning and functional recommendations.
+:::
+
+## Family Report
+
+::: {.info}
+Spouse reports Cindy was fully independent prior to admission, managed household routines, drove locally, gardened regularly, and participated in church activities. Spouse reports current behavior is a significant change from baseline.
+:::
+
+## SLP-Relevant Flags
+
+::: {.danger}
+Potential concerns for SLP assessment:
+
+- Fluctuating orientation
+- Left-sided neglect
+- Reduced safety awareness
+- Memory deficits for recent events
+- Possible reduced insight into deficits
+- Increased fall risk
+- Functional change from baseline
+:::
+
+## Pause and Think
+
+1. What interdisciplinary information supports the need for cognitive-communication assessment?
+2. What cognitive domains appear most relevant based on the notes?
+3. How might these findings affect safety, discharge planning, and caregiver education?
+
+## Continue
+
+[Go to Screening Readiness](readiness.qmd)

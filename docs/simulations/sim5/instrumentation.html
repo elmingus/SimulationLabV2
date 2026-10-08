@@ -1,0 +1,940 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.5.57">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Bedside Assessment and Instrumentation – UO Acute Care Simulation Lab</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../../styles.css">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../../index.html">
+    <span class="navbar-title">UO Acute Care Simulation Lab</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../simulations/sim1/index.html"> 
+<span class="menu-text">Simulation 1</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../simulations/sim2/index.html"> 
+<span class="menu-text">Simulation 2</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../simulations/sim3/index.html"> 
+<span class="menu-text">Simulation 3</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../simulations/sim4/index.html"> 
+<span class="menu-text">Simulation 4</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../simulations/sim5/index.html"> 
+<span class="menu-text">Simulation 5</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../simulations/sim6/index.html"> 
+<span class="menu-text">Simulation 6</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../simulations/sim7/index.html"> 
+<span class="menu-text">Simulation 7</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../resources/index.html"> 
+<span class="menu-text">Resources</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../instructor/index.html"> 
+<span class="menu-text">Instructor</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content column-page" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Bedside Assessment and Instrumentation</h1>
+</div>
+
+
+
+<div class="quarto-title-meta column-page">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="choosing-the-appropriate-swallowing-assessment" class="level2 patient-banner">
+<h2 class="anchored" data-anchor-id="choosing-the-appropriate-swallowing-assessment">Choosing the Appropriate Swallowing Assessment</h2>
+<p>Begin with the clinical question.</p>
+<p>Do not choose an assessment simply because it is familiar or readily available.</p>
+</section>
+<section id="slp-task" class="level2 warning">
+<h2 class="anchored" data-anchor-id="slp-task">SLP Task</h2>
+<p>For each scenario, determine whether a clinical swallow evaluation, FEES, MBSS, or a combination is most appropriate. Explain what information the selected assessment can and cannot provide.</p>
+</section>
+<section id="screening-clinical-evaluation-and-diagnosis" class="level1">
+<h1>Screening, Clinical Evaluation, and Diagnosis</h1>
+<p>These terms are related but are not interchangeable.</p>
+<section id="swallow-screening" class="level2">
+<h2 class="anchored" data-anchor-id="swallow-screening">Swallow Screening</h2>
+<p>A screening identifies patients who may be at risk for dysphagia and require further assessment.</p>
+<p>It is not a complete diagnostic evaluation.</p>
+</section>
+<section id="clinical-swallow-evaluation" class="level2">
+<h2 class="anchored" data-anchor-id="clinical-swallow-evaluation">Clinical Swallow Evaluation</h2>
+<p>A clinical swallow evaluation may include:</p>
+<ul>
+<li>Review of medical history</li>
+<li>Respiratory status</li>
+<li>Mental status</li>
+<li>Communication abilities</li>
+<li>Oral mechanism examination</li>
+<li>Secretion management</li>
+<li>Voice and cough</li>
+<li>Oral trials when appropriate</li>
+<li>Clinical recommendations</li>
+<li>Determination of whether instrumentation is indicated</li>
+</ul>
+</section>
+<section id="instrumental-assessment" class="level2">
+<h2 class="anchored" data-anchor-id="instrumental-assessment">Instrumental Assessment</h2>
+<p>Instrumental assessment allows direct observation of swallowing anatomy, bolus flow, airway invasion, residue, and the effects of selected strategies.</p>
+<p>The two primary instrumental assessments are:</p>
+<ul>
+<li>Fiberoptic Endoscopic Evaluation of Swallowing</li>
+<li>Modified Barium Swallow Study</li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="comparison-table" class="level1">
+<h1>Comparison Table</h1>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 16%">
+<col style="width: 27%">
+<col style="width: 27%">
+<col style="width: 27%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Clinical Question or Feature</th>
+<th style="text-align: center;">Clinical Swallow Evaluation</th>
+<th style="text-align: center;">FEES</th>
+<th style="text-align: center;">MBSS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Medical and swallowing history</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">Supplemental</td>
+<td style="text-align: center;">Supplemental</td>
+</tr>
+<tr class="even">
+<td>Oral mechanism examination</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">Limited</td>
+<td style="text-align: center;">Limited</td>
+</tr>
+<tr class="odd">
+<td>Alertness and ability to participate</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+</tr>
+<tr class="even">
+<td>Direct visualization of aspiration</td>
+<td style="text-align: center;">No</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+</tr>
+<tr class="odd">
+<td>Detection of silent aspiration</td>
+<td style="text-align: center;">Limited</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+</tr>
+<tr class="even">
+<td>Direct visualization of secretions</td>
+<td style="text-align: center;">No</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">No</td>
+</tr>
+<tr class="odd">
+<td>Direct visualization of vocal folds</td>
+<td style="text-align: center;">No</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">No</td>
+</tr>
+<tr class="even">
+<td>Oral phase visualization</td>
+<td style="text-align: center;">Clinical observation only</td>
+<td style="text-align: center;">Limited</td>
+<td style="text-align: center;">✓</td>
+</tr>
+<tr class="odd">
+<td>Pharyngeal phase visualization</td>
+<td style="text-align: center;">Indirect</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+</tr>
+<tr class="even">
+<td>Upper esophageal screening</td>
+<td style="text-align: center;">No</td>
+<td style="text-align: center;">No</td>
+<td style="text-align: center;">Limited</td>
+</tr>
+<tr class="odd">
+<td>Bolus flow during the swallow</td>
+<td style="text-align: center;">Indirect</td>
+<td style="text-align: center;">Interrupted by white-out</td>
+<td style="text-align: center;">✓</td>
+</tr>
+<tr class="even">
+<td>Radiation exposure</td>
+<td style="text-align: center;">No</td>
+<td style="text-align: center;">No</td>
+<td style="text-align: center;">Yes</td>
+</tr>
+<tr class="odd">
+<td>Can be completed at bedside</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">Usually no</td>
+</tr>
+<tr class="even">
+<td>Useful when transport is difficult</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">Limited</td>
+</tr>
+<tr class="odd">
+<td>May be repeated frequently</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">More limited</td>
+</tr>
+<tr class="even">
+<td>Fatigue across a meal</td>
+<td style="text-align: center;">Clinical observation</td>
+<td style="text-align: center;">Can assess extended intake</td>
+<td style="text-align: center;">Usually brief sample</td>
+</tr>
+<tr class="odd">
+<td>Biofeedback during treatment</td>
+<td style="text-align: center;">Limited</td>
+<td style="text-align: center;">✓</td>
+<td style="text-align: center;">✓</td>
+</tr>
+</tbody>
+</table>
+<hr>
+</section>
+<section id="clinical-swallow-evaluation-1" class="level1">
+<h1>Clinical Swallow Evaluation</h1>
+<section id="strengths" class="level2">
+<h2 class="anchored" data-anchor-id="strengths">Strengths</h2>
+<ul>
+<li>Available at bedside</li>
+<li>Provides essential medical and functional context</li>
+<li>Evaluates readiness and ability to participate</li>
+<li>Allows assessment of oral motor function</li>
+<li>Supports immediate clinical recommendations</li>
+<li>Helps determine whether instrumentation is necessary</li>
+</ul>
+</section>
+<section id="limitations" class="level2">
+<h2 class="anchored" data-anchor-id="limitations">Limitations</h2>
+<p>A bedside evaluation cannot directly visualize:</p>
+<ul>
+<li>Aspiration</li>
+<li>Silent aspiration</li>
+<li>Pharyngeal residue</li>
+<li>Laryngeal penetration</li>
+<li>Timing of airway invasion</li>
+<li>Pharyngeal biomechanics</li>
+</ul>
+<div class="note-box">
+<p>A patient may demonstrate aspiration without coughing or other obvious bedside signs.</p>
+</div>
+<hr>
+</section>
+</section>
+<section id="fees" class="level1">
+<h1>FEES</h1>
+<section id="fees-may-be-especially-helpful-when-you-need-to-evaluate" class="level2">
+<h2 class="anchored" data-anchor-id="fees-may-be-especially-helpful-when-you-need-to-evaluate">FEES May Be Especially Helpful When You Need To Evaluate</h2>
+<ul>
+<li>Secretion management</li>
+<li>Laryngeal anatomy</li>
+<li>Vocal fold movement</li>
+<li>Airway protection</li>
+<li>Penetration or aspiration</li>
+<li>Pharyngeal residue</li>
+<li>Fatigue across repeated trials</li>
+<li>Swallowing at bedside</li>
+<li>A patient who cannot easily leave the ICU</li>
+<li>Response to strategies without radiation exposure</li>
+<li>Changes over repeated examinations</li>
+</ul>
+</section>
+<section id="limitations-1" class="level2">
+<h2 class="anchored" data-anchor-id="limitations-1">Limitations</h2>
+<ul>
+<li>The oral phase is not directly visualized.</li>
+<li>The moment of the swallow is obscured by white-out.</li>
+<li>The cervical esophagus is not evaluated.</li>
+<li>Nasal passage of the scope may be uncomfortable.</li>
+<li>Specialized equipment and trained clinicians are required.</li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="mbss" class="level1">
+<h1>MBSS</h1>
+<section id="mbss-may-be-especially-helpful-when-you-need-to-evaluate" class="level2">
+<h2 class="anchored" data-anchor-id="mbss-may-be-especially-helpful-when-you-need-to-evaluate">MBSS May Be Especially Helpful When You Need To Evaluate</h2>
+<ul>
+<li>Oral bolus preparation and transport</li>
+<li>Timing and coordination across swallowing phases</li>
+<li>Hyolaryngeal movement</li>
+<li>Pharyngeal clearance</li>
+<li>Penetration or aspiration</li>
+<li>Timing of airway invasion</li>
+<li>Upper esophageal opening</li>
+<li>Effects of bolus volume, consistency, posture, or strategy</li>
+<li>Swallowing biomechanics across lateral and anterior-posterior views</li>
+</ul>
+</section>
+<section id="limitations-2" class="level2">
+<h2 class="anchored" data-anchor-id="limitations-2">Limitations</h2>
+<ul>
+<li>Requires radiation exposure.</li>
+<li>Usually requires transport to radiology.</li>
+<li>Represents a limited sample of swallowing performance.</li>
+<li>Secretions are not directly visualized.</li>
+<li>Vocal fold movement is not directly assessed.</li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="what-did-the-screening-review-find" class="level1">
+<h1>What Did the Screening Review Find?</h1>
+<p>The Bours systematic review examined bedside screening methods for adults with neurological disorders.</p>
+<p>Major findings included:</p>
+<ul>
+<li>Water swallow tests demonstrated variable sensitivity and specificity.</li>
+<li>Tests using several endpoints performed better than isolated clinical signs.</li>
+<li>Single findings such as an abnormal gag were generally not sufficiently accurate when used alone.</li>
+<li>The review identified a water swallow test combined with pulse oximetry and observation of coughing, choking, or voice change as the most promising screening approach among the studies reviewed.</li>
+<li>The authors emphasized the need for standardized screening and instrumental protocols.</li>
+</ul>
+<div class="warning">
+<p>This review was published in 2009 and focused primarily on screening patients with neurological disorders. It should not be interpreted as establishing pulse oximetry as a stand-alone measure of aspiration.</p>
+</div>
+<hr>
+</section>
+<section id="choose-the-assessment" class="level1">
+<h1>Choose the Assessment</h1>
+<section id="scenario-1" class="level2">
+<h2 class="anchored" data-anchor-id="scenario-1">Scenario 1</h2>
+<p>A patient in the ICU has copious secretions, a weak voice, and cannot safely leave the unit.</p>
+<details>
+<summary>
+<strong>Reveal Discussion</strong>
+</summary>
+<p><strong>FEES may be particularly useful.</strong></p>
+<p>It can be completed at bedside and allows direct assessment of secretions, laryngeal anatomy, airway protection, and pharyngeal residue.</p>
+<p>A clinical swallow evaluation remains necessary for medical context and readiness.</p>
+</details>
+<hr>
+</section>
+<section id="scenario-2" class="level2">
+<h2 class="anchored" data-anchor-id="scenario-2">Scenario 2</h2>
+<p>A patient following partial glossectomy demonstrates prolonged oral preparation and suspected reduced bolus propulsion.</p>
+<details>
+<summary>
+<strong>Reveal Discussion</strong>
+</summary>
+<p><strong>MBSS may be particularly useful</strong> when the primary question involves oral bolus preparation, oral transport, and bolus flow across swallowing phases.</p>
+<p>FEES may also provide valuable information if secretion management, laryngeal function, or bedside assessment is the primary concern.</p>
+<p>The correct selection depends on the clinical question.</p>
+</details>
+<hr>
+</section>
+<section id="scenario-3" class="level2">
+<h2 class="anchored" data-anchor-id="scenario-3">Scenario 3</h2>
+<p>A patient with acute stroke has not yet received any swallowing assessment and is alert, medically stable, and able to participate.</p>
+<details>
+<summary>
+<strong>Reveal Discussion</strong>
+</summary>
+<p>Begin with a <strong>clinical swallow evaluation</strong> unless the medical presentation or institutional pathway indicates immediate instrumentation.</p>
+<p>Use the clinical assessment to identify risks, immediate recommendations, and unanswered questions.</p>
+</details>
+<hr>
+</section>
+<section id="scenario-4" class="level2">
+<h2 class="anchored" data-anchor-id="scenario-4">Scenario 4</h2>
+<p>A patient demonstrates no coughing with liquids but has recurrent pneumonia and an unexplained oxygen requirement.</p>
+<details>
+<summary>
+<strong>Reveal Discussion</strong>
+</summary>
+<p>The absence of coughing does not rule out aspiration.</p>
+<p>Instrumentation should be considered because the bedside examination cannot reliably exclude silent aspiration.</p>
+<p>FEES or MBSS may be appropriate depending on the specific clinical question, transport feasibility, and patient status.</p>
+</details>
+<hr>
+</section>
+<section id="scenario-5" class="level2">
+<h2 class="anchored" data-anchor-id="scenario-5">Scenario 5</h2>
+<p>A patient can tolerate only several minutes of transportation and positioning but requires repeated assessment of secretion management and airway protection.</p>
+<details>
+<summary>
+<strong>Reveal Discussion</strong>
+</summary>
+<p><strong>FEES may be preferred</strong> because it can be performed at bedside, directly visualizes secretions, and can be repeated without radiation exposure.</p>
+</details>
+<hr>
+</section>
+<section id="clinical-pearl" class="level2 note-box">
+<h2 class="anchored" data-anchor-id="clinical-pearl">Clinical Pearl</h2>
+<p>Instrumentation should answer a question that cannot be answered through bedside assessment alone.</p>
+</section>
+<hr>
+<section id="continue" class="level2">
+<h2 class="anchored" data-anchor-id="continue">Continue</h2>
+<p><a href="fees-demo.html">FEES Demonstration</a></p>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

@@ -1,0 +1,55 @@
+---
+title: "Clinical Decision"
+---
+
+::: {.patient-banner}
+# James Walker
+
+**76-year-old male** | **MRN:** 482918 | **Location:** ICU Bed 12 | **Diet:** NPO
+:::
+
+## Clinical Readiness Summary
+
+Based on chart review, vital signs, and bedside presentation, Mr. Walker is **not currently appropriate** for a full clinical swallowing evaluation or PO trials.
+
+Key factors include:
+
+- Acute large left MCA stroke
+- Reduced level of alertness
+- Inconsistent command following
+- Poor secretion management
+- Inability to participate in complete oral mechanism examination
+- Elevated blood pressure and ongoing medical monitoring
+
+::: {.danger}
+**Clinical decision:** Defer PO trials and continue NPO at this time.
+:::
+
+## Recommendations
+
+Recommend:
+
+- Continue NPO
+- Frequent oral care
+- Medications via alternate route as medically appropriate
+- Continued monitoring of neurological and respiratory status
+- Re-attempt SLP evaluation when alertness and medical stability improve
+- Communicate findings with nursing and medical team
+
+## Documentation Prompt
+
+Use the SOAP template to document your findings.
+
+### Assessment Starter
+
+Patient presents with suspected severe dysphagia risk in the setting of acute left MCA stroke, characterized by reduced alertness, inconsistent command following, poor secretion management, and inability to participate in formal oral mechanism or swallowing evaluation.
+
+## Reflection Questions
+
+1. What information most influenced your clinical decision-making?
+2. What is one aspect of this case that felt clear, and one aspect that felt uncertain?
+3. How would you explain to the medical team why PO trials were not completed today?
+
+## Navigation
+
+[← Back: Bedside Contact](bedside.qmd) | [Return to Simulation Overview](index.qmd)

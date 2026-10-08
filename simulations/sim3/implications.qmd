@@ -1,0 +1,59 @@
+---
+title: "Functional Implications"
+---
+
+::: {.patient-banner}
+# Steven "Steve" Thompson
+
+**Focus:** Language and Functional Communication
+:::
+
+## Connecting Language to Daily Function
+
+Following completion of the Quick Aphasia Battery, consider how Steve's communication abilities may influence daily participation and discharge planning.
+
+## Functional Communication Guide
+
+| Language Domain | Possible Functional Impact |
+|------|----------------------------|
+| Auditory Comprehension | Difficulty understanding medical information and multi-step directions |
+| Verbal Expression | Difficulty communicating wants, needs, and concerns |
+| Naming | Increased pauses and frustration during conversation |
+| Repetition | Difficulty repeating unfamiliar medical terminology |
+| Reading | Difficulty interpreting discharge paperwork or medication instructions |
+| Writing | Difficulty completing written forms or communicating by writing |
+
+::: {.warning}
+
+Aphasia affects language—not intelligence. Communication supports should maximize participation while preserving patient autonomy.
+
+:::
+
+## Clinical Impression Prompts
+
+Following the QAB, consider:
+
+1. Which language domains appear most impaired?
+
+2. How may these deficits affect safety during hospitalization?
+
+3. What communication supports should staff and family use?
+
+4. What recommendations would you include in your documentation?
+
+## Possible Recommendations
+
+- Continue speech-language pathology intervention.
+- Educate staff regarding supported communication strategies.
+- Encourage use of multimodal communication.
+- Provide written information in simplified format.
+- Include family in communication strategy education.
+- Recommend continued outpatient or inpatient language therapy as appropriate.
+
+::: {.info}
+
+**Clinical Takeaway**
+
+Assessment results should extend beyond test scores to describe how language deficits affect meaningful participation in everyday communication.
+
+:::

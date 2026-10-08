@@ -1,0 +1,266 @@
+---
+title: "Bedside Assessment and Instrumentation"
+---
+
+::: {.patient-banner}
+## Choosing the Appropriate Swallowing Assessment
+
+Begin with the clinical question.
+
+Do not choose an assessment simply because it is familiar or readily available.
+:::
+
+::: {.warning}
+## SLP Task
+
+For each scenario, determine whether a clinical swallow evaluation, FEES, MBSS, or a combination is most appropriate. Explain what information the selected assessment can and cannot provide.
+:::
+
+# Screening, Clinical Evaluation, and Diagnosis
+
+These terms are related but are not interchangeable.
+
+## Swallow Screening
+
+A screening identifies patients who may be at risk for dysphagia and require further assessment.
+
+It is not a complete diagnostic evaluation.
+
+## Clinical Swallow Evaluation
+
+A clinical swallow evaluation may include:
+
+- Review of medical history
+- Respiratory status
+- Mental status
+- Communication abilities
+- Oral mechanism examination
+- Secretion management
+- Voice and cough
+- Oral trials when appropriate
+- Clinical recommendations
+- Determination of whether instrumentation is indicated
+
+## Instrumental Assessment
+
+Instrumental assessment allows direct observation of swallowing anatomy, bolus flow, airway invasion, residue, and the effects of selected strategies.
+
+The two primary instrumental assessments are:
+
+- Fiberoptic Endoscopic Evaluation of Swallowing
+- Modified Barium Swallow Study
+
+---
+
+# Comparison Table
+
+| Clinical Question or Feature | Clinical Swallow Evaluation | FEES | MBSS |
+|---|:---:|:---:|:---:|
+| Medical and swallowing history | ✓ | Supplemental | Supplemental |
+| Oral mechanism examination | ✓ | Limited | Limited |
+| Alertness and ability to participate | ✓ | ✓ | ✓ |
+| Direct visualization of aspiration | No | ✓ | ✓ |
+| Detection of silent aspiration | Limited | ✓ | ✓ |
+| Direct visualization of secretions | No | ✓ | No |
+| Direct visualization of vocal folds | No | ✓ | No |
+| Oral phase visualization | Clinical observation only | Limited | ✓ |
+| Pharyngeal phase visualization | Indirect | ✓ | ✓ |
+| Upper esophageal screening | No | No | Limited |
+| Bolus flow during the swallow | Indirect | Interrupted by white-out | ✓ |
+| Radiation exposure | No | No | Yes |
+| Can be completed at bedside | ✓ | ✓ | Usually no |
+| Useful when transport is difficult | ✓ | ✓ | Limited |
+| May be repeated frequently | ✓ | ✓ | More limited |
+| Fatigue across a meal | Clinical observation | Can assess extended intake | Usually brief sample |
+| Biofeedback during treatment | Limited | ✓ | ✓ |
+
+---
+
+# Clinical Swallow Evaluation
+
+## Strengths
+
+- Available at bedside
+- Provides essential medical and functional context
+- Evaluates readiness and ability to participate
+- Allows assessment of oral motor function
+- Supports immediate clinical recommendations
+- Helps determine whether instrumentation is necessary
+
+## Limitations
+
+A bedside evaluation cannot directly visualize:
+
+- Aspiration
+- Silent aspiration
+- Pharyngeal residue
+- Laryngeal penetration
+- Timing of airway invasion
+- Pharyngeal biomechanics
+
+::: {.note-box}
+A patient may demonstrate aspiration without coughing or other obvious bedside signs.
+:::
+
+---
+
+# FEES
+
+## FEES May Be Especially Helpful When You Need To Evaluate
+
+- Secretion management
+- Laryngeal anatomy
+- Vocal fold movement
+- Airway protection
+- Penetration or aspiration
+- Pharyngeal residue
+- Fatigue across repeated trials
+- Swallowing at bedside
+- A patient who cannot easily leave the ICU
+- Response to strategies without radiation exposure
+- Changes over repeated examinations
+
+## Limitations
+
+- The oral phase is not directly visualized.
+- The moment of the swallow is obscured by white-out.
+- The cervical esophagus is not evaluated.
+- Nasal passage of the scope may be uncomfortable.
+- Specialized equipment and trained clinicians are required.
+
+---
+
+# MBSS
+
+## MBSS May Be Especially Helpful When You Need To Evaluate
+
+- Oral bolus preparation and transport
+- Timing and coordination across swallowing phases
+- Hyolaryngeal movement
+- Pharyngeal clearance
+- Penetration or aspiration
+- Timing of airway invasion
+- Upper esophageal opening
+- Effects of bolus volume, consistency, posture, or strategy
+- Swallowing biomechanics across lateral and anterior-posterior views
+
+## Limitations
+
+- Requires radiation exposure.
+- Usually requires transport to radiology.
+- Represents a limited sample of swallowing performance.
+- Secretions are not directly visualized.
+- Vocal fold movement is not directly assessed.
+
+---
+
+# What Did the Screening Review Find?
+
+The Bours systematic review examined bedside screening methods for adults with neurological disorders.
+
+Major findings included:
+
+- Water swallow tests demonstrated variable sensitivity and specificity.
+- Tests using several endpoints performed better than isolated clinical signs.
+- Single findings such as an abnormal gag were generally not sufficiently accurate when used alone.
+- The review identified a water swallow test combined with pulse oximetry and observation of coughing, choking, or voice change as the most promising screening approach among the studies reviewed.
+- The authors emphasized the need for standardized screening and instrumental protocols.
+
+::: {.warning}
+This review was published in 2009 and focused primarily on screening patients with neurological disorders. It should not be interpreted as establishing pulse oximetry as a stand-alone measure of aspiration.
+:::
+
+---
+
+# Choose the Assessment
+
+## Scenario 1
+
+A patient in the ICU has copious secretions, a weak voice, and cannot safely leave the unit.
+
+<details>
+<summary><strong>Reveal Discussion</strong></summary>
+
+**FEES may be particularly useful.**
+
+It can be completed at bedside and allows direct assessment of secretions, laryngeal anatomy, airway protection, and pharyngeal residue.
+
+A clinical swallow evaluation remains necessary for medical context and readiness.
+
+</details>
+
+---
+
+## Scenario 2
+
+A patient following partial glossectomy demonstrates prolonged oral preparation and suspected reduced bolus propulsion.
+
+<details>
+<summary><strong>Reveal Discussion</strong></summary>
+
+**MBSS may be particularly useful** when the primary question involves oral bolus preparation, oral transport, and bolus flow across swallowing phases.
+
+FEES may also provide valuable information if secretion management, laryngeal function, or bedside assessment is the primary concern.
+
+The correct selection depends on the clinical question.
+
+</details>
+
+---
+
+## Scenario 3
+
+A patient with acute stroke has not yet received any swallowing assessment and is alert, medically stable, and able to participate.
+
+<details>
+<summary><strong>Reveal Discussion</strong></summary>
+
+Begin with a **clinical swallow evaluation** unless the medical presentation or institutional pathway indicates immediate instrumentation.
+
+Use the clinical assessment to identify risks, immediate recommendations, and unanswered questions.
+
+</details>
+
+---
+
+## Scenario 4
+
+A patient demonstrates no coughing with liquids but has recurrent pneumonia and an unexplained oxygen requirement.
+
+<details>
+<summary><strong>Reveal Discussion</strong></summary>
+
+The absence of coughing does not rule out aspiration.
+
+Instrumentation should be considered because the bedside examination cannot reliably exclude silent aspiration.
+
+FEES or MBSS may be appropriate depending on the specific clinical question, transport feasibility, and patient status.
+
+</details>
+
+---
+
+## Scenario 5
+
+A patient can tolerate only several minutes of transportation and positioning but requires repeated assessment of secretion management and airway protection.
+
+<details>
+<summary><strong>Reveal Discussion</strong></summary>
+
+**FEES may be preferred** because it can be performed at bedside, directly visualizes secretions, and can be repeated without radiation exposure.
+
+</details>
+
+---
+
+::: {.note-box}
+## Clinical Pearl
+
+Instrumentation should answer a question that cannot be answered through bedside assessment alone.
+:::
+
+---
+
+## Continue
+
+[FEES Demonstration](fees-demo.html)

@@ -1,0 +1,225 @@
+---
+title: "Case C: Spanish-Speaking Patient"
+---
+
+::: {.patient-banner}
+# Rosa Martínez
+
+**63-year-old female** | **Consult:** AAC Evaluation
+:::
+
+::: {.warning}
+
+**SLP Task:** Review the patient information below and determine the most appropriate communication and language-access supports to facilitate functional communication in the acute care setting.
+
+:::
+
+## Patient Snapshot
+
+| Patient Information | Details |
+|---|---|
+| Name | Rosa Martínez |
+| Age | 63 |
+| Admitting Diagnosis | Community-acquired pneumonia |
+| Current Setting | Acute Care Medical Unit |
+| Communication Status | Verbal in Spanish |
+| English Proficiency | Minimal |
+| Motor Status | Able to point and gesture |
+| Vision | Functional |
+| Hearing | No known impairment |
+| Cognitive Status | Alert; formal cognitive status not yet established |
+| Preferred Language | Spanish |
+| Family | Adult son listed as emergency contact |
+
+## Chief Concern
+
+::: {.note-box}
+
+The patient has attempted to communicate several needs to staff. Staff believe she may be indicating:
+
+- Hunger
+- Feeling cold
+- Itching
+- A desire to contact her family
+
+The patient appears frustrated when staff do not understand her. A family member has occasionally interpreted by telephone, but a qualified medical interpreter has not consistently been available during routine care.
+
+:::
+
+::: {.warning}
+
+**Language Difference Is Not a Communication Disorder:** Limited English proficiency should not be interpreted as aphasia, cognitive impairment, confusion, or reduced decision-making capacity.
+
+:::
+
+## Step 1: Identify the Communication Barrier
+
+Consider:
+
+- Does the patient have a communication impairment, a language-access barrier, or both?
+- Is a qualified medical interpreter required?
+- What information can be supported temporarily through pictures or gestures?
+- Which conversations should not rely solely on a picture board?
+- Is the patient able to read in Spanish?
+- Are cultural and dialect differences relevant?
+- Has the patient's preferred language been documented?
+
+## Step 2: Establish Immediate Functional Communication
+
+Use appropriate temporary supports to determine whether the patient is:
+
+- Hungry
+- Thirsty
+- Cold
+- Hot
+- Itching
+- In pain
+- Short of breath
+- In need of toileting assistance
+- Requesting family
+- Requesting nursing assistance
+
+Possible supports include:
+
+- Picture symbols
+- Spanish-language written choices
+- Gestures
+- Demonstration
+- Yes/no questions interpreted by a qualified interpreter
+- A bilingual basic-needs board
+- Pointing to body parts
+- A pain scale adapted to the patient's language and literacy level
+
+## Step 3: Consider Interpreter Use
+
+A qualified medical interpreter should be used for:
+
+- Medical history
+- Informed consent
+- Discussion of diagnosis or prognosis
+- Complex symptom descriptions
+- Treatment education
+- Decision-making
+- Discharge planning
+- Formal assessment
+- Conversations involving risk or safety
+
+A family member should not routinely replace a qualified interpreter for medical communication.
+
+::: {.note-box}
+
+AAC may supplement language access, but it does not replace a qualified medical interpreter.
+
+:::
+
+## Step 4: Evaluate AAC Access
+
+Determine whether the patient can:
+
+- Point accurately to pictures
+- Match a picture to a spoken Spanish word
+- Read basic Spanish words
+- Answer yes/no questions in Spanish
+- Use gestures consistently
+- Navigate a small field of choices
+- Use a telephone or tablet
+- Communicate preferences with an interpreter present
+
+Consider whether the board should include:
+
+- Pictures only
+- Spanish words
+- Spanish and English words
+- A pain scale
+- Body-part images
+- Family and telephone icons
+- Food and drink choices
+- Temperature and comfort needs
+
+## Step 5: Address Immediate Needs
+
+The patient appears to communicate that:
+
+- She is cold.
+- She is hungry.
+- Her arm is itching.
+- She wants to call her son.
+
+Determine the appropriate follow-up.
+
+| Patient Need | Appropriate Follow-Up |
+|---|---|
+| Cold | Notify nursing and assist with comfort measures |
+| Hunger | Confirm diet status with nursing before offering food |
+| Itching | Notify nursing for assessment |
+| Call family | Confirm consent and assist with contact |
+| Medical questions | Obtain a qualified interpreter |
+
+::: {.warning}
+
+**Immediate Clinical Concern:** Do not provide food or drink until the patient's diet status and swallowing recommendations have been confirmed.
+
+:::
+
+## Step 6: Interdisciplinary Coordination
+
+Potential team members include:
+
+- Qualified medical interpreter
+- Nursing
+- Physician or advanced practice provider
+- Dietary services
+- Respiratory therapy
+- Family
+- Case management
+- Speech-language pathology
+
+Staff education may include:
+
+- Document the patient's preferred language.
+- Use a qualified interpreter for medical discussions.
+- Keep the bilingual basic-needs board within reach.
+- Speak directly to the patient, not to the interpreter.
+- Use short, clear messages.
+- Allow additional response time.
+- Confirm meaning rather than assuming.
+- Avoid treating language difference as cognitive impairment.
+
+## Documentation Task
+
+Complete a SOAP note that includes:
+
+- The patient's preferred language
+- Communication barriers observed
+- Interpreter use
+- Functional communication abilities
+- AAC supports trialed
+- Patient response
+- Immediate needs communicated
+- Education provided to staff
+- Recommendations for language access and follow-up
+
+## Reflection Questions
+
+1. How did you distinguish a language-access barrier from a possible communication disorder?
+
+2. Which AAC resources were most effective for supporting immediate basic needs?
+
+3. Which aspects of this patient's care require a qualified medical interpreter rather than a communication board or family member?
+
+<details>
+<summary><strong>Reveal Example Clinical Reasoning</strong></summary>
+
+The patient is verbally communicative in Spanish. The immediate barrier is limited shared language between the patient and staff rather than confirmed speech, language, or cognitive impairment.
+
+A bilingual picture-and-word board may help the patient communicate urgent basic needs such as pain, temperature, hunger, toileting, itching, and family contact. However, this board should supplement rather than replace a qualified medical interpreter.
+
+A qualified interpreter is necessary for formal assessment, medical education, informed consent, complex symptom discussion, and care planning.
+
+The patient's request for food should be communicated to nursing, and diet status should be confirmed before food or drink is provided. Nursing should also address itching and comfort needs. With consent, staff may help the patient contact her son.
+
+</details>
+
+## Continue
+
+[Go to Case D](case-d.html)

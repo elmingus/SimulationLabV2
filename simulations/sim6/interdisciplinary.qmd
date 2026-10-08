@@ -1,0 +1,98 @@
+---
+title: "Interdisciplinary Notes"
+---
+
+::: {.patient-banner}
+# Interdisciplinary Documentation
+
+Review documentation from the healthcare team before determining whether Jane is an appropriate candidate for a Passy-Muir Valve (PMV) evaluation.
+:::
+
+## Respiratory Therapy
+
+::: {.note-box}
+
+**08:15**
+
+**Trach:** Shiley 6 cuffed tracheostomy (deflatable cuff)
+
+- Patient continues daytime tracheostomy collar trials on humidified oxygen (28% FiO₂).
+- Baseline SpO₂ ranges from **93–95%** at rest.
+- Cuff deflation trials have been completed without significant desaturation.
+- Moderate thin secretions present; patient demonstrates an effective cough and independently clears secretions.
+- Mild dyspnea noted with prolonged activity.
+- Respiratory Therapy available to assist with cuff deflation and PMV evaluation as requested by Speech-Language Pathology.
+
+:::
+
+---
+
+## Nursing
+
+::: {.note-box}
+
+**09:00**
+
+Patient is awake, alert, and oriented ×3.
+
+Communicates primarily through mouthing words, gestures, and written communication.
+
+Patient frequently attempts to vocalize and expresses frustration regarding inability to communicate with family and staff.
+
+No acute respiratory distress observed while resting in bed.
+
+Patient remains cooperative with care.
+
+:::
+
+---
+
+## Pulmonology
+
+::: {.note-box}
+
+Patient is recovering following acute respiratory failure secondary to COPD exacerbation requiring prolonged intubation.
+
+Successfully weaned from daytime mechanical ventilation.
+
+Continue pulmonary rehabilitation, secretion management, and tracheostomy weaning protocol.
+
+No pulmonary contraindication to PMV evaluation at this time. Recommend close monitoring for increased work of breathing, air trapping, or oxygen desaturation during the initial speaking valve trial.
+
+:::
+
+---
+
+## Physical Therapy
+
+::: {.note-box}
+
+Patient ambulated approximately 100 feet with a rolling walker.
+
+Required one seated rest break due to mild shortness of breath. Oxygen saturation remained above 92% throughout therapy.
+
+Patient follows commands appropriately and demonstrates good participation during therapy sessions.
+
+Endurance continues to improve with rehabilitation.
+
+:::
+
+---
+
+## Clinical Reasoning
+
+Discuss the following with your group before proceeding:
+
+1. What findings support Jane's candidacy for a PMV evaluation?
+
+2. Which aspects of her medical history or respiratory status require additional caution?
+
+3. Which members of the interdisciplinary team should be involved during the PMV evaluation?
+
+4. Based on the available information, would you proceed with a PMV evaluation today? Why or why not?
+
+5. If Jane demonstrates poor tolerance during today's trial, what recommendations would you make regarding future reassessment?
+
+---
+
+[Continue to PMV Fundamentals](pmv-basics.html)

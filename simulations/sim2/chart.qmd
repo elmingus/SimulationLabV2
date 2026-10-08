@@ -1,0 +1,96 @@
+---
+title: "Chart Review"
+---
+
+::: {.patient-banner}
+# Cindy Carlson
+
+**92-year-old female** | **DOB:** 09/10/1932 | **Diagnosis:** Right MCA Ischemic Stroke
+:::
+
+::: {.warning}
+**SLP Task:** Review the chart and identify information relevant to cognitive-communication assessment, safety, functional participation, and discharge planning.
+:::
+
+## Patient Snapshot
+
+| Field | Information |
+|---|---|
+| Name | Cindy Carlson |
+| DOB | 09/10/1932 |
+| Sex | Female |
+| Date of Admission | 10/12/2024 |
+| Symptom Onset | 10/11/2024 |
+| Primary Diagnosis | Right MCA ischemic stroke |
+| Reason for SLP Consult | Cognitive-communication evaluation |
+| Prior Level of Function | Independent with ADLs, cognitively intact |
+
+## Chief Concern
+
+::: {.note-box}
+Left-sided neglect, right gaze preference, fluctuating orientation, memory concerns, and difficulty with speech characterized by phonemic paraphasias.
+:::
+
+## History of Present Illness
+
+::: {.note-box}
+Cindy Carlson presented to the emergency department with sudden onset confusion, left-sided weakness, and difficulty speaking. Symptoms began approximately two hours prior to arrival. Initial imaging revealed an acute ischemic stroke affecting the right MCA territory.
+
+Current clinical concerns include left-sided neglect, right gaze preference, fluctuating orientation, memory deficits for recent events, and reduced functional awareness.
+:::
+
+## Imaging / Testing
+
+| Test | Findings |
+|---|---|
+| CT Head | Acute infarct in the right MCA distribution |
+| MRI Brain | Ischemic stroke involving right temporal and parietal lobes |
+| Carotid Doppler | Moderate stenosis of right internal carotid artery |
+| Echocardiogram | No evidence of embolic source |
+
+## Past Medical History
+
+| Condition | Status |
+|---|---|
+| Type 2 diabetes mellitus | Active |
+| Hypertension | Active |
+| Hyperlipidemia | Active |
+
+## Medications
+
+| Medication | Dose / Frequency | Clinical Relevance |
+|---|---|---|
+| Aspirin | 81 mg daily | Stroke prevention |
+| Atorvastatin | 40 mg daily | Hyperlipidemia / stroke prevention |
+| Lisinopril | 20 mg daily | Blood pressure management |
+| Metformin | 500 mg twice daily | Diabetes management |
+| Clopidogrel | 75 mg daily | Antiplatelet therapy |
+
+## Social History
+
+| Area | Information |
+|---|---|
+| Occupation | Retired elementary school teacher |
+| Living Situation | Lives with spouse; married 50 years |
+| Substance Use | Non-smoker; no alcohol use reported |
+| Interests | Gardening, church community |
+
+## Medical Assessment / Plan
+
+::: {.info}
+**Right MCA ischemic stroke:** Continue medical management and monitor neurological status.  
+**Left-sided neglect:** Occupational therapy to address visual-spatial deficits.  
+**Cognitive deficits:** Cognitive therapy and monitoring.  
+**Discharge planning:** Anticipate rehabilitation needs and arrange family education with spouse.
+:::
+
+## Chart Review Questions
+
+1. What findings suggest possible cognitive-communication impairment?
+2. What information is most relevant to determining whether Cindy is appropriate for MoCA administration?
+3. What functional activities may be impacted by right hemisphere stroke?
+4. What questions would you ask nursing, OT, PT, or the spouse before completing the assessment?
+
+## Continue
+
+[Go to Interdisciplinary Notes](interdisciplinary.qmd)

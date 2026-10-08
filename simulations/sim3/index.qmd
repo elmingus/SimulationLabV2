@@ -1,0 +1,99 @@
+---
+title: "Simulation 3: Aphasia Assessment"
+---
+
+::: {.patient-banner}
+# Steven "Steve" Thompson
+
+**54-year-old male** | **DOB:** 02/14/1994 | **Location:** Acute Care / Medical Unit
+
+::: {.banner-grid}
+::: {.banner-item}
+**Hospital Day**
+1
+:::
+
+::: {.banner-item}
+**Primary Diagnosis**
+Fall with history of Left CVA
+:::
+
+::: {.banner-item}
+**Consult**
+SLP Language Evaluation
+:::
+
+::: {.banner-item}
+**Prior Function**
+Independent with Family Support
+:::
+:::
+:::
+
+## Simulation 3: Aphasia Assessment
+
+This simulation focuses on reviewing the medical chart, identifying communication barriers following a left hemisphere stroke, and preparing to administer a language assessment.
+
+::: {.warning}
+**Clinical Task:** Determine whether Steve is appropriate for language assessment, identify communication supports, and prepare to administer the Quick Aphasia Battery (QAB) during simulation.
+:::
+
+## Learning Focus
+
+Students will:
+
+- Review relevant medical information for a language evaluation.
+- Identify characteristics associated with aphasia.
+- Determine appropriate communication strategies prior to assessment.
+- Interpret interdisciplinary documentation.
+- Connect language deficits to functional communication.
+
+## Simulation Workflow
+
+::: {.card-grid}
+
+::: {.chart-card}
+### 📋 Step 1
+
+## Chart Review
+
+Review Steve's medical history, current hospitalization, medications, and reason for consult.
+
+[Begin Chart Review](chart.html)
+
+:::
+
+::: {.chart-card}
+### 🏥 Step 2
+
+## Interdisciplinary Notes
+
+Review documentation from nursing, PT, OT, and the physician.
+
+[Review Notes](interdisciplinary.html)
+
+:::
+
+::: {.chart-card}
+### 💬 Step 3
+
+## Communication Considerations
+
+Plan how to communicate effectively before beginning language assessment.
+
+[Communication Strategies](communication.html)
+
+:::
+
+::: {.chart-card}
+### 🧠 Step 4
+
+## Functional Implications
+
+Relate language deficits to daily communication and discharge planning.
+
+[Functional Implications](implications.html)
+
+:::
+
+:::

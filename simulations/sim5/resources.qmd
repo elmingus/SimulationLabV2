@@ -1,0 +1,146 @@
+---
+title: "Simulation 5 Resources"
+---
+
+::: {.patient-banner}
+## Additional Acute Care Skills Resources
+
+Use these resources to review the evidence and continue developing skills in dysphagia assessment and management.
+:::
+
+# Assigned Readings
+
+## Dysphagia Treatment
+
+Duncan, S., McAuley, D. F., Walshe, M., McGaughey, J., Anand, R., Fallis, R., & Blackwood, B. (2020). Interventions for oropharyngeal dysphagia in acute and critical care: A systematic review and meta-analysis. *Intensive Care Medicine, 46*, 1326–1338.
+
+[View the article DOI](https://doi.org/10.1007/s00134-020-06126-y)
+
+### Review Questions
+
+1. What patient populations were represented in the review?
+2. Which outcomes demonstrated a statistically significant benefit?
+3. How strong was the certainty of evidence?
+4. Why are the results difficult to generalize to all ICU patients?
+5. Which interventions were identified as biologically plausible for critically ill patients?
+6. What patient-centered outcomes should future studies include?
+
+---
+
+## Bedside Screening and Instrumentation
+
+Bours, G. J. J. W., Speyer, R., Lemmens, J., Limburg, M., & de Wit, R. (2009). Bedside screening tests versus videofluoroscopy or fibreoptic endoscopic evaluation of swallowing to detect dysphagia in patients with neurological disorders: Systematic review. *Journal of Advanced Nursing, 65*(3), 477–493.
+
+[View the article DOI](https://doi.org/10.1111/j.1365-2648.2008.04915.x)
+
+### Review Questions
+
+1. What is the difference between a screening test and a diagnostic assessment?
+2. Why were the study results not statistically pooled?
+3. Which bedside findings performed poorly when used alone?
+4. Why is high sensitivity important in dysphagia screening?
+5. What limitations should be considered when applying this review today?
+
+---
+
+# FEES Learning
+
+FEES competency requires formal education, direct instruction, supervised practice, and demonstration of clinical competence.
+
+Students should not independently perform FEES based solely on observation of today’s demonstration.
+
+Potential areas for continued learning include:
+
+- FEES indications and contraindications
+- Endoscopic anatomy
+- Scope handling
+- Nasal passage
+- Secretion rating
+- Penetration-Aspiration Scale scoring
+- Residue rating
+- Interpretation of white-out
+- Medical emergency procedures
+- Infection prevention
+- Documentation
+- Billing and institutional credentialing
+
+---
+
+# Suggested Training Programs to Explore
+
+Programs and availability may change. Review each organization’s current training structure, prerequisites, and supervised practice requirements.
+
+## Oregon Health & Science University
+
+Explore FEES-related continuing education and clinical training opportunities available through OHSU or affiliated programs in Portland, Oregon.
+
+## Southeastern Association for Swallowing and Swallowing Disorders
+
+Explore FEES education and competency-based training opportunities offered through swallowing-focused professional programs.
+
+## Professional Continuing Education
+
+Additional FEES courses may be available through:
+
+- University medical centers
+- Professional swallowing organizations
+- Hospital-based competency programs
+- Continuing education providers
+- FEES equipment manufacturers
+
+Completion of a course does not automatically establish independent competency or institutional privileges.
+
+---
+
+# Additional Topics for Review
+
+## Oral Care
+
+Review:
+
+- Relationship between oral health and pneumonia risk
+- Oral care for NPO patients
+- Oral care in patients requiring oxygen or ventilation
+- Suction toothbrush use
+- Interprofessional responsibility for oral hygiene
+
+## Tracheostomy
+
+Review:
+
+- Tracheostomy components
+- Cuff status
+- Airflow and phonation
+- Speaking valve candidacy
+- Secretion management
+- Effects of respiratory status on swallowing assessment
+
+## Instrumentation
+
+Review:
+
+- FEES indications and limitations
+- MBSS indications and limitations
+- Penetration-Aspiration Scale
+- Secretion severity ratings
+- Pharyngeal residue ratings
+- IDDSI testing methods
+
+---
+
+# Simulation 5 Takeaways
+
+- A focused oral mechanism examination contributes important information but does not independently determine swallowing safety.
+- Single clinical findings should not be interpreted in isolation.
+- Bedside assessment and instrumental assessment answer different clinical questions.
+- FEES and MBSS each provide unique information.
+- Dysphagia treatment should target an identified impairment or functional problem.
+- Evidence for specific treatments in acute and critical care remains limited.
+- Medical stability, cognition, endurance, and patient goals must guide treatment planning.
+- Clinical recommendations should clearly distinguish observed findings from clinical inference.
+
+---
+
+## Return to Simulation Overview
+
+[Return to Simulation 5](index.html)

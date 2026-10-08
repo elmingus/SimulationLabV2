@@ -1,0 +1,108 @@
+---
+title: "Chart Review"
+---
+
+::: {.patient-banner}
+# Jane Ellis
+
+**74-year-old female** | **Consult:** Passy-Muir Valve Evaluation
+:::
+
+::: {.warning}
+**SLP Task:** Review the medical chart and identify information relevant to determining Jane’s candidacy for a Passy-Muir Valve evaluation.
+:::
+
+## Patient Snapshot
+
+| Field | Information |
+|------|-------------|
+| Name | Jane Ellis |
+| Age | 74 |
+| Setting | Acute care hospital, medical-surgical floor |
+| Primary Diagnosis | COPD exacerbation |
+| Recent Hospital Course | Acute respiratory failure requiring prolonged intubation |
+| Tracheostomy Status | Two weeks post-placement |
+| SLP Referral | Evaluation for voicing and Passy-Muir Valve tolerance |
+
+## Chief Concern
+
+::: {.note-box}
+
+Jane was admitted with an acute exacerbation of chronic obstructive pulmonary disease and developed respiratory failure requiring a 10-day intubation. Due to continued ventilator dependence, a tracheostomy was placed.
+
+Jane is now off the ventilator during daytime hours and communicates by mouthing words and writing. She reports significant frustration related to her inability to speak. Speech-Language Pathology was consulted to evaluate her potential for voicing and tolerance of a Passy-Muir Valve.
+
+:::
+
+## Past Medical History
+
+| Condition | Status |
+|------|---------|
+| Chronic Obstructive Pulmonary Disease | Diagnosed 15 years ago |
+| Hypertension | Chronic |
+| Gastroesophageal Reflux Disease | Chronic |
+| Tobacco Use | 40 pack-year history; quit 10 years ago |
+| Acute Respiratory Failure | Recent |
+| Prolonged Intubation | 10 days |
+| Tracheostomy Placement | Two weeks ago |
+
+## Current Respiratory Status
+
+| Area | Information |
+|------|-------------|
+| Tracheostomy Tube | Shiley 6 cuffed tracheostomy |
+| Cuff | Deflatable |
+| Ventilator Status | Off ventilator during daytime hours |
+| Oxygen Delivery | Humidified trach collar |
+| FiO₂ | 28% |
+| Baseline O₂ Saturation | Approximately 93–95% |
+| Cuff Deflation Trials | Attempted by Respiratory Therapy without significant desaturation |
+| Pulmonary Care | Chest physiotherapy and pulmonary rehabilitation ongoing |
+
+## Current Communication
+
+| Area | Information |
+|------|-------------|
+| Alertness | Awake and alert |
+| Orientation | Oriented to person, place, and time |
+| Current Communication | Mouthing words and writing |
+| Primary Concern | Frustration related to inability to speak |
+| Verbal Output | Unable to produce functional voice with open tracheostomy |
+
+## Nutrition and Swallowing
+
+| Area | Information |
+|------|-------------|
+| Diet Status | NPO |
+| Swallow Evaluation | Pending |
+| SLP Orders | PMV evaluation, voicing assessment, and monitoring during trial |
+
+## SLP Orders
+
+- Evaluate candidacy for Passy-Muir Valve use
+- Assess potential for functional voicing
+- Monitor respiratory status during PMV trial
+- Assess secretion management
+- Determine appropriate next steps for voice and swallowing evaluation
+
+## Chart Review Questions
+
+1. What information in Jane’s chart supports proceeding with a PMV evaluation?
+
+2. What information may increase the risk of poor PMV tolerance?
+
+3. Why must the tracheostomy cuff be completely deflated before PMV placement?
+
+4. How might Jane’s COPD affect her ability to tolerate a PMV?
+
+5. What additional information should the SLP obtain before attempting placement?
+
+6. Which members of the interdisciplinary team should be involved in the evaluation?
+
+::: {.warning}
+Do not proceed with PMV placement until you have reviewed Jane’s respiratory status, tracheostomy characteristics, cuff status, and upper-airway patency.
+:::
+
+## Continue
+
+[Go to Interdisciplinary Notes](interdisciplinary.html)

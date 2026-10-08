@@ -1,0 +1,83 @@
+---
+title: "PMV Fundamentals"
+---
+
+::: {.patient-banner}
+# PMV Fundamentals
+
+Before beginning today's evaluation, review the principles that guide safe Passy-Muir Valve use.
+:::
+
+## Purpose of a PMV
+
+The Passy-Muir Valve is a **one-way speaking valve** that allows:
+
+- Improved verbal communication
+- Restoration of upper airway airflow
+- Improved cough effectiveness
+- Improved secretion management
+- Potential improvements in swallowing
+- Improved quality of life
+
+---
+
+## PMV Prerequisites
+
+Patients should generally demonstrate:
+
+✔ Medical stability
+
+✔ Awake and alert
+
+✔ Deflated cuff
+
+✔ Patent upper airway
+
+✔ Ability to tolerate redirected airflow
+
+✔ Manageable secretions
+
+✔ Stable respiratory status
+
+---
+
+## Contraindications / Precautions
+
+Discuss why each may impact PMV use.
+
+- Inflated cuff
+- Severe upper airway obstruction
+- Unstable respiratory status
+- Significant air trapping
+- Severe secretion burden
+- Inability to tolerate cuff deflation
+
+---
+
+## During the Evaluation
+
+Monitor:
+
+- Oxygen saturation
+- Respiratory rate
+- Work of breathing
+- Voice quality
+- Anxiety
+- Cough effectiveness
+- Secretion management
+
+---
+
+## Discussion Questions
+
+1. Why must the cuff always be completely deflated?
+
+2. Why are COPD patients monitored closely during PMV trials?
+
+3. What findings would make you immediately remove the PMV?
+
+4. How might PMV influence swallowing?
+
+---
+
+[Begin PMV Evaluation](evaluation.html)

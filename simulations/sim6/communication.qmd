@@ -1,0 +1,53 @@
+---
+title: "Patient & Team Communication"
+---
+
+::: {.patient-banner}
+# Patient and Team Education
+:::
+
+## Patient Education
+
+Discuss how you would explain:
+
+- What the PMV does
+- Why the cuff must remain deflated
+- When to ask for help
+- Benefits of wearing the valve
+- Situations when it should not be used
+
+---
+
+## Team Communication
+
+What recommendations would you provide to:
+
+### Nursing
+
+- Supervision
+- Safety
+- Communication supports
+
+### Respiratory Therapy
+
+- Continued collaboration
+- Wear schedule
+- Respiratory monitoring
+
+### Physician
+
+- Evaluation results
+- PMV tolerance
+- Future recommendations
+
+---
+
+## Reflection
+
+How would you respond if Jane asked:
+
+> "Will I ever be able to talk normally again?"
+
+---
+
+[Continue to Clinical Decision](clinical-decision.html)

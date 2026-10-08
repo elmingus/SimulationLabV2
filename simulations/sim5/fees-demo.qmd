@@ -1,0 +1,217 @@
+---
+title: "FEES Demonstration"
+---
+
+::: {.patient-banner}
+## Fiberoptic Endoscopic Evaluation of Swallowing
+
+Today’s demonstration provides an introduction to the equipment, procedure, anatomy, and clinical reasoning involved in FEES.
+:::
+
+::: {.warning}
+## SLP Task
+
+Observe the procedure and identify:
+
+- Relevant anatomy
+- Secretion location and severity
+- Vocal fold movement
+- Airway protection
+- Penetration or aspiration
+- Pharyngeal residue
+- Response to strategies
+:::
+
+# Before the Examination
+
+The clinician should review:
+
+- Reason for referral
+- Medical stability
+- Respiratory status
+- Oxygen requirements
+- Bleeding risk
+- Nasal or facial precautions
+- Recent surgery
+- Level of alertness
+- Ability to participate
+- Current diet and medication administration
+- Relevant imaging and previous swallowing assessments
+
+---
+
+# Equipment
+
+Common equipment may include:
+
+- Flexible endoscope
+- Light source and video system
+- Recording equipment
+- Personal protective equipment
+- Water-soluble lubricant
+- Food coloring when permitted by institutional protocol
+- Food and liquid consistencies
+- Suction equipment
+- Pulse oximetry when clinically indicated
+- Topical agents when permitted by institutional policy and clinician scope
+
+---
+
+# Procedure Overview
+
+## 1. Patient Preparation
+
+- Explain the procedure.
+- Confirm patient identity.
+- Review contraindications and precautions.
+- Position the patient.
+- Establish a method for communicating discomfort or requesting a pause.
+
+## 2. Scope Passage
+
+- The scope is passed transnasally.
+- Nasal anatomy and patient tolerance are monitored.
+- The scope is advanced to obtain a view of the pharynx and larynx.
+
+## 3. Anatomic and Functional Examination
+
+The clinician may observe:
+
+- Base of tongue
+- Valleculae
+- Epiglottis
+- Arytenoids
+- False vocal folds
+- True vocal folds
+- Pyriform sinuses
+- Posterior pharyngeal wall
+- Secretion location
+- Spontaneous swallowing
+- Vocal fold movement
+- Cough or throat-clear response
+
+## 4. Swallowing Trials
+
+Trials are selected based on the clinical question and patient status.
+
+The clinician may assess:
+
+- Premature spillage
+- Penetration
+- Aspiration before or after the swallow
+- Residue location and severity
+- Secretion management
+- Response to bolus modification
+- Response to posture or strategy
+- Fatigue across trials
+
+---
+
+# What Is White-Out?
+
+During the pharyngeal swallow, the endoscopic image is briefly obscured as the pharynx constricts around the scope.
+
+This is referred to as **white-out**.
+
+Because the exact moment of the swallow is not visible, airway invasion during the swallow is inferred from findings immediately before and after white-out.
+
+---
+
+# What Can Be Seen?
+
+## Before the Swallow
+
+- Secretions
+- Premature spillage
+- Material entering the laryngeal vestibule before the swallow
+- Baseline airway status
+
+## After the Swallow
+
+- Pharyngeal residue
+- Laryngeal penetration
+- Aspiration below the vocal folds
+- Patient response to airway invasion
+- Effectiveness of clearing swallows or strategies
+
+---
+
+# Observation Guide
+
+Use the following prompts during the demonstration.
+
+## Anatomy
+
+- Are the structures symmetrical?
+- Is there edema?
+- Is there evidence of trauma or lesion?
+- Do the vocal folds abduct and adduct?
+
+## Secretions
+
+- Are secretions present?
+- Where are they located?
+- Does the patient respond?
+- Can the patient clear them?
+
+## Airway Protection
+
+- Is penetration present?
+- Is aspiration present?
+- Does the patient cough?
+- Is the response effective?
+- Is airway invasion cleared?
+
+## Efficiency
+
+- Is residue present?
+- Where is residue located?
+- Does it increase across trials?
+- Does an additional swallow reduce residue?
+
+## Strategy Testing
+
+- Does a postural adjustment improve performance?
+- Does changing volume or consistency improve performance?
+- Can the patient implement the strategy independently?
+
+---
+
+# Stop or Pause Considerations
+
+The examination may need to be paused or discontinued if the patient demonstrates:
+
+- Significant distress
+- Epistaxis
+- Respiratory instability
+- Reduced responsiveness
+- Inability to tolerate the scope
+- Significant agitation
+- A medical change requiring immediate attention
+
+Follow institutional procedures and the supervising clinician’s direction.
+
+---
+
+::: {.note-box}
+## Clinical Pearl
+
+FEES is not simply a test for aspiration. It provides information about anatomy, secretions, sensation, airway protection, residue, fatigue, and response to intervention.
+:::
+
+---
+
+## Reflection
+
+After the demonstration, discuss:
+
+1. What information did FEES provide that a bedside evaluation could not?
+2. What information would MBSS provide that FEES did not?
+3. What findings changed the clinical recommendations?
+4. What aspects of the procedure require additional supervised training?
+
+---
+
+## Continue
+
+[Resources](resources.html)

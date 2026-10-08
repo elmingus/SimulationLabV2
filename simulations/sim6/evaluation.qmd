@@ -1,0 +1,202 @@
+---
+title: "PMV Evaluation"
+---
+
+::: {.patient-banner}
+# PMV Evaluation
+
+Work through each evaluation scenario as though you are the treating Speech-Language Pathologist. At each step, determine whether you would continue, modify, or discontinue the trial.
+:::
+
+## Scenario 1: Initial PMV Trial
+
+### Step 1: Baseline Assessment
+
+Review Jane’s baseline status before beginning the evaluation.
+
+| Measure | Value |
+|---------|-------|
+| HR | 82 bpm |
+| RR | 18 breaths/min |
+| SpO₂ | 94% |
+| FiO₂ | 28% via humidified trach collar |
+| Alertness | Awake, alert, and cooperative |
+| Secretions | Moderate; able to cough and clear independently |
+
+### Clinical Decision
+
+1. Does Jane appear medically and respiratory stable enough to begin the evaluation?
+2. What additional information should be confirmed before proceeding?
+3. Would you proceed with cuff deflation?
+
+---
+
+### Step 2: Cuff Deflation
+
+Respiratory Therapy confirms that the cuff is completely deflated.
+
+Jane coughs several times following cuff deflation and clears a small amount of thin secretions. After two minutes, her respiratory status remains stable.
+
+| Measure | Value |
+|---------|-------|
+| HR | 84 bpm |
+| RR | 19 breaths/min |
+| SpO₂ | 94% |
+
+### Clinical Decision
+
+1. Is this response expected following cuff deflation?
+2. Would you continue with assessment of upper-airway patency?
+3. What signs would cause you to stop at this point?
+
+---
+
+### Step 3: Upper-Airway Patency
+
+With brief digital occlusion, Jane produces a weak but audible voice.
+
+Airflow is noted through the mouth and nose. Jane reports that breathing feels slightly more difficult but denies significant distress.
+
+### Clinical Decision
+
+1. Why is audible voice with digital occlusion clinically important?
+2. What does this suggest about upper-airway patency?
+3. Would you proceed with PMV placement?
+
+---
+
+### Step 4: PMV Placement
+
+The PMV is placed.
+
+During the first minute, Jane produces several short verbal responses. Her voice is breathy but audible.
+
+After approximately three minutes, Jane begins to demonstrate increased work of breathing.
+
+| Measure | Baseline | After 3 Minutes |
+|---------|----------|-----------------|
+| HR | 82 bpm | 94 bpm |
+| RR | 18 breaths/min | 26 breaths/min |
+| SpO₂ | 94% | 89% |
+| Work of Breathing | Comfortable | Increased |
+| Patient Report | No concern | “It feels harder to breathe.” |
+
+Jane appears mildly anxious and begins using accessory muscles for breathing.
+
+### Clinical Decision
+
+1. Is Jane tolerating the PMV?
+2. What findings indicate poor tolerance?
+3. What should the SLP do immediately?
+4. Which team member should be notified?
+5. What possible factors may have contributed to poor tolerance?
+
+::: {.warning}
+Jane’s SpO₂ improves to 93% shortly after the PMV is removed. Her respiratory rate and work of breathing return toward baseline with rest.
+:::
+
+### Initial Clinical Impression
+
+Discuss with your group:
+
+- Is Jane an appropriate candidate for continued PMV use today?
+- Would you discontinue the evaluation entirely or consider reassessment later?
+- What recommendations would you document following this trial?
+- What additional medical or respiratory information may be helpful before another attempt?
+
+---
+
+## Scenario 2: PMV Reassessment
+
+Two days later, Jane is referred for reassessment.
+
+Respiratory Therapy reports improved secretion management and increased tolerance of daytime trach collar trials. Jane has remained medically stable and continues to request an opportunity to speak.
+
+### Step 1: Updated Baseline Status
+
+| Measure | Value |
+|---------|-------|
+| HR | 78 bpm |
+| RR | 17 breaths/min |
+| SpO₂ | 95% |
+| FiO₂ | 28% via humidified trach collar |
+| Alertness | Awake, alert, and cooperative |
+| Secretions | Mild; independently managed |
+| Cuff Status | Completely deflated |
+| Respiratory Effort | Comfortable at rest |
+
+### Clinical Decision
+
+1. What has changed since the initial evaluation?
+2. Do these findings support another PMV trial?
+3. What precautions should remain in place?
+
+---
+
+### Step 2: Repeat PMV Trial
+
+The PMV is placed following confirmation of cuff deflation and upper-airway patency.
+
+Jane wears the valve for 10 minutes while seated upright.
+
+| Measure | Baseline | After 10 Minutes |
+|---------|----------|------------------|
+| HR | 78 bpm | 82 bpm |
+| RR | 17 breaths/min | 19 breaths/min |
+| SpO₂ | 95% | 94% |
+| Work of Breathing | Comfortable | Comfortable |
+| Voice | Weak | Audible and functional |
+| Secretions | Mild | Managed independently |
+
+Jane communicates in short sentences and reports:
+
+> “It feels much easier today.”
+
+No significant respiratory distress, air trapping, or oxygen desaturation is observed.
+
+### Clinical Decision
+
+1. Is Jane tolerating the PMV during this trial?
+2. What objective and subjective findings support your decision?
+3. Would you recommend immediate independent use?
+4. What level of supervision is appropriate?
+5. How should wear time be advanced?
+
+---
+
+## Develop Your Recommendations
+
+Create a preliminary PMV plan for Jane.
+
+Consider including:
+
+- Recommended wear schedule
+- Level of supervision
+- Appropriate activities for initial use
+- Respiratory monitoring
+- Cuff precautions
+- Patient and staff education
+- Criteria for removing the valve
+- Need for continued SLP and Respiratory Therapy follow-up
+
+### Example Recommendation Categories
+
+Students may consider whether Jane should initially wear the PMV:
+
+- During Speech-Language Pathology sessions
+- During Physical and Occupational Therapy
+- During supervised communication with family
+- During nursing care when trained staff are present
+- During a future swallowing evaluation, if clinically appropriate
+
+### Final Questions
+
+1. Would you recommend PMV use during therapies?
+2. Would you recommend a specific initial wear duration?
+3. What must staff verify before every placement?
+4. What symptoms should prompt immediate valve removal?
+5. What criteria should be met before progressing toward longer or less-supervised use?
+
+---
+
+[Continue to Communication](communication.html)

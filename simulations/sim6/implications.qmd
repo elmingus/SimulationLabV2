@@ -1,0 +1,56 @@
+---
+title: "Clinical Implications"
+---
+
+::: {.patient-banner}
+# Beyond the Speaking Valve
+:::
+
+## PMV influences much more than voice.
+
+Research has demonstrated potential benefits related to:
+
+- Communication
+- Participation in medical care
+- Restoration of airflow
+- Improved cough
+- Improved secretion management
+- Improved smell and taste
+- Potential improvements in swallowing
+- Quality of life
+
+---
+
+## Key Takeaways
+
+A successful PMV evaluation requires integration of:
+
+- Respiratory physiology
+- Airway anatomy
+- Clinical reasoning
+- Interdisciplinary collaboration
+- Patient-centered care
+
+---
+
+## Reflection
+
+Discuss with your group:
+
+1. What was the most important factor in determining PMV candidacy?
+
+2. What surprised you during today's simulation?
+
+3. How does communication affect patient participation in healthcare?
+
+4. How might PMV use influence future swallowing assessment?
+
+---
+
+## Simulation Complete
+
+Excellent work!
+
+You have completed **Simulation 6: Passy-Muir Valve Evaluation**.
+
+Please be prepared to discuss your clinical reasoning and recommendations during today's debrief.

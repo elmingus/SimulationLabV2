@@ -1,0 +1,216 @@
+---
+title: "Case B: Visual Impairment and Pain"
+---
+
+::: {.patient-banner}
+# Patricia Lewis
+
+**71-year-old female** | **Consult:** AAC Evaluation
+:::
+
+::: {.warning}
+
+**SLP Task:** Review the patient information below and determine the most appropriate communication supports to facilitate functional communication in the acute care setting.
+
+:::
+
+## Patient Snapshot
+
+| Patient Information | Details |
+|------|-------------|
+| Name | Patricia Lewis |
+| Age | 71 |
+| Admitting Diagnosis | Left hip fracture following a fall |
+| Current Setting | Acute Care Orthopedic Unit |
+| Communication Status | Verbal but inconsistently communicates needs |
+| Vision | Corrective lenses left at home |
+| Hearing | Functional for conversational speech |
+| Motor Status | Able to move upper extremities; movement limited by pain |
+| Cognitive Status | Mild confusion noted following pain medication |
+| Language | English |
+| Family | Daughter listed as primary contact |
+
+## Chief Concern
+
+::: {.note-box}
+
+The patient reports sharp left hip pain rated as **6/10**. She repeatedly asks when she may receive her next pain medication.
+
+She also reports:
+
+- Difficulty getting comfortable in bed
+- Needing an additional pillow
+- Difficulty reading the room whiteboard
+- Wanting her daughter to bring her glasses
+- Uncertainty regarding the date and time
+
+Staff have attempted to provide written information, but the patient reports that the print is too small to read.
+
+:::
+
+::: {.warning}
+
+**Immediate Clinical Concern:** A visual communication tool will not be effective unless its size, contrast, spacing, and presentation are adapted to the patient's visual needs.
+
+:::
+
+## Step 1: Identify the Communication Barrier
+
+Consider:
+
+- Is the primary barrier speech, language, cognition, vision, pain, or a combination?
+- How may pain and medication affect attention and memory?
+- Can the patient reliably understand spoken information?
+- Can the patient read large print?
+- Can the patient point to large visual targets?
+- Would a verbal or auditory system be more effective than a picture board?
+
+## Step 2: Brief Communication and Cognitive Screening
+
+Determine whether the patient can:
+
+- State her name
+- Identify that she is in the hospital
+- State the reason for hospitalization
+- Follow one-step directions
+- Answer simple yes/no questions
+- Repeat back information regarding pain medication
+- Recall information following a brief delay
+- Identify large-print words or symbols
+- Point to a target using either hand
+
+Consider whether inaccurate responses reflect:
+
+- Reduced hearing
+- Reduced vision
+- Pain
+- Medication effects
+- Delirium
+- Language impairment
+- Baseline cognitive impairment
+
+## Step 3: Evaluate Visual Access
+
+Trial adjustments such as:
+
+- Large-print written choices
+- High-contrast text
+- Reduced number of choices
+- Increased spacing between targets
+- Verbal presentation of choices
+- A color-coded pain scale
+- Presentation within the patient's intact visual field
+- Improved lighting
+- Reduced visual clutter
+
+### Potential Trial
+
+Present a pain board with:
+
+- Large numbers
+- A simple 0–10 scale
+- Written descriptors
+- High visual contrast
+- Adequate spacing between selections
+
+Then confirm the patient's selection verbally.
+
+## Step 4: Select AAC and Communication Supports
+
+Which supports would you trial?
+
+- Large-print pain scale
+- High-contrast picture board
+- Large-print written choice board
+- Auditory choice presentation
+- Simple yes/no questions
+- Whiteboard with enlarged information
+- Orientation board
+- Bedside schedule
+- Tablet with enlarged icons
+- Verbal rehearsal or teach-back
+- Communication partner support
+
+Consider:
+
+1. Is the patient's speech functional?
+2. Does she primarily need expressive AAC or environmental communication support?
+3. How will you ensure that she understands the medication schedule?
+4. What should staff do if her confusion increases?
+
+## Step 5: Address Immediate Needs
+
+The patient communicates the following:
+
+- Pain is currently 6/10.
+- She would like medication.
+- She wants another pillow.
+- She would like her daughter to bring her glasses.
+- She does not remember when medication was last administered.
+
+Determine the appropriate response.
+
+| Patient Need | Appropriate Follow-Up |
+|------|-------------|
+| Pain medication | Notify nursing; do not independently promise medication |
+| Medication schedule | Provide simplified information in coordination with nursing |
+| Pillow and positioning | Notify nursing staff |
+| Glasses | Obtain consent and contact family |
+| Orientation support | Update large-print bedside information |
+
+::: {.note-box}
+
+The SLP may support the patient's ability to understand and communicate about pain. Medication decisions remain within the responsibility of nursing and the medical team.
+
+:::
+
+## Step 6: Patient and Staff Education
+
+Education may include:
+
+- Use large print and high contrast.
+- Present one idea or question at a time.
+- Reduce the number of visual choices.
+- Confirm the patient's message verbally.
+- Use teach-back for important medical information.
+- Keep the communication board within reach.
+- Reassess communication when pain or alertness changes.
+- Ensure the patient's glasses are available as soon as possible.
+
+## Documentation Task
+
+Complete a SOAP note that includes:
+
+- Communication barriers identified
+- Cognitive, motor, and sensory abilities observed
+- Visual accommodations trialed
+- Pain communication supports used
+- Patient response to AAC strategies
+- Education provided
+- Family and nursing coordination
+- Recommendations and follow-up plan
+
+## Reflection Questions
+
+1. How did you determine whether the patient's difficulty was primarily related to vision, cognition, pain, or language?
+
+2. Which communication tools were most effective given the patient's visual limitations?
+
+3. How would you ensure that the patient accurately understood when she could receive her next medication dose?
+
+<details>
+<summary><strong>Reveal Example Clinical Reasoning</strong></summary>
+
+The patient retains functional verbal communication but has difficulty accessing standard written information because her corrective lenses are unavailable. Pain, medication, and mild confusion may also affect her ability to retain information.
+
+A large-print, high-contrast pain scale and enlarged written choices may support communication. Auditory presentation and teach-back should be used for important information, including the pain medication schedule.
+
+The SLP should not independently interpret or promise medication timing. Nursing should provide the confirmed schedule, and the patient should be asked to repeat the information in her own words.
+
+With the patient's permission, the daughter may be contacted and asked to bring the patient's glasses. Staff should continue to monitor whether confusion changes after pain management or over the course of hospitalization.
+
+</details>
+
+## Continue
+
+[Go to Case C](case-c.html)

@@ -1,0 +1,147 @@
+---
+title: "Chart Review"
+---
+
+::: {.patient-banner}
+# James Walker
+
+**76-year-old male** | **MRN:** 482918 | **Location:** ICU Bed 12 | **Diet:** NPO | **Code Status:** Full Code
+:::
+
+::: {.warning}
+**SLP Task:** Review the chart before entering the room. Identify information that may affect readiness for evaluation, aspiration risk, communication, and ability to participate.
+:::
+
+## Patient Snapshot
+
+| Field | Information |
+|---|---|
+| Name | James Walker |
+| Age | 76 |
+| Sex | Male |
+| Hospital Day | 1 |
+| Location | ICU Bed 12 |
+| Primary Service | Neurology |
+| Reason for Admission | Acute ischemic stroke |
+| SLP Consult Reason | Swallow evaluation following stroke |
+| Current Diet Order | NPO pending SLP evaluation |
+
+## Consult Order
+
+::: {.note-box}
+**Order Type:** Speech-Language Pathology Evaluation  
+**Reason for Consult:** Swallow evaluation following acute CVA  
+**Ordering Service:** Neurology  
+**Priority:** Routine  
+**Precautions:** Aspiration precautions, fall precautions  
+:::
+
+## History & Physical
+
+::: {.note-box}
+**Chief Concern:** Sudden onset right-sided weakness and inability to speak.
+
+**History of Present Illness:**  
+James Walker is a 76-year-old male admitted overnight after acute onset right-sided weakness, facial droop, and reduced verbal output. Last known well was approximately 8 hours prior to arrival. Initial neurological examination was concerning for a large left MCA stroke. Patient underwent emergent imaging and thrombectomy. He remains in the ICU for neurological monitoring.
+
+**Current Status:**  
+Patient continues to demonstrate significant lethargy, reduced command following, and limited verbal output. Neurology requested SLP evaluation for swallowing once medically appropriate.
+:::
+
+## Past Medical History
+
+| Condition | Status |
+|---|---|
+| Hypertension | Active |
+| Type II diabetes mellitus | Active |
+| Hyperlipidemia | Active |
+| Atrial fibrillation | Active |
+| Former smoker | Historical |
+
+## Imaging / Neurology
+
+::: {.info}
+**CT Head:** No acute hemorrhage. Findings concerning for evolving left MCA territory infarct.
+
+**CTA Head/Neck:** Left MCA occlusion.
+
+**MRI Brain:** Large acute left MCA infarct involving frontal and parietal regions.
+
+**NIH Stroke Scale:** 19
+
+**Neurology Impression:** Large left MCA ischemic stroke with ongoing severe neurological impairment. Continue ICU monitoring.
+:::
+
+## Current Orders
+
+| Order | Status | SLP Relevance |
+|---|---|---|
+| NPO pending SLP evaluation | Active | Do not initiate PO until clinically appropriate |
+| Aspiration precautions | Active | Increased swallow safety concern |
+| Neuro checks q2h | Active | Ongoing neurological monitoring |
+| IV fluids | Active | Hydration while NPO |
+| Oxygen via nasal cannula 2L | Active | Monitor respiratory status |
+| Telemetry | Active | Cardiac monitoring due to atrial fibrillation |
+| HOB elevated 30 degrees | Active | Positioning / aspiration precautions |
+
+## Medication Administration Record
+
+| Medication | Route | Indication |
+|---|---|---|
+| Aspirin | Rectal | Stroke management |
+| Atorvastatin | Held while NPO | Hyperlipidemia / stroke prevention |
+| Heparin | Subcutaneous | DVT prophylaxis |
+| IV fluids | IV | Hydration while NPO |
+| Insulin sliding scale | Subcutaneous | Diabetes management |
+
+## Nursing Note
+
+::: {.note-box}
+**Time:** 0645  
+**Author:** Sarah Johnson, RN
+
+Patient sleeping throughout most of morning. Opens eyes briefly to loud verbal stimulation but quickly falls back asleep. Unable to consistently follow commands. No reliable verbal response. Occasional wet cough noted at rest. Oral care completed with suction toothbrush. Patient remains NPO pending SLP evaluation.
+:::
+
+## Intake / Nutrition
+
+| Item | Status |
+|---|---|
+| Current diet | NPO |
+| Alternate nutrition | None currently ordered |
+| Hydration | IV fluids |
+| Oral care | Completed this morning |
+| Medication route | Non-oral routes as available |
+
+## SLP-Relevant Risk Factors
+
+::: {.danger}
+**Potential risk factors identified during chart review:**
+
+- Acute large left MCA stroke
+- Reduced alertness
+- Inconsistent command following
+- No reliable verbal response
+- Wet cough at rest
+- Poor secretion management concern
+- NPO pending evaluation
+- ICU level of care
+- Elevated medical complexity
+:::
+
+## Chart Review Questions
+
+Before entering the room, answer the following:
+
+1. What information in the chart is most relevant to SLP services?
+2. What factors may affect readiness for a swallowing evaluation?
+3. What questions would you ask the nurse before entering the room?
+4. What information suggests this patient may not be appropriate for PO trials today?
+
+## Continue
+
+Next, review the patient's current vital signs.
+
+## Navigation
+
+[← Back to Simulation Overview](index.qmd) | [Next: Vital Signs →](vitals.qmd)

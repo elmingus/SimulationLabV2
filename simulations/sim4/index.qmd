@@ -1,0 +1,113 @@
+---
+title: "Simulation 4: AAC Consultation"
+---
+
+::: {.patient-banner}
+# AAC Consultation
+
+**Acute Care Simulation** | **Consultation-Based Activity**
+:::
+
+## Simulation Overview
+
+Patients in acute care may experience temporary or permanent barriers to communication related to neurological injury, intubation, motor impairment, sensory loss, language differences, pain, fatigue, or changes in cognition.
+
+In this simulation, you will assume the role of the consulting speech-language pathologist. You will review several patient scenarios, identify barriers to functional communication, and recommend appropriate augmentative and alternative communication (AAC) supports.
+
+Unlike previous simulations, this activity is primarily completed through the course website rather than through a mannequin-based encounter.
+
+::: {.note-box}
+
+**Clinical Focus**
+
+The goal of an acute care AAC consultation is not necessarily to identify the most advanced communication device. The immediate goal is to establish a reliable and efficient way for the patient to communicate medical needs, preferences, questions, and decisions.
+
+:::
+
+## Learning Objectives
+
+By the end of this simulation, students will be able to:
+
+- Identify barriers affecting functional communication in the acute care setting.
+- Evaluate patient access abilities, including motor, visual, auditory, cognitive, and linguistic factors.
+- Select appropriate low-tech and high-tech AAC supports.
+- Develop strategies for communicating urgent medical and personal needs.
+- Provide patient, family, and staff education regarding AAC use.
+- Coordinate recommendations with the interdisciplinary team.
+- Document findings and recommendations using an acute care SOAP note.
+- Reflect on clinical reasoning and patient-centered decision-making.
+
+## Your Role
+
+You are the speech-language pathologist responding to a communication consultation.
+
+For each patient case, you will:
+
+1. Review the reason for consultation.
+2. Identify the primary communication barrier.
+3. Evaluate available communication and access skills.
+4. Select AAC strategies to trial.
+5. Address the patient's immediate communication needs.
+6. Identify appropriate interdisciplinary follow-up.
+7. Document your assessment and recommendations.
+
+## AAC Assessment Framework
+
+When selecting an AAC approach, consider the following areas:
+
+| Area | Questions to Consider |
+|------|------------------------|
+| Communication | Can the patient speak, vocalize, gesture, write, read, or answer yes/no questions? |
+| Language | Does the patient understand spoken and written language? What is the patient's preferred language? |
+| Cognition | Can the patient attend, remember directions, make selections, and understand cause and effect? |
+| Motor Access | Can the patient point, reach, lift a hand, move their head, or use eye gaze? |
+| Vision | Can the patient see written words, pictures, colors, and communication targets? |
+| Hearing | Can the patient hear conversational speech? Are hearing aids or amplification available? |
+| Environment | Are noise, lighting, positioning, fatigue, or medical equipment affecting communication? |
+| Urgency | What medical, safety, comfort, or personal needs must be communicated immediately? |
+
+## Available Patient Consultations
+
+::: {.warning}
+
+**Student Task:** Complete each patient case and record your findings in the SOAP note provided by your instructor.
+
+:::
+
+### Case A: Quadriplegia and Loss of Speech
+
+A patient with quadriplegia is unable to verbally communicate basic needs and has limited voluntary movement.
+
+[Begin Case A](case-a.html)
+
+---
+
+### Case B: Visual Impairment and Pain
+
+A patient does not have access to their glasses and is experiencing pain, discomfort, and difficulty communicating immediate needs.
+
+[Begin Case B](case-b.html)
+
+---
+
+### Case C: Spanish-Speaking Patient
+
+A patient who primarily communicates in Spanish needs assistance expressing basic needs and contacting family.
+
+[Begin Case C](case-c.html)
+
+---
+
+### Case D: Hearing Impairment
+
+A patient does not have access to their hearing aids and is having difficulty communicating with staff.
+
+[Begin Case D](case-d.html)
+
+---
+
+## Additional Resources
+
+Review AAC tools, clinical considerations, and documentation reminders before or during the activity.
+
+[View AAC Resources](resources.html)

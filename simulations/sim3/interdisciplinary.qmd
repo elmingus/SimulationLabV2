@@ -1,0 +1,75 @@
+---
+title: "Interdisciplinary Notes"
+---
+
+::: {.patient-banner}
+# Steven "Steve" Thompson
+
+**SLP Consult:** Language Evaluation
+:::
+
+## Nursing Note
+
+::: {.note-box}
+
+Steve is pleasant and cooperative throughout the shift. Frequently pauses during conversation and appears frustrated when unable to find desired words. Follows simple directions with occasional repetition. Family reports communication appears similar to his baseline following his previous stroke.
+
+:::
+
+## Physical Therapy
+
+::: {.note-box}
+
+Patient ambulates short distances with contact guard assistance secondary to hip pain. Demonstrates good participation in therapy. Able to follow one-step commands consistently but requires repetition for more complex directions.
+
+:::
+
+## Occupational Therapy
+
+::: {.note-box}
+
+Patient independently completes basic grooming with additional time. Difficulty reading written instructions. Performs better when demonstrations accompany verbal directions.
+
+:::
+
+## Physician Progress Note
+
+::: {.note-box}
+
+History of left hemisphere ischemic stroke with residual mild aphasia. No evidence of new neurological injury following current fall. SLP consulted to reassess communication abilities during hospitalization.
+
+:::
+
+## Family Report
+
+::: {.info}
+
+Family reports Steve has remained largely independent since his stroke but occasionally struggles with word finding, especially when tired or stressed. They deny significant decline in cognition.
+
+:::
+
+## SLP-Relevant Flags
+
+::: {.danger}
+
+Consider:
+
+- Expressive aphasia
+- Mild receptive deficits
+- Hearing loss
+- Fatigue
+- Emotional frustration during communication
+
+:::
+
+## Pause and Think
+
+1. Which findings support language assessment?
+
+2. Which findings suggest cognition may be relatively preserved?
+
+3. How may hearing loss influence assessment?
+
+## Continue
+
+[Communication Considerations](communication.html)

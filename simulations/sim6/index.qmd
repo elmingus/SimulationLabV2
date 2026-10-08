@@ -1,0 +1,74 @@
+---
+title: "Simulation 6"
+---
+
+::: {.patient-banner}
+## Passy-Muir Valve (PMV) Evaluation
+
+Today's simulation focuses on the evaluation of a patient with a tracheostomy for Passy-Muir Valve candidacy in the acute care setting. Students will apply respiratory, anatomical, and clinical reasoning principles to determine readiness for PMV placement, monitor patient tolerance, and develop evidence-based recommendations.
+:::
+
+::: {.warning}
+## SLP Task
+
+Work through each module with your group. Be prepared to justify your clinical decisions, identify safety considerations, collaborate with the interdisciplinary team, and determine whether the patient is an appropriate candidate for PMV use.
+:::
+
+## Learning Objectives
+
+By the end of this session, students will be able to:
+
+- Describe the purpose and physiological effects of a Passy-Muir Valve.
+- Identify prerequisites and contraindications for PMV placement.
+- Interpret chart information relevant to PMV candidacy.
+- Explain the roles of the interdisciplinary team during PMV evaluation.
+- Sequence the steps of a comprehensive PMV evaluation.
+- Recognize signs of PMV tolerance and intolerance.
+- Provide patient and caregiver education regarding PMV use.
+- Develop evidence-based recommendations for communication and swallowing management.
+
+---
+
+## Today's Modules
+
+### 1. Chart Review
+
+Review Jane Ellis' medical history and determine whether she appears to be an appropriate candidate for PMV evaluation.
+
+[Begin Chart Review](chart.html)
+
+### 2. Interdisciplinary Notes
+
+Review documentation from Respiratory Therapy, Nursing, and the medical team to identify information that impacts PMV candidacy.
+
+[Review Interdisciplinary Notes](interdisciplinary.html)
+
+### 3. PMV Fundamentals
+
+Review airway physiology, candidacy requirements, contraindications, and key concepts from the assigned PMV readings and videos.
+
+[Review PMV Fundamentals](pmv-basics.html)
+
+### 4. PMV Evaluation
+
+Work through the evaluation step-by-step, making clinical decisions regarding cuff deflation, valve placement, patient monitoring, and tolerance.
+
+[Begin PMV Evaluation](evaluation.html)
+
+### 5. Patient & Team Communication
+
+Practice counseling the patient and providing recommendations to nursing, respiratory therapy, and the medical team.
+
+[Practice Communication](communication.html)
+
+### 6. Clinical Decision & Recommendations
+
+Determine whether Jane is an appropriate candidate for continued PMV use and develop recommendations for communication, swallowing, and follow-up care.
+
+[Complete the Simulation](clinical-decision.html)
+
+### 7. Clinical Implications
+
+Reflect on how PMV use influences communication, swallowing, airway protection, and quality of life in the acute care setting.
+
+[Clinical Implications](implications.html)

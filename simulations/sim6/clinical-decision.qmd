@@ -1,0 +1,54 @@
+---
+title: "Clinical Decision"
+---
+
+::: {.patient-banner}
+# Final Clinical Recommendations
+:::
+
+## Based on today's evaluation...
+
+Determine:
+
+### Is Jane a PMV candidate?
+
+☐ Yes
+
+☐ No
+
+☐ Additional assessment needed
+
+---
+
+## Recommendations
+
+Discuss:
+
+- Wear schedule
+- Supervision level
+- Follow-up with SLP
+- Additional swallowing evaluation
+- Communication recommendations
+
+---
+
+## SOAP Note
+
+Write a brief assessment including:
+
+- Patient tolerance
+- Objective findings
+- Clinical impression
+- Recommendations
+
+---
+
+## Reflection
+
+What evidence supported your recommendations?
+
+Would your recommendations change if Jane developed increased work of breathing or oxygen desaturation?
+
+---
+
+[Continue to Clinical Implications](implications.html)

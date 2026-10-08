@@ -1,0 +1,61 @@
+---
+title: "Screening Readiness"
+---
+
+::: {.patient-banner}
+# Cindy Carlson
+
+**92-year-old female** | **Diagnosis:** Right MCA Ischemic Stroke | **Assessment:** MoCA if appropriate
+:::
+
+## Clinical Readiness for Cognitive Screening
+
+Before administering a cognitive screener, determine whether the patient can participate meaningfully.
+
+Consider:
+
+- Alertness
+- Ability to attend to task
+- Vision/hearing needs
+- Motor or visual-perceptual barriers
+- Language abilities
+- Fatigue
+- Medical stability
+- Baseline function and current goals of care
+
+## Current Presentation
+
+::: {.note-box}
+Cindy is awake when you enter. She looks toward the right side of the room and does not initially notice you standing on her left side. She responds to her name and participates in brief conversation, though her orientation fluctuates. She requires occasional redirection but remains awake and engaged for short periods.
+:::
+
+## Clinical Decision
+
+::: {.info}
+Cindy appears appropriate for attempted cognitive screening with accommodations and clinical judgment. Monitor fatigue, provide clear instructions, and document any factors that may influence interpretation of results.
+:::
+
+## If Proceeding With MoCA
+
+During simulation, administer the MoCA as directed by your supervisor.
+
+Pay attention to:
+
+- Attention and concentration
+- Executive functioning
+- Visuospatial skills
+- Memory
+- Orientation
+- Language
+- Insight and safety awareness
+- Impact of left neglect on task performance
+
+## Pause and Think
+
+1. What factors support proceeding with cognitive screening?
+2. What factors may affect validity or interpretation of MoCA results?
+3. How would you document limitations related to left neglect, fatigue, or fluctuating orientation?
+
+## Continue
+
+[Go to Functional Implications](implications.qmd)

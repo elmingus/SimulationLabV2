@@ -1,0 +1,61 @@
+---
+title: "Bedside Contact"
+---
+
+::: {.patient-banner}
+# James Walker
+
+**76-year-old male** | **MRN:** 482918 | **Location:** ICU Bed 12 | **Diet:** NPO
+:::
+
+## Initial Presentation
+
+When you enter the room, Mr. Walker is lying in bed with his eyes closed.
+
+He requires repeated verbal stimulation to briefly open his eyes. He looks toward the clinician briefly, then closes his eyes again.
+
+## Orientation and Command Following
+
+| Prompt | Response |
+|---|---|
+| “Can you tell me your name?” | No response |
+| “Do you know where you are?” | No response |
+| “Can you squeeze my hand?” | No response initially; one weak squeeze after repeated stimulation |
+| “Can you open your mouth?” | No response |
+| “Can you stick out your tongue?” | No response |
+
+## Communication
+
+- No reliable verbal response
+- Limited eye opening
+- Inconsistent command following
+- Reduced alertness
+- Wet vocal quality noted after brief vocalization attempt
+
+## Oral Mechanism Examination Attempt
+
+::: {.danger}
+A complete oral mechanism examination cannot be completed due to reduced alertness and inability to consistently follow commands.
+:::
+
+Observed findings:
+
+- Right facial droop
+- Mouth partially open at rest
+- Unable to protrude tongue on command
+- Poor secretion management
+- Inconsistent response to verbal cues
+
+## Pause and Think
+
+1. Is this patient appropriate for PO trials?
+2. Can a full oral mechanism examination be completed?
+3. What clinical information have you gathered so far?
+
+## Continue
+
+Finally, review the clinical decision.
+
+## Navigation
+
+[← Back: Vital Signs](vitals.qmd) | [Next: Clinical Decision →](decision.qmd)

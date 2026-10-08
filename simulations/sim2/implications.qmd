@@ -1,0 +1,54 @@
+---
+title: "Functional Implications"
+---
+
+::: {.patient-banner}
+# Cindy Carlson
+
+**92-year-old female** | **Diagnosis:** Right MCA Ischemic Stroke | **Focus:** Cognitive domains and function
+:::
+
+## Connecting Cognitive Domains to Function
+
+After completing the MoCA during simulation, use the results to describe how cognitive-communication deficits may affect Cindy's daily functioning and discharge needs.
+
+## Domain-to-Function Guide
+
+| Cognitive Domain | Possible Functional Implications |
+|---|---|
+| Attention | Difficulty sustaining focus during therapy, meals, safety routines, and conversations |
+| Visuospatial / Executive Function | Difficulty scanning the environment, completing multi-step tasks, navigating safely, and recognizing hazards |
+| Memory | Difficulty recalling recent events, new safety instructions, medication changes, and therapy recommendations |
+| Orientation | Confusion regarding place, date, situation, and hospital routines |
+| Language | Word errors or communication breakdowns that may affect medical communication |
+| Insight / Awareness | Reduced recognition of deficits, increased fall risk, and difficulty following safety precautions |
+
+## Right Hemisphere Stroke Considerations
+
+::: {.warning}
+Right hemisphere stroke may affect attention, awareness, visual scanning, pragmatics, safety judgment, and functional problem-solving. A screening score alone does not fully describe functional impact.
+:::
+
+## Clinical Impression Prompts
+
+Use your MoCA results and chart review to answer:
+
+1. Which cognitive domains appear most impacted?
+2. How do these deficits affect safety and participation in rehabilitation?
+3. What recommendations would support Cindy and her spouse?
+4. What additional assessment or follow-up may be needed?
+
+## Possible Recommendations
+
+Recommendations may include:
+
+- Continue SLP cognitive-communication intervention
+- Provide family education regarding cognitive changes after right hemisphere stroke
+- Use environmental supports for left attention/scanning
+- Provide written and verbal reminders for safety information
+- Coordinate with OT/PT regarding neglect, mobility, and safety concerns
+- Consider supervision needs at discharge based on functional performance
+
+::: {.info}
+**Clinical takeaway:** The goal is not only to report a score, but to explain what the findings mean for Cindy's safety, participation, and everyday life.
+:::

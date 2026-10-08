@@ -1,0 +1,68 @@
+---
+title: "Simulation 5"
+---
+
+::: {.patient-banner}
+## Additional Acute Care Skills
+
+Today’s session is a skills-based workshop focused on oral mechanism assessment, cranial nerve function, dysphagia treatment, instrumental assessment, and clinical reasoning in acute care.
+:::
+
+::: {.warning}
+## SLP Task
+
+Work through each module with your group. Be prepared to explain your clinical reasoning, demonstrate components of an oral mechanism examination, and justify when instrumentation may be indicated.
+:::
+
+## Learning Objectives
+
+By the end of this session, students will be able to:
+
+- Perform a focused oral mechanism examination.
+- Identify cranial nerves relevant to swallowing, speech, and airway protection.
+- Connect oral mechanism findings to possible functional impairments.
+- Differentiate compensatory and rehabilitative dysphagia interventions.
+- Summarize current evidence regarding dysphagia treatment in acute and critical care.
+- Compare the purposes and limitations of bedside assessment, FEES, and MBSS.
+- Select an appropriate assessment approach based on the clinical question.
+- Participate in a guided FEES demonstration.
+
+---
+
+## Today’s Modules
+
+### 1. Cranial Nerves and Oral Mechanism Examination
+
+Review the cranial nerves most relevant to speech and swallowing, then quiz yourself using hidden-answer activities.
+
+[Begin Cranial Nerve Review](cranial-nerves.html)
+
+### 2. Evidence-Based Dysphagia Treatment
+
+Review treatment categories and findings from a systematic review of dysphagia interventions in acute and critical care.
+
+[Review Dysphagia Treatment](dysphagia-treatment.html)
+
+### 3. Oral Mechanism Case Practice
+
+Apply your oral mechanism examination skills to four brief acute care cases.
+
+[Begin Case Practice](case-practice.html)
+
+### 4. Bedside Assessment and Instrumentation
+
+Compare the clinical swallow evaluation, FEES, and MBSS and determine which approach best answers the clinical question.
+
+[Compare Assessment Options](instrumentation.html)
+
+### 5. FEES Demonstration
+
+Prepare for today’s guided FEES demonstration.
+
+[Prepare for the FEES Demo](fees-demo.html)
+
+### 6. Additional Resources
+
+Review the assigned articles and additional learning resources.
+
+[View Resources](resources.html)

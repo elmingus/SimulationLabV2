@@ -1,0 +1,54 @@
+---
+title: "Communication Considerations"
+---
+
+::: {.patient-banner}
+# Steven "Steve" Thompson
+
+**Assessment:** Quick Aphasia Battery (QAB)
+:::
+
+## Preparing for Assessment
+
+Before beginning language testing, consider how communication strategies may improve participation and provide a more accurate representation of Steve's language abilities.
+
+## Current Presentation
+
+::: {.note-box}
+
+Steve greets you with a smile and attempts conversation. His speech is fluent but interrupted by frequent word-finding pauses. He occasionally substitutes incorrect words and appears aware of communication breakdowns. He becomes visibly frustrated when unable to express himself.
+
+:::
+
+## Clinical Considerations
+
+Before administering the QAB:
+
+- Confirm hearing aids are available and functioning.
+- Reduce background noise.
+- Use short, clear sentences.
+- Present one task at a time.
+- Allow extra response time.
+- Avoid interrupting attempts to communicate.
+- Support communication with gestures or written keywords as appropriate.
+- Verify comprehension throughout the interaction.
+
+::: {.info}
+
+**Clinical Pearl**
+
+People with aphasia often understand more than they are able to express. Reduced verbal output should not automatically be interpreted as impaired cognition.
+
+:::
+
+## Pause and Think
+
+1. Which communication supports will be most important?
+
+2. What barriers could affect test performance?
+
+3. How will you respond if Steve becomes frustrated?
+
+## Continue
+
+[Functional Implications](implications.html)

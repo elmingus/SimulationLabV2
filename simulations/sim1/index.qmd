@@ -1,0 +1,80 @@
+---
+title: "Acute Care Simulation: Patient Chart"
+---
+
+::: {.patient-banner}
+# James Walker
+
+**76-year-old male** | **MRN:** 482918 | **Location:** ICU Bed 12
+
+::: {.banner-grid}
+::: {.banner-item}
+**Hospital Day**  
+1
+:::
+
+::: {.banner-item}
+**Diet Order**  
+NPO
+:::
+
+::: {.banner-item}
+**Consult**  
+SLP Swallow Evaluation
+:::
+
+::: {.banner-item}
+**Code Status**  
+Full Code
+:::
+:::
+:::
+
+## Simulation 1: Initial Patient Contact
+
+This simulation introduces foundational skills required for acute care assessment. You will review the chart, interpret vital signs, attempt initial patient contact, and determine whether the patient is appropriate for further evaluation.
+
+::: {.warning}
+**Clinical task:** Determine whether Mr. Walker is appropriate for a full oral mechanism examination and clinical swallowing evaluation today.
+:::
+
+## Learning Objectives
+
+Students will:
+
+- Demonstrate professional communication and rapport-building.
+- Gather relevant clinical information.
+- Perform foundational assessment procedures.
+- Identify factors that may influence patient care.
+- Apply beginning clinical reasoning skills.
+- Engage in self-reflection and professional growth.
+
+## Open the Chart
+
+::: {.card-grid}
+
+::: {.chart-card}
+### 📋 Chart Review
+Review history, diagnosis, orders, medications, and nursing report.  
+[Open Chart Review](chart.html)
+:::
+
+::: {.chart-card}
+### 📈 Vital Signs
+Review current vital signs and clinical readiness.  
+[Open Vitals](vitals.html)
+:::
+
+::: {.chart-card}
+### 🗣 Bedside Contact
+Review patient presentation and oral mechanism exam attempt.  
+[Open Bedside Contact](bedside.html)
+:::
+
+::: {.chart-card}
+### 🧠 Clinical Decision
+Determine recommendations and documentation plan.  
+[Open Clinical Decision](decision.qmd)
+:::
+
+:::

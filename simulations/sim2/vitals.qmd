@@ -1,0 +1,33 @@
+---
+title: "Vital Signs"
+---
+
+::: {.patient-banner}
+# James Walker
+
+**76-year-old male** | **MRN:** 482918 | **Location:** ICU Bed 12 | **Diet:** NPO
+:::
+
+## Current Vital Signs
+
+| Vital Sign | Value | Clinical Note |
+|---|---:|---|
+| Blood pressure | 184/102 | Elevated |
+| Heart rate | 96 bpm | Mildly elevated |
+| Respiratory rate | 22 breaths/min | Mildly elevated |
+| SpO₂ | 94% on 2L nasal cannula | Monitor respiratory status |
+| Temperature | 99.0°F | Low-grade elevation |
+
+::: {.warning}
+Vital signs should be interpreted alongside level of alertness, neurological status, respiratory status, and ability to participate safely in evaluation.
+:::
+
+## Clinical Readiness Questions
+
+1. Are these vital signs stable enough to proceed with a full evaluation?
+2. What would you clarify with nursing?
+3. Would these findings change your plan for the session?
+
+## Before Moving On
+
+Document at least **two factors** from the vital signs that may influence your clinical decision-making.

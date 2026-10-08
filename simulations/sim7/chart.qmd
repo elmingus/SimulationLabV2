@@ -1,0 +1,140 @@
+---
+title: "Chart Review"
+---
+
+::: {.patient-banner}
+# Karla Green
+
+**72-year-old female** | **Consult:** PMV & Swallowing Evaluation
+:::
+
+::: {.warning}
+**SLP Task:** Review the medical chart and identify information relevant to Karla's respiratory status, PMV candidacy, swallowing function, and risk for dysphagia.
+:::
+
+## Patient Snapshot
+
+| Field | Information |
+|------|-------------|
+| Name | Karla Green |
+| Age | 72 |
+| Setting | Acute care hospital, medical-surgical floor |
+| Admitting Diagnosis | Community-acquired pneumonia |
+| Hospital Day | 15 |
+| Recent Hospital Course | Acute hypoxemic respiratory failure requiring prolonged intubation and subsequent tracheostomy |
+| Tracheostomy Status | 5 days post-placement |
+| Current Diet | NPO |
+| SLP Referral | PMV evaluation and clinical swallowing evaluation |
+
+## Chief Concern
+
+::: {.note-box}
+
+Karla was admitted to the hospital with community-acquired pneumonia after experiencing increased coughing, fatigue, and shortness of breath.
+
+Her respiratory status worsened following admission, resulting in acute hypoxemic respiratory failure requiring intubation and mechanical ventilation. Following difficulty with ventilator weaning, a tracheostomy was placed.
+
+Karla's respiratory status has since improved. She is currently off mechanical ventilation during daytime hours and communicates primarily by mouthing words, gestures, and writing.
+
+Speech-Language Pathology was consulted to evaluate Karla's candidacy for Passy-Muir Valve use and assess swallowing function prior to initiation of oral intake.
+
+:::
+
+## Relevant Swallowing History
+
+::: {.note-box}
+
+Karla's daughter reports concerns regarding swallowing that began **prior to the current hospitalization**.
+
+Over the past several months, Karla had shown decreased interest in eating and occasionally coughed during meals. Her daughter recalls at least two episodes in which Karla reported that food "went down the wrong way," resulting in prolonged coughing.
+
+Karla has experienced an **unintentional 8-pound weight loss over the past two months**.
+
+Karla has no known history of dysphagia evaluation or treatment.
+
+:::
+
+## Past Medical History
+
+| Condition | Status |
+|------|---------|
+| Hypertension | Chronic |
+| Type 2 Diabetes Mellitus | Chronic |
+| Mild Cognitive Impairment | Previously diagnosed |
+| Community-Acquired Pneumonia | Current admission |
+| Acute Hypoxemic Respiratory Failure | Recent |
+| Prolonged Intubation | Current hospitalization |
+| Tracheostomy Placement | 5 days ago |
+
+## Current Respiratory Status
+
+| Area | Information |
+|------|-------------|
+| Tracheostomy Tube | Shiley 6 cuffed tracheostomy |
+| Cuff | Deflatable |
+| Ventilator Status | Off ventilator during daytime hours |
+| Oxygen Delivery | Humidified tracheostomy collar |
+| FiO₂ | 28% |
+| Baseline SpO₂ | Approximately 94–96% |
+| Cuff Deflation | Tolerated during brief Respiratory Therapy trials |
+| Secretions | Moderate; patient able to cough and clear secretions |
+| Respiratory Status | Improving |
+
+## Current Communication
+
+| Area | Information |
+|------|-------------|
+| Alertness | Awake and alert |
+| Orientation | Oriented to person and place |
+| Cognition | Mild confusion noted intermittently |
+| Current Communication | Mouthing words, gestures, and writing |
+| Verbal Output | Unable to produce functional voice with open tracheostomy |
+| Command Following | Follows simple commands consistently |
+
+## Nutrition and Swallowing
+
+| Area | Information |
+|------|-------------|
+| Current Diet | NPO |
+| Nutrition | Enteral nutrition via nasogastric tube |
+| Previous Diet | Regular solids and thin liquids prior to hospitalization |
+| Prior Dysphagia History | No formal diagnosis |
+| Family Report | Coughing during meals and decreased oral intake prior to admission |
+| Weight Change | 8-pound unintentional loss over two months |
+| Swallow Evaluation | Pending |
+
+## SLP Orders
+
+- Evaluate candidacy for Passy-Muir Valve use
+- Assess tolerance of cuff deflation and PMV placement
+- Assess potential for functional voicing
+- Complete clinical swallowing evaluation as medically appropriate
+- Determine readiness for oral intake
+- Determine need for instrumental swallowing assessment
+- Develop recommendations for communication and dysphagia management
+
+## Chart Review Questions
+
+1. What information in Karla's chart supports proceeding with a PMV evaluation?
+
+2. What information requires continued monitoring during PMV placement?
+
+3. What factors in Karla's history increase concern for dysphagia?
+
+4. Which dysphagia risk factors were present **before** her current hospitalization?
+
+5. What new factors from this hospitalization may further affect swallowing function?
+
+6. How might Karla's respiratory status influence today's swallowing evaluation?
+
+7. What additional information should the SLP obtain before beginning the evaluation?
+
+8. Which members of the interdisciplinary team may provide information relevant to today's assessment?
+
+::: {.warning}
+Karla's swallowing concerns cannot be attributed solely to the presence of a tracheostomy. Consider her **pre-hospital swallowing history, acute medical course, respiratory status, prolonged intubation, nutritional status, and current clinical presentation** when planning your evaluation.
+:::
+
+## Continue
+
+[Go to Interdisciplinary Notes](interdisciplinary.html)

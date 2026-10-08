@@ -1,0 +1,116 @@
+---
+title: "PMV & Swallowing Considerations"
+---
+
+::: {.patient-banner}
+# Planning the Evaluation
+
+Karla has been referred for both Passy-Muir Valve assessment and swallowing evaluation. Before entering the room, determine how you will approach today's evaluation and what information you need to obtain.
+:::
+
+::: {.warning}
+## SLP Task
+
+Use information from the chart and interdisciplinary documentation to plan your evaluation. Be prepared to explain the order of your assessment, identify safety considerations, and justify when you would proceed, modify, or discontinue the evaluation.
+:::
+
+## Before Entering the Room
+
+Discuss the following with your group:
+
+1. What information should be confirmed before beginning a PMV trial?
+
+2. What equipment or supplies should be available during the evaluation?
+
+3. Which baseline measures should be obtained before cuff deflation or PMV placement?
+
+4. What signs would suggest that Karla is tolerating cuff deflation?
+
+5. What findings would make you delay or discontinue PMV placement?
+
+6. How might Karla's current respiratory status influence the duration of the evaluation?
+
+---
+
+## PMV and Swallowing
+
+Consider how PMV use may relate to the swallowing portion of today's evaluation.
+
+### Discuss:
+
+1. If Karla tolerates PMV placement, would you complete the clinical swallowing evaluation with the valve in place? Why or why not?
+
+2. Does successful PMV tolerance indicate that swallowing is safe?
+
+3. How might restoring airflow through the upper airway affect your ability to evaluate:
+   - Vocal quality
+   - Cough strength
+   - Secretion management
+   - Patient communication
+
+4. What information obtained during the PMV trial may also be relevant to the swallowing evaluation?
+
+---
+
+## Planning the Clinical Swallowing Evaluation
+
+Karla has several factors that may influence today's bedside assessment.
+
+Consider:
+
+- Recent prolonged intubation
+- Tracheostomy placement
+- Acute respiratory illness
+- Reduced endurance
+- Mild cognitive impairment
+- Pre-hospital coughing during meals
+- Reduced oral intake
+- Unintentional weight loss
+
+### Discuss:
+
+1. What components should be included in a focused oral mechanism examination?
+
+2. What aspects of Karla's respiratory status should be monitored during PO trials?
+
+3. Which consistencies would you consider presenting during the evaluation?
+
+4. How will you determine whether to continue, modify, or discontinue PO trials?
+
+5. What findings can be identified during a clinical swallowing evaluation?
+
+6. What important information **cannot** be determined from bedside assessment alone?
+
+---
+
+::: {.note-box}
+## Clinical Reminder
+
+The purpose of the clinical swallowing evaluation is not to determine whether aspiration is definitively present or absent.
+
+Use the bedside assessment to characterize swallowing function, identify clinical signs and risk factors, determine immediate safety considerations, and decide whether additional assessment is warranted.
+:::
+
+---
+
+## Before You Begin
+
+As a group, briefly identify:
+
+**Your first priority when entering the room:**
+
+____________________________________________________________
+
+**The most important safety concern you will monitor:**
+
+____________________________________________________________
+
+**One finding that would cause you to stop or modify the evaluation:**
+
+____________________________________________________________
+
+---
+
+## Continue
+
+[Begin Clinical Evaluation](evaluation.html)

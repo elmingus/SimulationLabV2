@@ -1,0 +1,69 @@
+---
+title: "Clinical Implications"
+---
+
+::: {.patient-banner}
+# Clinical Implications
+
+Today's simulation required you to integrate respiratory status, communication, swallowing, medical history, and interdisciplinary information to develop a plan for a medically complex patient.
+:::
+
+## Reflect on the Evaluation
+
+Discuss the following with your group:
+
+1. Which finding had the greatest influence on your clinical decision-making?
+
+2. How did Karla's pre-hospital swallowing history change your interpretation of the bedside evaluation?
+
+3. What information could you obtain from the clinical swallowing evaluation, and what information remained unknown?
+
+4. How did PMV tolerance influence the evaluation without determining swallowing safety?
+
+---
+
+## From Bedside to Instrumentation
+
+Consider the progression of today's assessment:
+
+**Chart Review → Interdisciplinary Information → PMV Evaluation → Clinical Swallowing Evaluation → Clinical Decision-Making**
+
+### Discuss
+
+- At what point did you determine that additional swallowing assessment was or was not needed?
+- What clinical question would you want an instrumental assessment to answer?
+- How would those results influence Karla's diet, treatment, or discharge recommendations?
+
+---
+
+::: {.note-box}
+## Key Clinical Takeaway
+
+Clinical decision-making in acute care rarely depends on a single finding.
+
+For patients with complex medical histories, recommendations should integrate the patient's baseline function, acute medical course, respiratory status, bedside presentation, goals, and the limitations of the available assessment.
+:::
+
+---
+
+## Final Reflection
+
+Before completing today's simulation:
+
+1. What part of the evaluation felt most comfortable?
+
+2. What part required the most clinical reasoning?
+
+3. What is one skill you would like additional practice with before independently evaluating a similar patient?
+
+---
+
+## Documentation
+
+Complete your Simulation 7 SOAP note using the provided template.
+
+Be sure your documentation clearly communicates your clinical findings, interpretation, recommendations, and plan for follow-up.
+
+---
+
+[Return to Simulation 7 Home](index.html)

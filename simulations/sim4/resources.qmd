@@ -1,0 +1,256 @@
+---
+title: "AAC Consultation Resources"
+---
+
+[Return to Simulation 4](index.qmd)
+
+## Acute Care AAC Toolkit
+
+AAC includes any strategy, tool, or system used to supplement or replace speech.
+
+In acute care, AAC is frequently used to support communication for patients experiencing:
+
+- Intubation or mechanical ventilation
+- Tracheostomy
+- Neurological injury
+- Motor impairment
+- Aphasia
+- Dysarthria
+- Hearing loss
+- Visual impairment
+- Temporary confusion
+- Fatigue
+- Language-access barriers
+
+## Low-Tech AAC Options
+
+Low-tech AAC does not require electronic equipment.
+
+Examples include:
+
+- Yes/no board
+- Alphabet board
+- Picture communication board
+- Pain scale
+- Body-part diagram
+- Written choice board
+- Communication notebook
+- Eye-gaze board
+- Partner-assisted scanning
+- Whiteboard
+- Gesture
+- Written key words
+
+## High-Tech AAC Options
+
+High-tech AAC may include:
+
+- Tablet-based communication applications
+- Speech-generating devices
+- Eye-gaze speech-generating devices
+- Switch-access communication systems
+- Head-controlled devices
+- Text-to-speech applications
+- Personal voice amplifiers
+
+::: {.callout-note}
+The most appropriate AAC method is the method the patient can use reliably, efficiently, and consistently. The most technologically advanced option is not always the best option.
+:::
+
+## Feature-Matching Considerations
+
+Feature matching involves comparing the patient's skills and needs with the characteristics of available AAC systems.
+
+| Patient Factor | AAC Considerations |
+|---|---|
+| Motor ability | Direct selection, eye gaze, switch access, partner-assisted scanning |
+| Vision | Target size, contrast, spacing, lighting, field of presentation |
+| Hearing | Written supports, amplification, visual cues |
+| Language | Vocabulary complexity, symbol type, literacy, preferred language |
+| Cognition | Number of choices, navigation demands, memory demands |
+| Fatigue | Physical effort, visual effort, need for backup methods |
+| Medical status | Positioning, respiratory support, alertness, pain |
+| Communication needs | Pain, comfort, choices, medical decisions, family contact |
+| Environment | Noise, staff familiarity, board placement, infection control |
+
+## Establishing Yes/No Responses
+
+A reliable yes/no response is often the foundation of functional communication.
+
+### Possible Response Modes
+
+- Verbal response
+- Head nod or shake
+- Eye movement
+- Blink response
+- Thumb movement
+- Finger movement
+- Pointing to written choices
+- Switch activation
+
+### Reliability Check
+
+Ask several questions with known answers.
+
+Include:
+
+- Questions for which the answer is yes
+- Questions for which the answer is no
+- Questions related to personal information
+- Questions unrelated to immediate wants or needs
+
+Avoid relying on a single response.
+
+## Partner-Assisted Scanning
+
+Partner-assisted scanning may be useful when the patient cannot directly point to a communication target.
+
+The communication partner:
+
+1. Presents categories or choices.
+2. Pauses after each option.
+3. Watches for the patient's established response.
+4. Confirms the selected message.
+5. Repeats the process as needed.
+
+Example:
+
+> Are you uncomfortable because of pain, positioning, temperature, toileting, breathing, or something else?
+
+## Common ICU Communication Categories
+
+A bedside communication board may include:
+
+### Medical and Safety
+
+- Pain
+- Difficulty breathing
+- Suction
+- Nurse
+- Medication
+- Reposition
+- Bathroom
+- Call light
+
+### Comfort
+
+- Hot
+- Cold
+- Blanket
+- Pillow
+- Itching
+- Lights
+- Television
+- Tired
+
+### Personal Needs
+
+- Family
+- Phone
+- Glasses
+- Hearing aids
+- Food
+- Drink
+- Privacy
+- Stop
+
+### Emotional Needs
+
+- Scared
+- Frustrated
+- Sad
+- Anxious
+- Confused
+- Need information
+
+## Communication Partner Strategies
+
+Staff and family should:
+
+- Gain the patient's attention.
+- Face the patient.
+- Reduce distractions.
+- Use short, direct messages.
+- Ask one question at a time.
+- Allow adequate response time.
+- Verify yes/no responses.
+- Confirm the patient's intended message.
+- Keep AAC materials within reach and view.
+- Document the established communication method.
+- Provide a backup communication strategy.
+
+## Interpreter Considerations
+
+A qualified medical interpreter should be used for:
+
+- Medical assessment
+- Informed consent
+- Diagnosis and prognosis
+- Treatment education
+- Medical decision-making
+- Discharge planning
+- Complex symptom discussion
+
+AAC may support immediate communication across languages but should not replace appropriate interpreter services.
+
+## Documentation Reminders
+
+An acute care AAC note may describe:
+
+### Subjective
+
+- Reason for consultation
+- Patient or staff concerns
+- Patient-reported communication needs
+
+### Objective
+
+- Alertness
+- Command following
+- Yes/no reliability
+- Speech and language abilities
+- Reading and writing
+- Motor access
+- Vision and hearing
+- AAC methods trialed
+- Level of cueing or assistance
+- Patient accuracy and efficiency
+
+### Assessment
+
+- Primary communication barrier
+- Most effective access method
+- Functional implications
+- Need for skilled SLP services
+- Patient's ability to communicate medical needs and decisions
+
+### Plan
+
+- Recommended AAC system
+- Staff and family education
+- Bedside signage
+- Interdisciplinary coordination
+- Follow-up
+- Need for additional assessment
+
+## Example Assessment Statement
+
+> Pt presents with impaired functional communication secondary to absent verbal output and severe motor limitations. Pt demonstrated reliable responses to concrete yes/no questions using upward eye gaze for yes and downward eye gaze for no. Pt successfully selected basic medical and comfort needs from a low-tech eye-gaze communication board with minimal cueing. Recommend continued use of established eye-gaze system with partner-assisted scanning available as a backup method.
+
+## Example Plan Statement
+
+> Continue skilled ST intervention to establish an efficient and reliable AAC system for communication of basic wants, medical needs, and care preferences. Provide ongoing staff and family education and coordinate with OT and nursing regarding positioning, access, and bedside implementation.
+
+## End-of-Simulation Reflection
+
+After completing all four cases, consider:
+
+1. How did motor, sensory, cognitive, linguistic, and environmental factors affect AAC selection?
+
+2. When was low-tech AAC more appropriate than high-tech AAC?
+
+3. How did the immediate medical context influence your recommendations?
+
+4. What information would you communicate to nursing at the end of each consultation?
+
+5. What aspects of AAC assessment and implementation require additional practice?

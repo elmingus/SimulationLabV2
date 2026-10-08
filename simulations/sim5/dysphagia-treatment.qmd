@@ -1,0 +1,239 @@
+---
+title: "Evidence-Based Dysphagia Treatment"
+---
+
+::: {.patient-banner}
+## Dysphagia Treatment in Acute and Critical Care
+
+Treatment should be selected based on the patient’s swallowing physiology, medical status, goals, cognition, endurance, and ability to participate.
+:::
+
+::: {.warning}
+## SLP Task
+
+For each intervention, identify whether it is primarily compensatory, rehabilitative, or adjunctive. Be prepared to explain what impairment or clinical goal the intervention is intended to address.
+:::
+
+# What Did the Systematic Review Examine?
+
+Duncan and colleagues reviewed randomized and quasi-randomized trials examining dysphagia interventions for adults in acute and critical care.
+
+The review included:
+
+- 22 studies
+- Approximately 1,700 participants
+- 19 acute stroke studies
+- 2 intensive care studies involving patients with stroke and tracheostomy
+- 1 general intensive care study
+- 9 intervention categories
+
+Most of the available evidence came from patients with acute stroke. Evidence specific to general critical care populations was limited.
+
+---
+
+# Major Findings
+
+## Pneumonia
+
+Swallowing treatment was associated with a reduced risk of pneumonia across the included studies.
+
+::: {.note-box}
+The certainty of this evidence was rated as **low**, meaning the true effect may differ from the estimated effect.
+:::
+
+## Aspiration
+
+The review did not find clear evidence that swallowing treatment reduced aspiration after treatment.
+
+## Return to Oral Intake
+
+The review did not find clear evidence that treatment shortened the time required to return to oral intake.
+
+## Hospital Length of Stay
+
+The review did not find clear evidence of a reduction in hospital length of stay.
+
+## Pharyngeal Residue
+
+A small number of studies found improvement in pharyngeal residue severity, but the certainty of evidence was very low.
+
+## Overall Conclusion
+
+The authors concluded that evidence supporting specific dysphagia interventions in acute and critical care remains limited.
+
+---
+
+# Treatment Categories
+
+## Compensatory Strategies
+
+Compensatory strategies are intended to improve swallowing safety or efficiency during use.
+
+They do not necessarily create lasting physiologic change.
+
+Examples may include:
+
+- Altering bolus volume
+- Altering rate of intake
+- Alternating solids and liquids
+- Upright positioning
+- Postural adjustments
+- Diet or liquid modification
+- Environmental modifications
+- Feeding assistance or supervision
+
+::: {.note-box}
+A compensatory strategy should be selected because it addresses an identified clinical problem—not simply because it is commonly used.
+:::
+
+---
+
+## Rehabilitative Interventions
+
+Rehabilitative interventions are intended to produce longer-term changes in strength, coordination, range of motion, sensation, or swallowing physiology.
+
+Interventions represented in the review included:
+
+- Tongue-palate resistance training
+- Respiratory muscle strength training
+- Chin tuck against resistance
+- Effortful swallowing exercises
+- Traditional swallowing exercises
+- Behavioral swallowing interventions
+
+The review did not establish one exercise as universally effective for all acute care patients.
+
+---
+
+## Sensory and Neurostimulation Interventions
+
+The review also included:
+
+- Neuromuscular electrical stimulation
+- Pharyngeal electrical stimulation
+- Transcranial direct current stimulation
+- Transcranial magnetic stimulation
+- Acupuncture
+
+Evidence varied considerably across interventions and outcomes. Several approaches remain specialized, emerging, or experimental within acute and critical care practice.
+
+---
+
+# Clinical Reasoning Framework
+
+Use the following sequence when developing a treatment plan.
+
+## 1. Identify the Impairment
+
+Examples:
+
+- Reduced lingual strength
+- Reduced bolus control
+- Reduced hyolaryngeal movement
+- Reduced pharyngeal clearance
+- Impaired airway closure
+- Reduced cough strength
+- Reduced endurance
+- Reduced sensation
+
+## 2. Identify the Functional Consequence
+
+Examples:
+
+- Anterior loss
+- Oral residue
+- Prolonged oral preparation
+- Pharyngeal residue
+- Penetration or aspiration
+- Inability to manage secretions
+- Inability to sustain a meal
+- Increased respiratory burden
+
+## 3. Select an Intervention
+
+Ask:
+
+- Does the intervention target the identified impairment?
+- Can the patient follow the directions?
+- Is the patient medically stable?
+- Can the patient complete the required intensity?
+- Is the treatment supported by instrumental findings?
+- Is the intervention appropriate for the current phase of recovery?
+- What outcome will be measured?
+
+## 4. Reassess
+
+Determine whether the intervention improves:
+
+- Swallow safety
+- Swallow efficiency
+- Oral intake
+- Secretion management
+- Patient comfort
+- Participation
+- Quality of life
+
+---
+
+# Apply It
+
+## Scenario 1
+
+A patient demonstrates reduced lingual strength and prolonged oral transit.
+
+What intervention category might be appropriate?
+
+<details>
+<summary><strong>Reveal Discussion</strong></summary>
+
+A rehabilitative intervention targeting lingual strength may be considered if the patient is medically stable and able to participate.
+
+The specific exercise, intensity, and resistance should be individualized.
+
+</details>
+
+---
+
+## Scenario 2
+
+A patient aspirates thin liquids during an instrumental assessment but demonstrates improved airway protection with a specific postural adjustment.
+
+What intervention category is this?
+
+<details>
+<summary><strong>Reveal Discussion</strong></summary>
+
+This is a **compensatory strategy** because it improves swallowing performance while the strategy is being used.
+
+</details>
+
+---
+
+## Scenario 3
+
+A critically ill patient is significantly fatigued, inconsistently alert, and unable to follow multistep directions.
+
+Would an intensive exercise program be appropriate today?
+
+<details>
+<summary><strong>Reveal Discussion</strong></summary>
+
+Possibly not.
+
+The treatment plan should reflect the patient’s medical stability, alertness, endurance, and capacity to participate. Initial management may instead prioritize positioning, oral care, secretion management, caregiver education, and reassessment.
+
+</details>
+
+---
+
+::: {.note-box}
+## Evidence Pearl
+
+Absence of strong evidence does not mean that all treatment is ineffective. It means clinicians should avoid overstating certainty, select interventions based on a defensible physiologic rationale, and measure patient-centered outcomes.
+:::
+
+---
+
+## Continue
+
+[Oral Mechanism Case Practice](case-practice.html)

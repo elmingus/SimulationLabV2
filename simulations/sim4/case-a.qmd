@@ -1,0 +1,225 @@
+---
+title: "Case A: Quadriplegia and Loss of Speech"
+---
+
+::: {.patient-banner}
+# Benjamin Carter
+
+**38-year-old male** | **Consult:** AAC Evaluation
+:::
+
+::: {.warning}
+
+**SLP Task:** Review the patient information below and determine the most appropriate AAC supports to facilitate functional communication in the acute care setting.
+
+:::
+
+## Patient Snapshot
+
+| Patient Information | Details |
+|------|-------------|
+| Name | Benjamin Carter |
+| Age | 38 |
+| Admitting Diagnosis | C3–C4 spinal cord injury |
+| Current Setting | Intensive Care Unit |
+| Respiratory Status | Mechanically ventilated |
+| Communication Status | Unable to produce functional speech |
+| Motor Status | Quadriplegia with minimal voluntary head movement |
+| Cognitive Status | Alert and able to follow commands |
+| Language | English |
+| Family | Partner visits regularly |
+
+## Chief Concern
+
+::: {.note-box}
+
+The patient has frequently attempted to gain the attention of staff. Nursing reports that the patient appears frustrated and uncomfortable.
+
+Through informal yes/no questioning, staff believe that the patient may be experiencing:
+
+- A headache
+- Discomfort related to positioning
+- A recent episode of urinary incontinence
+- A desire to speak with their partner
+
+Nursing has not yet established a consistent communication system.
+
+:::
+
+::: {.warning}
+
+**Immediate Clinical Concern:** The patient currently lacks a reliable method for communicating pain, physical discomfort, hygiene needs, and requests for assistance.
+
+:::
+
+## Step 1: Identify the Communication Barrier
+
+Consider the following:
+
+- Why is verbal communication unavailable?
+- What communication abilities appear to be preserved?
+- What information is still needed before selecting an AAC method?
+- Are the patient's responses reliable and consistent?
+- Does the patient have sufficient vision for an eye-gaze system?
+- Can the patient move their eyes vertically and horizontally?
+- Is head movement reliable enough to use as an access method?
+- Can the patient tolerate sustained visual attention?
+
+## Step 2: Establish a Reliable Yes/No Response
+
+Before introducing a larger communication system, determine whether the patient has a reliable yes/no response.
+
+Possible response modes include:
+
+- Looking upward for yes and downward for no
+- Looking toward a written **YES** or **NO**
+- Blinking once for yes and twice for no
+- Moving the head in a consistent direction
+- Using partner-assisted scanning
+
+Test the response using questions with known answers.
+
+Examples:
+
+- Is your name Benjamin?
+- Are you currently in the hospital?
+- Are you 10 years old?
+- Is your partner's name Maria?
+
+::: {.note-box}
+
+A reliable yes/no response should be verified across multiple questions before it is used for medical decision-making.
+
+:::
+
+## Step 3: Evaluate Access Skills
+
+Determine which access methods may be feasible.
+
+### Motor Access
+
+- Can the patient move either hand?
+- Can the patient point?
+- Can the patient move their head?
+- Can the patient activate a switch?
+- Are eye movements consistent?
+- Does fatigue affect performance?
+
+### Sensory Access
+
+- Can the patient see large written words?
+- Can the patient visually scan multiple options?
+- Does the patient require glasses?
+- Can the patient hear verbal choices?
+- Is background noise affecting performance?
+
+### Cognitive-Linguistic Skills
+
+- Can the patient follow one-step directions?
+- Can the patient read single words?
+- Can the patient identify pictures?
+- Can the patient make selections from a field of choices?
+- Can the patient maintain attention long enough to use a communication system?
+
+## Step 4: Select AAC Supports
+
+Which supports would you trial?
+
+- Eye-gaze communication board
+- Large-print yes/no board
+- Partner-assisted auditory scanning
+- Pain-rating board
+- Body-part or positioning board
+- Alphabet board
+- Speech-generating device with eye-gaze access
+- Single-message switch
+- Call system adapted for head or eye movement
+
+Consider:
+
+1. Which option offers the fastest access to urgent needs?
+2. Which option requires the least physical effort?
+3. Which option can nursing staff use consistently across shifts?
+4. What backup method should be available if the primary system fails?
+
+## Step 5: Address Immediate Needs
+
+Using the patient's established response method, determine the priority of the following concerns:
+
+- Headache
+- Repositioning
+- Incontinence and hygiene
+- Contacting the patient's partner
+
+Consider how you would communicate each need to the appropriate team member.
+
+| Patient Need | Appropriate Follow-Up |
+|------|-------------|
+| Headache | Notify nursing and support pain assessment |
+| Positioning discomfort | Notify nursing and/or physical or occupational therapy |
+| Hygiene needs | Notify nursing staff |
+| Contact partner | Confirm patient consent and assist with communication |
+
+## Step 6: Interdisciplinary Coordination
+
+Which team members may need to participate?
+
+- Nursing
+- Respiratory therapy
+- Occupational therapy
+- Physical therapy
+- Physician or advanced practice provider
+- Family or communication partner
+- Assistive technology specialist
+
+Consider what education should be placed at the bedside.
+
+Examples:
+
+- The patient's established yes/no response
+- Positioning instructions for the communication board
+- Instructions for partner-assisted scanning
+- A list of frequently requested messages
+- The patient's preferred communication method
+- Instructions for verifying responses
+
+## Documentation Task
+
+Complete a SOAP note that includes:
+
+- The reason for consultation
+- Communication and access skills assessed
+- Reliability of yes/no responses
+- AAC strategies trialed
+- Level of assistance required
+- Immediate needs identified
+- Patient and staff education
+- Interdisciplinary recommendations
+- Plan for follow-up
+
+## Reflection Questions
+
+1. How did you determine the order in which the patient's immediate needs should be addressed?
+
+2. Which AAC method was most appropriate for this patient, and what patient-specific factors supported your choice?
+
+3. What backup communication method would you recommend if fatigue or visual changes reduced the patient's eye-gaze accuracy?
+
+<details>
+<summary><strong>Reveal Example Clinical Reasoning</strong></summary>
+
+The patient is alert, follows commands, and has severe motor limitations with no functional speech. Eye movement may represent the patient's most reliable access method.
+
+An initial low-tech system could include a large-print yes/no board and an eye-gaze communication board containing urgent messages such as pain, positioning, suction, bathroom, family, hot, cold, and call nurse.
+
+Partner-assisted scanning could serve as a backup method. The communication partner would verbally present categories and choices while the patient uses the established yes/no response.
+
+A high-tech eye-gaze speech-generating device could be considered if the communication impairment is expected to continue and the patient demonstrates adequate visual attention and language skills.
+
+The most urgent concerns are pain, positioning, and hygiene. Nursing should be notified immediately, while the patient's request to contact their partner should be addressed after consent is confirmed.
+
+</details>
+
+## Continue
+
+[Go to Case B](case-b.html)

@@ -1,0 +1,170 @@
+---
+title: "Cranial Nerves and Oral Mechanism Examination"
+---
+
+::: {.patient-banner}
+## Cranial Nerve Review
+
+A focused oral mechanism examination helps the SLP describe the integrity and function of structures involved in speech and swallowing.
+:::
+
+::: {.warning}
+## SLP Task
+
+Work with a partner. One person performs the examination while the other identifies the cranial nerve, expected response, and possible functional implications.
+:::
+
+## Before You Begin
+
+A cranial nerve examination is only one component of the clinical assessment.
+
+An isolated abnormal finding does not independently diagnose dysphagia or aspiration. Interpret findings alongside the patient’s medical history, respiratory status, cognition, communication abilities, secretion management, and swallowing presentation.
+
+---
+
+## Cranial Nerves Relevant to Speech and Swallowing
+
+| Cranial Nerve | Primary Functions | Focused Assessment | Possible Functional Relevance |
+|---|---|---|---|
+| **CN V: Trigeminal** | Jaw movement; facial and oral sensation | Open and close jaw; clench teeth; assess jaw strength and symmetry; assess facial sensation when indicated | Mastication, oral preparation, awareness of material in the oral cavity |
+| **CN VII: Facial** | Facial movement; lip closure; taste to anterior tongue | Smile; pucker; retract lips; puff cheeks; assess facial symmetry | Labial seal, anterior containment, oral pressure |
+| **CN IX: Glossopharyngeal** | Pharyngeal sensation; taste to posterior tongue; contribution to pharyngeal movement | Consider sensory response and patient report; gag testing is not routinely necessary | Pharyngeal sensation and sensory input for swallowing |
+| **CN X: Vagus** | Palatal movement; phonation; laryngeal function; cough; pharyngeal movement | Observe palate during sustained “ah”; assess voice quality; voluntary cough; secretion management | Airway protection, vocal fold function, pharyngeal movement |
+| **CN XI: Spinal Accessory** | Head turn and shoulder elevation | Shoulder shrug; turn head against resistance | Positioning and ability to use some postural strategies |
+| **CN XII: Hypoglossal** | Tongue movement | Protrude tongue; lateralize; elevate; depress; assess strength and symmetry | Bolus formation, manipulation, propulsion, oral clearance |
+
+---
+
+# Quiz Yourself
+
+Try to answer each item before revealing the response.
+
+## Question 1
+
+A patient presents with reduced lip closure and anterior loss of liquids.
+
+<details>
+<summary><strong>Reveal Answer</strong></summary>
+
+**CN VII: Facial**
+
+CN VII contributes to facial movement and labial closure. Reduced function may affect anterior containment and generation of oral pressure.
+
+</details>
+
+---
+
+## Question 2
+
+A patient demonstrates reduced tongue lateralization and difficulty clearing food from the lateral sulci.
+
+<details>
+<summary><strong>Reveal Answer</strong></summary>
+
+**CN XII: Hypoglossal**
+
+CN XII supports tongue movement for bolus manipulation, lateralization, propulsion, and oral clearance.
+
+</details>
+
+---
+
+## Question 3
+
+A patient presents with a breathy voice and weak voluntary cough.
+
+<details>
+<summary><strong>Reveal Answer</strong></summary>
+
+**CN X: Vagus**
+
+These findings may raise concern for impaired laryngeal function or airway protection. They do not independently confirm aspiration.
+
+</details>
+
+---
+
+## Question 4
+
+A patient demonstrates reduced jaw opening and weak mastication.
+
+<details>
+<summary><strong>Reveal Answer</strong></summary>
+
+**CN V: Trigeminal**
+
+CN V supports jaw movement and contributes to oral sensation.
+
+</details>
+
+---
+
+## Question 5
+
+A patient is unable to maintain an upright head position or turn the head adequately.
+
+<details>
+<summary><strong>Reveal Answer</strong></summary>
+
+**CN XI: Spinal Accessory**
+
+CN XI supports shoulder elevation and head turning. Weakness may affect positioning and the feasibility of some compensatory postures.
+
+</details>
+
+---
+
+# Partner Practice
+
+Complete a focused oral mechanism examination.
+
+## Face and Lips
+
+- Observe facial symmetry at rest.
+- Ask the patient to smile.
+- Ask the patient to pucker.
+- Ask the patient to puff the cheeks.
+- Assess lip strength and ability to maintain pressure.
+
+## Jaw
+
+- Observe jaw position at rest.
+- Ask the patient to open and close the jaw.
+- Assess lateral jaw movement.
+- Assess strength when clinically appropriate.
+
+## Tongue
+
+- Observe the tongue at rest.
+- Ask the patient to protrude the tongue.
+- Ask the patient to move the tongue left and right.
+- Ask the patient to elevate and depress the tongue.
+- Assess strength against resistance when appropriate.
+
+## Palate and Voice
+
+- Ask the patient to sustain “ah.”
+- Observe palatal movement and symmetry.
+- Listen to vocal quality.
+- Assess loudness and phonatory stability.
+- Ask for a voluntary cough or throat clear when appropriate.
+
+## Secretion Management
+
+- Observe the patient’s ability to manage saliva.
+- Note drooling, frequent suctioning, wet vocal quality, or visible secretions.
+- Consider alertness, respiratory status, and spontaneous swallowing frequency.
+
+---
+
+::: {.note-box}
+## Clinical Pearl
+
+Do not interpret the gag reflex as a stand-alone measure of swallowing safety. The Bours systematic review found that single clinical features, including an abnormal gag or volitional cough, generally demonstrated limited diagnostic usefulness when used alone.
+:::
+
+---
+
+## Continue
+
+[Evidence-Based Dysphagia Treatment](dysphagia-treatment.html)

@@ -1,0 +1,194 @@
+---
+title: "Oral Mechanism Case Practice"
+---
+
+::: {.patient-banner}
+## Case Practice
+
+Complete a focused oral mechanism examination for each patient. The emphasis is on examination technique, expected findings, and clinical reasoning.
+:::
+
+::: {.warning}
+## SLP Task
+
+For each case:
+
+1. Identify the highest-priority components of the oral mechanism examination.
+2. Identify relevant cranial nerves.
+3. Describe findings you may reasonably anticipate.
+4. Avoid assuming that an expected deficit is present before completing the examination.
+:::
+
+# Case A: John
+
+## Patient Snapshot
+
+John is a 65-year-old man with a medical history significant for alcohol use disorder and a recent diagnosis of base-of-tongue squamous cell carcinoma.
+
+A tracheostomy tube was placed immediately before surgery due to concern for airway protection and anticipated postoperative edema.
+
+John is now postoperative day 2 following partial glossectomy. He is tolerating room air. The medical team consulted SLP for evaluation and treatment.
+
+## Consider
+
+- What structures were directly affected by surgery?
+- Which oral mechanism findings are highest priority?
+- How might postoperative edema affect the examination?
+- What information would you gather about the tracheostomy?
+- What communication and swallowing concerns may be present?
+- Would a bedside examination be sufficient to answer all clinical questions?
+
+<details>
+<summary><strong>Clinical Reasoning Prompts</strong></summary>
+
+Priority areas may include:
+
+- Tongue appearance, range of motion, strength, and symmetry
+- Surgical site and postoperative changes
+- Oral containment and secretion management
+- Voice and cough
+- Tracheostomy type, cuff status, and presence of a speaking valve
+- Respiratory stability
+- Ability to follow directions
+- Need for instrumental swallowing assessment
+
+Do not infer swallowing safety from room-air tolerance alone.
+
+</details>
+
+---
+
+# Case B: Lucy
+
+## Patient Snapshot
+
+Lucy is an 85-year-old woman who experienced a right-hemisphere stroke.
+
+She presents with left-sided hemiparesis and reduced sensation on the left side. She is currently NPO while awaiting SLP evaluation.
+
+Nursing reports no observed swallowing difficulty but notes that Lucy typically takes multiple pills simultaneously.
+
+## Consider
+
+- Which side of the face and oral cavity may be affected?
+- How will you assess facial and lingual sensation?
+- How might reduced awareness or attention affect the examination?
+- Does the absence of nursing concern rule out dysphagia?
+- What additional cognitive or perceptual findings may influence oral intake?
+- Is taking multiple pills at once appropriate during the initial evaluation?
+
+<details>
+<summary><strong>Clinical Reasoning Prompts</strong></summary>
+
+Priority areas may include:
+
+- Facial symmetry and labial closure
+- Oral sensation
+- Tongue range of motion and strength
+- Oral awareness and residue detection
+- Attention to the left side
+- Alertness and ability to follow safety directions
+- Voice, cough, and secretion management
+- Medication administration practices
+
+A right-hemisphere stroke may also affect attention, awareness, judgment, and self-monitoring. Findings must be confirmed through assessment rather than assumed.
+
+</details>
+
+---
+
+# Case C: Ken
+
+## Patient Snapshot
+
+Ken is a 43-year-old man who experienced a left-hemisphere stroke.
+
+He has just been admitted to the ICU from the emergency department. He is a poor historian, and his past medical history is limited.
+
+Aphasia is suspected. He is awaiting SLP evaluation.
+
+## Consider
+
+- How will suspected aphasia affect your examination?
+- How can you distinguish difficulty understanding directions from motor impairment?
+- What communication supports could improve participation?
+- Which commands could be demonstrated rather than explained verbally?
+- What collateral information is needed before oral trials?
+- What aspects of the examination should be deferred if the patient cannot participate reliably?
+
+<details>
+<summary><strong>Clinical Reasoning Prompts</strong></summary>
+
+Consider using:
+
+- One-step directions
+- Visual demonstration
+- Gestures
+- Yes/no questions
+- Written keywords when appropriate
+- Additional processing time
+- Repetition or rephrasing
+- Information from nursing, family, and the medical record
+
+Document when examination results are limited by impaired comprehension, reduced alertness, or inconsistent participation.
+
+</details>
+
+---
+
+# Case D: Paul
+
+## Patient Snapshot
+
+Paul is a 36-year-old man admitted following surgery.
+
+He initially presented to a walk-in clinic with an 8-mm lesion on the left interior lower lip. Biopsy revealed squamous cell carcinoma of the lower lip, resulting in lower labial resection.
+
+Paul is doing well in recovery and is awaiting SLP evaluation.
+
+## Consider
+
+- What structural changes may affect oral function?
+- How will you assess labial closure?
+- What speech sounds may be affected?
+- How might the resection affect oral containment?
+- What compensatory strategies may be considered?
+- What additional information is needed regarding reconstruction, pain, edema, and surgical precautions?
+
+<details>
+<summary><strong>Clinical Reasoning Prompts</strong></summary>
+
+Priority areas may include:
+
+- Lip symmetry and range of motion
+- Labial strength and seal
+- Anterior containment
+- Oral pressure
+- Speech intelligibility
+- Pain and edema
+- Sensation near the surgical site
+- Surgical precautions and wound integrity
+
+Avoid manipulating the surgical site without confirming postoperative restrictions.
+
+</details>
+
+---
+
+# Documentation Practice
+
+Choose one case and write a brief objective statement.
+
+Use this structure:
+
+> Oral mechanism examination revealed ________. Findings may contribute to ________. Assessment was limited by ________.
+
+Then write one recommendation:
+
+> Recommend ________ to further evaluate or address ________.
+
+---
+
+## Continue
+
+[Bedside Assessment and Instrumentation](instrumentation.html)
