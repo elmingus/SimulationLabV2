@@ -1,0 +1,319 @@
+
+---
+title: "Oral Mechanism Case Practice"
+---
+
+::: {.patient-banner}
+## OME Case Simulations
+
+In this activity, you will work with a partner to complete simulated oral mechanism examinations using four acute care patient scenarios.
+
+Each case presents a different clinical challenge. Your goal is to practice examination techniques, recognize potential abnormalities, and connect findings to clinical reasoning.
+:::
+
+::: {.warning}
+## SLP Task
+
+Work with a partner and alternate roles as the SLP and simulated patient.
+
+**SLP Role**
+1. Review the patient history.
+2. Select and perform appropriate components of the OME.
+3. Describe the findings you observe.
+4. Identify relevant cranial nerves and possible functional implications.
+5. Determine what additional information may be needed.
+
+**Patient Role**
+1. Review the patient history and portrayal instructions.
+2. Simulate the assigned presentation to the best of your ability.
+3. Respond naturally to the SLP's instructions.
+4. Provide feedback following the examination.
+
+**Important:** The SLP should not review the patient portrayal instructions before completing the examination.
+:::
+
+## Before You Begin
+
+Remember that an OME provides information about structures and functions involved in speech and swallowing but does not independently establish swallowing safety.
+
+For each case, consider:
+
+- What information is available before entering the room?
+- Which examination components are most relevant?
+- What findings can you directly observe?
+- What findings require additional assessment?
+- How might the patient's medical condition influence your examination?
+
+---
+
+# Case A: John
+
+## Patient Snapshot
+
+John is a 65-year-old man with a medical history significant for alcohol use disorder and a recent diagnosis of base-of-tongue squamous cell carcinoma.
+
+A tracheostomy tube was placed immediately before surgery due to concern for airway protection and anticipated postoperative edema.
+
+John is now postoperative day 2 following partial glossectomy. He is tolerating room air. The medical team consulted SLP for evaluation and treatment.
+
+## Complete the Examination
+
+Consider the surgical history, postoperative status, and presence of a tracheostomy as you determine which components of the examination are appropriate.
+
+<details>
+<summary><strong>Patient Role: Portrayal Instructions</strong></summary>
+
+**Simulated Patient**
+
+- Demonstrate reduced tongue range of motion.
+- Limit tongue protrusion and lateralization.
+- Demonstrate difficulty manipulating the tongue within the oral cavity.
+- Respond as though oral movement is uncomfortable.
+- Communicate using gestures or brief responses if appropriate.
+
+These findings are simulated for educational purposes and do not represent the full range of postoperative presentations.
+
+</details>
+
+## Clinical Reasoning
+
+1. What structures were directly affected by surgery?
+2. Which oral mechanism findings are highest priority?
+3. How might postoperative edema affect the examination?
+4. What information would you gather about the tracheostomy?
+5. What communication and swallowing concerns may be present?
+6. Would a bedside examination be sufficient to answer all clinical questions?
+
+<details>
+<summary><strong>Clinical Reasoning Considerations</strong></summary>
+
+Priority areas may include:
+
+- Tongue appearance, range of motion, strength, and symmetry
+- Surgical site and postoperative changes
+- Oral containment and secretion management
+- Voice and cough
+- Tracheostomy type, cuff status, and presence of a speaking valve
+- Respiratory stability
+- Ability to follow directions
+- Need for instrumental swallowing assessment
+
+Do not infer swallowing safety from room-air tolerance alone.
+
+</details>
+
+---
+
+# Case B: Lucy
+
+## Patient Snapshot
+
+Lucy is an 85-year-old woman who experienced a right-hemisphere stroke.
+
+She presents with left-sided hemiparesis and reduced sensation on the left side. She is currently NPO while awaiting SLP evaluation.
+
+Nursing reports no observed swallowing difficulty but notes that Lucy typically takes multiple pills simultaneously.
+
+## Complete the Examination
+
+Consider how neurological changes may affect oral motor function, sensation, attention, and participation.
+
+<details>
+<summary><strong>Patient Role: Portrayal Instructions</strong></summary>
+
+**Simulated Patient**
+
+- Demonstrate reduced movement of the left side of the face.
+- Show difficulty maintaining symmetrical lip retraction.
+- Respond inconsistently when asked about sensation on the left side.
+- Occasionally overlook instructions or stimuli presented on the left.
+- Demonstrate reduced awareness of the simulated facial weakness.
+
+The SLP should distinguish observed findings from information that cannot be reliably simulated or verified.
+
+</details>
+
+## Clinical Reasoning
+
+1. Which side of the face and oral cavity may be affected?
+2. How will you assess facial and lingual sensation?
+3. How might reduced awareness or attention affect the examination?
+4. Does the absence of nursing concern rule out dysphagia?
+5. What additional cognitive or perceptual findings may influence oral intake?
+6. Is taking multiple pills at once appropriate during the initial evaluation?
+
+<details>
+<summary><strong>Clinical Reasoning Considerations</strong></summary>
+
+Priority areas may include:
+
+- Facial symmetry and labial closure
+- Oral sensation
+- Tongue range of motion and strength
+- Oral awareness and residue detection
+- Attention to the left side
+- Alertness and ability to follow safety directions
+- Voice, cough, and secretion management
+- Medication administration practices
+
+A right-hemisphere stroke may affect attention, awareness, judgment, and self-monitoring. Findings must be confirmed through assessment rather than assumed.
+
+</details>
+
+---
+
+# Case C: Ken
+
+## Patient Snapshot
+
+Ken is a 43-year-old man who experienced a left-hemisphere stroke.
+
+He has just been admitted to the ICU from the emergency department. He is a poor historian, and his past medical history is limited.
+
+Aphasia is suspected. He is awaiting SLP evaluation.
+
+## Complete the Examination
+
+Consider how communication difficulties may influence the administration and interpretation of the OME.
+
+<details>
+<summary><strong>Patient Role: Portrayal Instructions</strong></summary>
+
+**Simulated Patient**
+
+- Respond inconsistently to complex verbal instructions.
+- Demonstrate difficulty understanding some spoken commands.
+- Perform movements more successfully when the SLP provides a visual demonstration.
+- Occasionally produce an incorrect response to a verbal instruction.
+- Allow additional processing time to improve participation.
+
+Do not assume that difficulty following a verbal instruction reflects oral motor weakness.
+
+</details>
+
+## Clinical Reasoning
+
+1. How will suspected aphasia affect your examination?
+2. How can you distinguish difficulty understanding directions from motor impairment?
+3. What communication supports could improve participation?
+4. Which commands could be demonstrated rather than explained verbally?
+5. What collateral information is needed before oral trials?
+6. What aspects of the examination should be deferred if the patient cannot participate reliably?
+
+<details>
+<summary><strong>Clinical Reasoning Considerations</strong></summary>
+
+Consider using:
+
+- One-step directions
+- Visual demonstration
+- Gestures
+- Yes/no questions
+- Written keywords when appropriate
+- Additional processing time
+- Repetition or rephrasing
+- Information from nursing, family, and the medical record
+
+Document when examination results are limited by impaired comprehension, reduced alertness, or inconsistent participation.
+
+</details>
+
+---
+
+# Case D: Paul
+
+## Patient Snapshot
+
+Paul is a 36-year-old man admitted following surgery.
+
+He initially presented to a walk-in clinic with an 8-mm lesion on the left inner lower lip. Biopsy revealed squamous cell carcinoma of the lower lip, resulting in lower labial resection.
+
+Paul is doing well in recovery and is awaiting SLP evaluation.
+
+## Complete the Examination
+
+Consider the potential effects of surgical changes on labial function, oral containment, and speech production.
+
+<details>
+<summary><strong>Patient Role: Portrayal Instructions</strong></summary>
+
+**Simulated Patient**
+
+- Demonstrate reduced movement of the left lower lip.
+- Show difficulty maintaining a complete labial seal.
+- Allow air to escape when attempting to puff the cheeks.
+- Demonstrate mild difficulty producing bilabial sounds such as /p/, /b/, and /m/.
+- Respond as though movement near the surgical site is uncomfortable.
+
+These simulated findings are intended to represent possible functional changes rather than confirmed postoperative deficits.
+
+</details>
+
+## Clinical Reasoning
+
+1. What structural changes may affect oral function?
+2. How will you assess labial closure?
+3. What speech sounds may be affected?
+4. How might the resection affect oral containment?
+5. What compensatory strategies may be considered?
+6. What additional information is needed regarding reconstruction, pain, edema, and surgical precautions?
+
+<details>
+<summary><strong>Clinical Reasoning Considerations</strong></summary>
+
+Priority areas may include:
+
+- Lip symmetry and range of motion
+- Labial strength and seal
+- Anterior containment
+- Oral pressure
+- Speech intelligibility
+- Pain and edema
+- Sensation near the surgical site
+- Surgical precautions and wound integrity
+
+Avoid manipulating the surgical site without confirming postoperative restrictions.
+
+</details>
+
+---
+
+# Documentation Practice
+
+Choose one case and write a brief objective statement describing your examination findings.
+
+Distinguish between findings you directly observed and impairments that remain suspected or require further assessment.
+
+**Objective Statement**
+
+> Oral mechanism examination revealed ________. Findings may contribute to ________. Assessment was limited by ________.
+
+**Recommendation**
+
+> Recommend ________ to further evaluate or address ________.
+
+---
+
+## Partner Reflection
+
+After completing the activity, discuss:
+
+1. Which examination components were easiest to administer?
+2. What challenges arose when instructions were misunderstood or movements were limited?
+3. How did the patient's medical history influence your examination?
+4. Which findings could you confidently describe, and which would require additional assessment?
+5. How might these findings influence your decision to pursue instrumental swallowing assessment?
+
+::: {.note-box}
+## Clinical Pearl
+
+The purpose of the OME is not simply to identify an abnormal cranial nerve response.
+
+A clinically meaningful examination requires the SLP to integrate structural observations, functional performance, patient history, and the limitations of bedside assessment when developing clinical hypotheses and recommendations.
+:::
+
+---
+
+## Navigation
+
+[← Back: Cranial Nerve Review](cranial-nerves.html) | [Next: Bedside Assessment & Instrumentation →](instrumentation.html)

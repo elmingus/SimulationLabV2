@@ -1,91 +1,67 @@
+
 ---
-title: "Simulation 2: Cognitive Screening"
+title: "Simulation 2"
 ---
 
 ::: {.patient-banner}
-# Cindy Carlson
+## Oral Mechanism Examination & Clinical Swallow Assessment
 
-**92-year-old female** | **DOB:** 09/10/1932 | **Location:** Acute Care / Neuro Unit
+Today's simulation focuses on cranial nerve function, oral mechanism examination (OME), and clinical decision-making in dysphagia assessment.
 
-::: {.banner-grid}
-::: {.banner-item}
-**Hospital Day**  
-1
+Students will apply evidence from assigned readings, practice examination skills with peers, and explore the role of instrumental swallowing assessments in acute care.
 :::
-
-::: {.banner-item}
-**Primary Diagnosis**  
-Right MCA Ischemic Stroke
-:::
-
-::: {.banner-item}
-**Consult**  
-SLP Cognitive-Communication Evaluation
-:::
-
-::: {.banner-item}
-**Prior Function**  
-Independent
-:::
-:::
-:::
-
-## Simulation 2: Cognitive Screening
-
-This simulation focuses on chart review, clinical readiness for cognitive screening, and functional implications of cognitive-communication findings following right hemisphere stroke.
 
 ::: {.warning}
-**Clinical task:** Determine whether Cindy is appropriate for cognitive screening today. If appropriate, administer the MoCA during simulation and use results to describe functional implications.
+## SLP Task
+
+Work collaboratively to review cranial nerve function, complete simulated oral mechanism examinations, and interpret clinical findings.
+
+Throughout the session, consider what information can be obtained through bedside assessment, what limitations remain, and when additional assessment may be warranted.
 :::
 
-## Learning Focus
+## Learning Objectives
 
-Students will:
+By the end of this session, students will be able to:
 
-- Gather relevant clinical information from the medical chart.
-- Identify cognitive-communication risk factors after right MCA stroke.
-- Determine whether the patient is appropriate for cognitive screening.
-- Connect cognitive domains to functional skills and discharge planning.
-- Communicate findings using medical and patient-centered language.
+- Identify cranial nerves relevant to speech, swallowing, and airway protection.
+- Demonstrate components of a focused oral mechanism examination.
+- Interpret oral mechanism findings in relation to swallowing function.
+- Discuss the clinical utility and limitations of the OME in predicting aspiration.
+- Adapt examination procedures based on patient presentation and communication abilities.
+- Compare the purposes, strengths, and limitations of clinical swallow evaluation, FEES, and MBSS.
+- Apply clinical reasoning to determine when instrumental assessment may be indicated.
+- Integrate evidence from assigned readings into clinical decision-making.
 
-## Simulation Workflow
+---
 
-::: {.card-grid}
+## Today's Modules
 
-::: {.chart-card}
-### 📋 Step 1  
-## Chart Review
+### 1. Cranial Nerves & Oral Mechanism Examination
 
-Review the H&P, imaging, medications, prior level of function, and current plan of care.
+Review cranial nerves relevant to speech and swallowing, their associated functions, and methods of assessment.
 
-[Begin Chart Review](chart.html)
-:::
+Test your knowledge and practice components of a focused oral mechanism examination with a partner.
 
-::: {.chart-card}
-### 🏥 Step 2  
-## Interdisciplinary Notes
+[Begin Cranial Nerve Review](cranial-nerves.html)
 
-Review nursing, OT/PT, and medical notes for functional concerns.
+### 2. Oral Mechanism Case Practice
 
-[Review Notes](interdisciplinary.html)
-:::
+Work with a partner to complete simulated oral mechanism examinations using four acute care patient scenarios.
 
-::: {.chart-card}
-### 🧠 Step 3  
-## Screening Readiness
+Alternate roles as the SLP and patient while practicing examination techniques, interpreting findings, and discussing clinical implications.
 
-Determine whether Cindy is appropriate for MoCA administration today.
+[Begin Case Practice](case-studies.html)
 
-[Assess Readiness](readiness.html)
-:::
+### 3. Bedside Assessment & Instrumentation
 
-::: {.chart-card}
-### 🔎 Step 4  
-## Functional Implications
+Compare clinical swallow evaluation, FEES, and MBSS.
 
-Use cognitive domains to connect screening results to real-world function.
+Apply evidence from assigned readings and clinical scenarios to determine which assessment approach best addresses the clinical question.
 
-[Review Implications](implications.html)
-:::
+[Compare Assessment Options](instrumentation.html)
 
-:::
+---
+
+## Navigation
+
+[← Back: Simulation Home](../index.html) | [Next: Cranial Nerve Review →](cranial-nerves.html)

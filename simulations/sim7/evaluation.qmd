@@ -1,352 +1,202 @@
 ---
-title: "Clinical Evaluation"
+title: "PMV Evaluation"
 ---
 
 ::: {.patient-banner}
-# Karla Green — Bedside Evaluation
+# PMV Evaluation
 
-You are now seeing Karla at bedside for her Passy-Muir Valve and clinical swallowing evaluation.
-
-Use the patient, available equipment, medical record, and information obtained from the healthcare team to complete your assessment.
+Work through each evaluation scenario as though you are the treating Speech-Language Pathologist. At each step, determine whether you would continue, modify, or discontinue the trial.
 :::
+
+## Scenario 1: Initial PMV Trial
+
+### Step 1: Baseline Assessment
+
+Review Jane’s baseline status before beginning the evaluation.
+
+| Measure | Value |
+|---------|-------|
+| HR | 82 bpm |
+| RR | 18 breaths/min |
+| SpO₂ | 94% |
+| FiO₂ | 28% via humidified trach collar |
+| Alertness | Awake, alert, and cooperative |
+| Secretions | Moderate; able to cough and clear independently |
+
+### Clinical Decision
+
+1. Does Jane appear medically and respiratory stable enough to begin the evaluation?
+2. What additional information should be confirmed before proceeding?
+3. Would you proceed with cuff deflation?
+
+---
+
+### Step 2: Cuff Deflation
+
+Respiratory Therapy confirms that the cuff is completely deflated.
+
+Jane coughs several times following cuff deflation and clears a small amount of thin secretions. After two minutes, her respiratory status remains stable.
+
+| Measure | Value |
+|---------|-------|
+| HR | 84 bpm |
+| RR | 19 breaths/min |
+| SpO₂ | 94% |
+
+### Clinical Decision
+
+1. Is this response expected following cuff deflation?
+2. Would you continue with assessment of upper-airway patency?
+3. What signs would cause you to stop at this point?
+
+---
+
+### Step 3: Upper-Airway Patency
+
+With brief digital occlusion, Jane produces a weak but audible voice.
+
+Airflow is noted through the mouth and nose. Jane reports that breathing feels slightly more difficult but denies significant distress.
+
+### Clinical Decision
+
+1. Why is audible voice with digital occlusion clinically important?
+2. What does this suggest about upper-airway patency?
+3. Would you proceed with PMV placement?
+
+---
+
+### Step 4: PMV Placement
+
+The PMV is placed.
+
+During the first minute, Jane produces several short verbal responses. Her voice is breathy but audible.
+
+After approximately three minutes, Jane begins to demonstrate increased work of breathing.
+
+| Measure | Baseline | After 3 Minutes |
+|---------|----------|-----------------|
+| HR | 82 bpm | 94 bpm |
+| RR | 18 breaths/min | 26 breaths/min |
+| SpO₂ | 94% | 89% |
+| Work of Breathing | Comfortable | Increased |
+| Patient Report | No concern | “It feels harder to breathe.” |
+
+Jane appears mildly anxious and begins using accessory muscles for breathing.
+
+### Clinical Decision
+
+1. Is Jane tolerating the PMV?
+2. What findings indicate poor tolerance?
+3. What should the SLP do immediately?
+4. Which team member should be notified?
+5. What possible factors may have contributed to poor tolerance?
 
 ::: {.warning}
-## SLP Task
-
-Conduct the evaluation as you would in the acute care setting.
-
-Determine what information you need, obtain appropriate baseline measures, complete the PMV assessment, and proceed with the clinical swallowing evaluation as appropriate.
-
-**Do not assume that all necessary information will be provided automatically. Ask questions, obtain measurements, and request additional findings when clinically indicated.**
+Jane’s SpO₂ improves to 93% shortly after the PMV is removed. Her respiratory rate and work of breathing return toward baseline with rest.
 :::
 
-## Entering the Room
+### Initial Clinical Impression
 
-Karla is resting in bed with the head of bed elevated.
+Discuss with your group:
 
-She is awake and visually attends when you enter the room.
-
-She currently has:
-
-- Shiley 6 cuffed tracheostomy
-- Humidified tracheostomy collar at 28% FiO₂
-- Nasogastric tube in place
-- Pulse oximeter available at bedside
-- Writing materials available for communication
-
-Karla attempts to mouth a greeting when you approach.
+- Is Jane an appropriate candidate for continued PMV use today?
+- Would you discontinue the evaluation entirely or consider reassessment later?
+- What recommendations would you document following this trial?
+- What additional medical or respiratory information may be helpful before another attempt?
 
 ---
 
-## Patient Interview
+## Scenario 2: PMV Reassessment
 
-Before beginning the physical assessment, obtain information directly from Karla as appropriate.
+Two days later, Jane is referred for reassessment.
 
-::: {.note-box}
-### What would you like to know?
+Respiratory Therapy reports improved secretion management and increased tolerance of daytime trach collar trials. Jane has remained medically stable and continues to request an opportunity to speak.
 
-Develop your own interview questions.
+### Step 1: Updated Baseline Status
 
-Consider what information may be relevant to:
+| Measure | Value |
+|---------|-------|
+| HR | 78 bpm |
+| RR | 17 breaths/min |
+| SpO₂ | 95% |
+| FiO₂ | 28% via humidified trach collar |
+| Alertness | Awake, alert, and cooperative |
+| Secretions | Mild; independently managed |
+| Cuff Status | Completely deflated |
+| Respiratory Effort | Comfortable at rest |
 
-- Current symptoms
-- Swallowing prior to hospitalization
-- Current swallowing concerns
-- Previous diet
-- Eating and drinking habits
-- Recent changes in intake
-- Respiratory symptoms
-- Communication
-- Patient goals
+### Clinical Decision
 
-**Ask the patient your questions. Your instructor will provide Karla's responses.**
-:::
-
-### Discuss
-
-1. Which information from Karla's interview is most clinically relevant?
-
-2. Does the patient report align with information obtained from her daughter and the medical record?
-
-3. Is there additional information you would want from Karla's family or healthcare team?
+1. What has changed since the initial evaluation?
+2. Do these findings support another PMV trial?
+3. What precautions should remain in place?
 
 ---
 
-## Baseline Assessment
+### Step 2: Repeat PMV Trial
 
-Before manipulating the tracheostomy or beginning PO trials, determine Karla's baseline status.
+The PMV is placed following confirmation of cuff deflation and upper-airway patency.
 
-::: {.warning}
-### Obtain Baseline Vitals
+Jane wears the valve for 10 minutes while seated upright.
 
-Identify the physiologic measures you would obtain and monitor during today's evaluation.
+| Measure | Baseline | After 10 Minutes |
+|---------|----------|------------------|
+| HR | 78 bpm | 82 bpm |
+| RR | 17 breaths/min | 19 breaths/min |
+| SpO₂ | 95% | 94% |
+| Work of Breathing | Comfortable | Comfortable |
+| Voice | Weak | Audible and functional |
+| Secretions | Mild | Managed independently |
 
-**Ask your instructor for each measurement you determine is clinically relevant.**
-:::
+Jane communicates in short sentences and reports:
 
-Record the information obtained:
+> “It feels much easier today.”
 
-| Measure | Baseline |
-|------|------|
-| SpO₂ | |
-| Respiratory Rate | |
-| Heart Rate | |
-| Other | |
+No significant respiratory distress, air trapping, or oxygen desaturation is observed.
 
-### Observe the Patient
+### Clinical Decision
 
-Consider:
-
-- Respiratory effort
-- Respiratory pattern
-- Secretion management
-- Cough
-- Alertness
-- Positioning
-- Ability to follow commands
-- Current communication
-
-What observations influence whether you are ready to proceed?
+1. Is Jane tolerating the PMV during this trial?
+2. What objective and subjective findings support your decision?
+3. Would you recommend immediate independent use?
+4. What level of supervision is appropriate?
+5. How should wear time be advanced?
 
 ---
 
-## Oral Mechanism Examination
+## Develop Your Recommendations
 
-Complete a focused oral mechanism examination.
+Create a preliminary PMV plan for Jane.
 
-::: {.note-box}
-### Plan Your Examination
+Consider including:
 
-Determine which structures and functions should be assessed based on Karla's history and today's referral.
+- Recommended wear schedule
+- Level of supervision
+- Appropriate activities for initial use
+- Respiratory monitoring
+- Cuff precautions
+- Patient and staff education
+- Criteria for removing the valve
+- Need for continued SLP and Respiratory Therapy follow-up
 
-**Do not rely on the website as an OME checklist. Conduct the examination with your patient and request findings from your instructor as needed.**
-:::
+### Example Recommendation Categories
 
-Consider information related to:
+Students may consider whether Jane should initially wear the PMV:
 
-- Facial symmetry and movement
-- Labial function
-- Lingual function
-- Jaw movement
-- Palatal movement
-- Dentition and oral condition
-- Secretion management
-- Volitional cough
-- Voice, if obtainable
+- During Speech-Language Pathology sessions
+- During Physical and Occupational Therapy
+- During supervised communication with family
+- During nursing care when trained staff are present
+- During a future swallowing evaluation, if clinically appropriate
 
-### Clinical Reasoning
+### Final Questions
 
-After completing the OME, discuss:
-
-1. Which findings were within functional limits?
-
-2. Which findings may influence swallowing efficiency or safety?
-
-3. Are any findings consistent with Karla's medical history?
-
-4. Do the OME findings change how you plan to approach PO trials?
+1. Would you recommend PMV use during therapies?
+2. Would you recommend a specific initial wear duration?
+3. What must staff verify before every placement?
+4. What symptoms should prompt immediate valve removal?
+5. What criteria should be met before progressing toward longer or less-supervised use?
 
 ---
 
-## Passy-Muir Valve Evaluation
-
-Determine whether Karla is appropriate to proceed with cuff deflation and PMV placement.
-
-::: {.warning}
-### Apply What You Learned in Simulation 6
-
-You are responsible for determining the appropriate sequence of the PMV evaluation.
-
-Consider:
-
-- Tracheostomy characteristics
-- Cuff status
-- Secretion management
-- Upper-airway patency
-- Baseline respiratory status
-- Patient positioning
-- Patient response to cuff deflation
-- Respiratory status following valve placement
-
-**Verbalize each step of your assessment and request findings from your instructor as needed.**
-:::
-
-### During the Trial
-
-Monitor Karla throughout the PMV assessment.
-
-Obtain repeat physiologic measures when clinically indicated.
-
-| Measure | Baseline | During PMV | After PMV |
-|------|------|------|------|
-| SpO₂ | | | |
-| Respiratory Rate | | | |
-| Heart Rate | | | |
-| Other | | | |
-
-In addition to physiologic measures, monitor for:
-
-- Increased work of breathing
-- Respiratory discomfort
-- Air trapping
-- Changes in secretion management
-- Ability to exhale through the upper airway
-- Vocal quality
-- Vocal intensity
-- Cough
-- Patient comfort
-
-### Stop and Discuss
-
-Before proceeding to swallowing assessment:
-
-1. Is Karla tolerating the PMV?
-
-2. What evidence supports your decision?
-
-3. Would you continue PMV use during the swallowing evaluation?
-
-4. Is there anything you need to address before introducing PO trials?
-
----
-
-## Clinical Swallowing Evaluation
-
-If you determine that Karla is medically appropriate to continue, proceed with the swallowing portion of the evaluation.
-
-::: {.note-box}
-### Plan Your PO Trials
-
-Available consistencies may include:
-
-- Ice chips
-- Thin liquid
-- Mildly thick liquid
-- Puree
-- Soft solid
-- Regular solid
-
-**You are responsible for selecting the consistencies, method of presentation, amount, and progression of PO trials.**
-
-Explain your rationale before administering each trial.
-:::
-
-### Before Each Trial
-
-Consider:
-
-- Patient positioning
-- Alertness
-- Respiratory status
-- Secretion management
-- Oral readiness
-- Appropriate bolus size
-- Method of presentation
-
----
-
-## During PO Trials
-
-Observe for clinical findings related to:
-
-### Oral Phase
-
-- Acceptance
-- Labial seal
-- Bolus control
-- Mastication
-- Oral manipulation
-- Oral transit
-- Oral residue
-
-### Pharyngeal / Airway-Related Clinical Signs
-
-- Coughing
-- Throat clearing
-- Changes in vocal quality
-- Multiple swallows
-- Changes in respiratory pattern
-- Increased work of breathing
-- Patient-reported difficulty
-
-### Overall Tolerance
-
-- Endurance
-- Fatigue
-- Ability to maintain attention
-- Ability to follow directions
-- Changes across repeated trials
-
-::: {.warning}
-## Continue, Modify, or Stop?
-
-You are not required to administer every available consistency.
-
-After each portion of the evaluation, determine whether you have sufficient information to:
-
-- Continue PO trials
-- Modify the presentation or consistency
-- Trial an alternative consistency
-- Discontinue PO trials
-- Recommend additional assessment
-
-Be prepared to justify your decision.
-:::
-
----
-
-## Reassessment
-
-Before completing the bedside encounter:
-
-- Reassess respiratory status as indicated.
-- Obtain repeat vital signs as appropriate.
-- Assess patient comfort.
-- Consider secretion management.
-- Determine whether the PMV should remain in place.
-- Provide appropriate patient education.
-
-### Patient Education
-
-What would you explain to Karla before leaving the room?
-
-Consider:
-
-- Findings from today's evaluation
-- PMV use
-- Current swallowing recommendations
-- Safety precautions
-- Need for additional assessment
-- Next steps in care
-
----
-
-## End of Bedside Evaluation
-
-Before leaving the room, discuss with your group:
-
-1. What are the **three most important findings** from today's evaluation?
-
-2. What findings increase your concern for oropharyngeal dysphagia?
-
-3. What findings support or limit continued PMV use?
-
-4. Do you have enough information to make an oral diet recommendation?
-
-5. What information remains unknown?
-
-6. Is an instrumental swallowing assessment indicated?
-
-::: {.note-box}
-## Remember
-
-A clinical swallowing evaluation provides important information about swallowing function and clinical risk, but it does not allow direct visualization of swallowing physiology.
-
-Your recommendations should reflect both **what you observed** and **what remains unknown**.
-:::
-
----
-
-## Continue
-
-[Review Clinical Findings](findings.html)
+[Continue to Communication](communication.html)

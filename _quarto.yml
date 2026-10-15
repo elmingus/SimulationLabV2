@@ -1,3 +1,4 @@
+
 project:
   type: website
   output-dir: docs
@@ -12,6 +13,9 @@ website:
 
       - href: simulations/sim1/index.qmd
         text: Simulation 1
+
+      - href: simulations/sim2/index.qmd
+        text: Simulation 2
 
 format:
   html:

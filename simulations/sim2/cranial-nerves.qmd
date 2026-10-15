@@ -1,0 +1,198 @@
+
+---
+title: "Cranial Nerves and Oral Mechanism Examination"
+---
+
+::: {.patient-banner}
+## Cranial Nerve Review
+
+The oral mechanism examination (OME) is an important component of the clinical swallowing assessment. It allows the SLP to evaluate structural and functional characteristics of the oral mechanism and identify findings that may influence speech and swallowing.
+
+However, findings from an OME must be interpreted within the broader clinical context.
+:::
+
+::: {.warning}
+## SLP Task
+
+Review the cranial nerves relevant to speech and swallowing, test your knowledge using the questions below, and practice components of a focused oral mechanism examination with a partner.
+
+As you work, consider how findings may inform clinical hypotheses and what conclusions cannot be drawn from the OME alone.
+:::
+
+## Before You Begin
+
+Consider the assigned reading examining the diagnostic utility of clinical findings in identifying aspiration.
+
+Discuss with your partner:
+
+1. What information can an OME provide about structures and functions involved in swallowing?
+2. Can an OME reliably determine whether a patient is aspirating? Why or why not?
+3. How might an abnormal OME finding influence your next steps in assessment?
+
+---
+
+## Cranial Nerves Relevant to Speech and Swallowing
+
+| Cranial Nerve | Primary Functions | Focused Assessment | Possible Functional Relevance |
+|---|---|---|---|
+| **CN V: Trigeminal** | Jaw movement; facial and oral sensation | Open and close jaw; clench teeth; assess jaw strength and symmetry; assess facial sensation when indicated | Mastication, oral preparation, awareness of material in the oral cavity |
+| **CN VII: Facial** | Facial movement; lip closure; taste to anterior tongue | Smile; pucker; retract lips; puff cheeks; assess facial symmetry | Labial seal, anterior containment, oral pressure |
+| **CN IX: Glossopharyngeal** | Pharyngeal sensation; taste to posterior tongue; contribution to pharyngeal movement | Consider sensory response and patient report; gag testing is not routinely necessary | Pharyngeal sensation and sensory input for swallowing |
+| **CN X: Vagus** | Palatal movement; phonation; laryngeal function; cough; pharyngeal movement | Observe palate during sustained "ah"; assess voice quality, voluntary cough, and secretion management | Airway protection, vocal fold function, pharyngeal movement |
+| **CN XI: Spinal Accessory** | Head turn and shoulder elevation | Shoulder shrug; turn head against resistance | Positioning and ability to use some postural strategies |
+| **CN XII: Hypoglossal** | Tongue movement | Protrude tongue; lateralize; elevate; depress; assess strength and symmetry | Bolus formation, manipulation, propulsion, oral clearance |
+
+---
+
+# Quiz Yourself
+
+For each scenario, identify the cranial nerve most closely associated with the finding and explain its potential relevance to swallowing.
+
+Try to answer before revealing the response.
+
+## Question 1
+
+A patient presents with reduced lip closure and anterior loss of liquids.
+
+<details>
+<summary><strong>Reveal Answer</strong></summary>
+
+**CN VII: Facial**
+
+CN VII contributes to facial movement and labial closure. Reduced function may affect anterior containment and generation of oral pressure.
+
+</details>
+
+---
+
+## Question 2
+
+A patient demonstrates reduced tongue lateralization and difficulty clearing food from the lateral sulci.
+
+<details>
+<summary><strong>Reveal Answer</strong></summary>
+
+**CN XII: Hypoglossal**
+
+CN XII supports tongue movement for bolus manipulation, lateralization, propulsion, and oral clearance.
+
+</details>
+
+---
+
+## Question 3
+
+A patient presents with a breathy voice and weak voluntary cough.
+
+<details>
+<summary><strong>Reveal Answer</strong></summary>
+
+**CN X: Vagus**
+
+These findings may raise concern for impaired laryngeal function or airway protection. They do not independently confirm aspiration.
+
+</details>
+
+---
+
+## Question 4
+
+A patient demonstrates reduced jaw opening and weak mastication.
+
+<details>
+<summary><strong>Reveal Answer</strong></summary>
+
+**CN V: Trigeminal**
+
+CN V supports jaw movement and contributes to oral sensation.
+
+</details>
+
+---
+
+## Question 5
+
+A patient is unable to turn their head adequately against resistance.
+
+<details>
+<summary><strong>Reveal Answer</strong></summary>
+
+**CN XI: Spinal Accessory**
+
+CN XI contributes to head turning and shoulder elevation. Weakness may affect positioning and the feasibility of some compensatory postures.
+
+</details>
+
+---
+
+# Partner Practice: Focused OME
+
+Work with a partner to practice the following components of an oral mechanism examination.
+
+Take turns performing the examination and providing feedback on the clarity of instructions, examination technique, and interpretation of findings.
+
+For this activity, practice the procedures using typical responses. You will apply these skills to simulated patient presentations in the next module.
+
+## Face and Lips
+
+- Observe facial symmetry at rest.
+- Ask the patient to smile.
+- Ask the patient to pucker.
+- Ask the patient to puff the cheeks.
+- Assess lip strength and ability to maintain pressure.
+
+## Jaw
+
+- Observe jaw position at rest.
+- Ask the patient to open and close the jaw.
+- Assess lateral jaw movement.
+- Assess strength when clinically appropriate.
+
+## Tongue
+
+- Observe the tongue at rest.
+- Ask the patient to protrude the tongue.
+- Ask the patient to move the tongue left and right.
+- Ask the patient to elevate and depress the tongue.
+- Assess strength against resistance when appropriate.
+
+## Palate and Voice
+
+- Ask the patient to sustain "ah."
+- Observe palatal movement and symmetry.
+- Listen to vocal quality.
+- Assess loudness and phonatory stability.
+- Ask for a voluntary cough or throat clear when appropriate.
+
+## Secretion Management
+
+- Observe the patient's ability to manage saliva.
+- Note drooling, wet vocal quality, or visible secretions.
+- Consider alertness, respiratory status, and spontaneous swallowing frequency.
+
+---
+
+## Connecting Assessment Findings to Clinical Reasoning
+
+After completing the examination, discuss:
+
+1. Which components of the OME provide information about oral motor function?
+2. Which findings might raise concern about swallowing function or airway protection?
+3. What aspects of swallowing physiology cannot be directly observed through an OME?
+4. How does the assigned reading inform your interpretation of individual clinical findings?
+
+::: {.note-box}
+## Clinical Pearl
+
+An abnormal oral mechanism finding may contribute to a clinical hypothesis, but it does not independently establish the presence or absence of aspiration.
+
+Consider the diagnostic accuracy of individual clinical findings, the limitations of bedside assessment, and the importance of interpreting findings within the broader clinical presentation.
+:::
+
+---
+
+## Navigation
+
+[← Back to Simulation 2 Overview](index.html)
+
+[Continue to OME Case Practice →](case-studies.html)

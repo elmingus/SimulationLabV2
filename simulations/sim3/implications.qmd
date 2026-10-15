@@ -3,57 +3,52 @@ title: "Functional Implications"
 ---
 
 ::: {.patient-banner}
-# Steven "Steve" Thompson
+# Cindy Carlson
 
-**Focus:** Language and Functional Communication
+**92-year-old female** | **Diagnosis:** Right MCA Ischemic Stroke | **Focus:** Cognitive domains and function
 :::
 
-## Connecting Language to Daily Function
+## Connecting Cognitive Domains to Function
 
-Following completion of the Quick Aphasia Battery, consider how Steve's communication abilities may influence daily participation and discharge planning.
+After completing the MoCA during simulation, use the results to describe how cognitive-communication deficits may affect Cindy's daily functioning and discharge needs.
 
-## Functional Communication Guide
+## Domain-to-Function Guide
 
-| Language Domain | Possible Functional Impact |
-|------|----------------------------|
-| Auditory Comprehension | Difficulty understanding medical information and multi-step directions |
-| Verbal Expression | Difficulty communicating wants, needs, and concerns |
-| Naming | Increased pauses and frustration during conversation |
-| Repetition | Difficulty repeating unfamiliar medical terminology |
-| Reading | Difficulty interpreting discharge paperwork or medication instructions |
-| Writing | Difficulty completing written forms or communicating by writing |
+| Cognitive Domain | Possible Functional Implications |
+|---|---|
+| Attention | Difficulty sustaining focus during therapy, meals, safety routines, and conversations |
+| Visuospatial / Executive Function | Difficulty scanning the environment, completing multi-step tasks, navigating safely, and recognizing hazards |
+| Memory | Difficulty recalling recent events, new safety instructions, medication changes, and therapy recommendations |
+| Orientation | Confusion regarding place, date, situation, and hospital routines |
+| Language | Word errors or communication breakdowns that may affect medical communication |
+| Insight / Awareness | Reduced recognition of deficits, increased fall risk, and difficulty following safety precautions |
+
+## Right Hemisphere Stroke Considerations
 
 ::: {.warning}
-
-Aphasia affects language—not intelligence. Communication supports should maximize participation while preserving patient autonomy.
-
+Right hemisphere stroke may affect attention, awareness, visual scanning, pragmatics, safety judgment, and functional problem-solving. A screening score alone does not fully describe functional impact.
 :::
 
 ## Clinical Impression Prompts
 
-Following the QAB, consider:
+Use your MoCA results and chart review to answer:
 
-1. Which language domains appear most impaired?
-
-2. How may these deficits affect safety during hospitalization?
-
-3. What communication supports should staff and family use?
-
-4. What recommendations would you include in your documentation?
+1. Which cognitive domains appear most impacted?
+2. How do these deficits affect safety and participation in rehabilitation?
+3. What recommendations would support Cindy and her spouse?
+4. What additional assessment or follow-up may be needed?
 
 ## Possible Recommendations
 
-- Continue speech-language pathology intervention.
-- Educate staff regarding supported communication strategies.
-- Encourage use of multimodal communication.
-- Provide written information in simplified format.
-- Include family in communication strategy education.
-- Recommend continued outpatient or inpatient language therapy as appropriate.
+Recommendations may include:
+
+- Continue SLP cognitive-communication intervention
+- Provide family education regarding cognitive changes after right hemisphere stroke
+- Use environmental supports for left attention/scanning
+- Provide written and verbal reminders for safety information
+- Coordinate with OT/PT regarding neglect, mobility, and safety concerns
+- Consider supervision needs at discharge based on functional performance
 
 ::: {.info}
-
-**Clinical Takeaway**
-
-Assessment results should extend beyond test scores to describe how language deficits affect meaningful participation in everyday communication.
-
+**Clinical takeaway:** The goal is not only to report a score, but to explain what the findings mean for Cindy's safety, participation, and everyday life.
 :::

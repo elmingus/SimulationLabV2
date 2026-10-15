@@ -38,4 +38,4 @@ Next, initial contacts.
 
 ## Navigation
 
-[← Back: Chart Review](chart.qmd) | [Next: Bedside Contact →](bedside.qmd)
+[← Back: Chart Review](chart.html) | [Next: Bedside Contact →](bedside.html)

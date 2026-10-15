@@ -1,32 +1,31 @@
 ---
-title: "Simulation 7"
+title: "Simulation 6"
 ---
 
 ::: {.patient-banner}
-## Complex Dysphagia Evaluation
+## Passy-Muir Valve (PMV) Evaluation
 
-Today's simulation focuses on the evaluation of a medically complex patient with a tracheostomy and suspected oropharyngeal dysphagia. Students will integrate chart review, Passy-Muir Valve (PMV) assessment, bedside swallowing evaluation, interdisciplinary information, and clinical reasoning to develop appropriate recommendations.
+Today's simulation focuses on the evaluation of a patient with a tracheostomy for Passy-Muir Valve candidacy in the acute care setting. Students will apply respiratory, anatomical, and clinical reasoning principles to determine readiness for PMV placement, monitor patient tolerance, and develop evidence-based recommendations.
 :::
 
 ::: {.warning}
 ## SLP Task
 
-Work through each module with your group. Review the patient's medical history and interdisciplinary documentation, determine readiness for PMV evaluation, complete a PMV and clinical swallowing evaluation, and develop recommendations regarding communication, oral intake, and need for further assessment.
+Work through each module with your group. Be prepared to justify your clinical decisions, identify safety considerations, collaborate with the interdisciplinary team, and determine whether the patient is an appropriate candidate for PMV use.
 :::
 
 ## Learning Objectives
 
 By the end of this session, students will be able to:
 
-- Integrate medical and interdisciplinary information relevant to PMV and swallowing evaluation.
-- Determine readiness for Passy-Muir Valve assessment in a medically complex patient.
-- Conduct a focused clinical swallowing evaluation in the acute care setting.
-- Identify clinical findings associated with increased risk for oropharyngeal dysphagia.
-- Interpret bedside findings within the context of respiratory, medical, and nutritional status.
-- Identify the limitations of the clinical swallowing evaluation.
-- Determine when instrumental swallowing assessment is indicated.
-- Develop appropriate recommendations for communication, oral intake, and continued dysphagia management.
-- Document clinical findings and recommendations using professional medical terminology.
+- Describe the purpose and physiological effects of a Passy-Muir Valve.
+- Identify prerequisites and contraindications for PMV placement.
+- Interpret chart information relevant to PMV candidacy.
+- Explain the roles of the interdisciplinary team during PMV evaluation.
+- Sequence the steps of a comprehensive PMV evaluation.
+- Recognize signs of PMV tolerance and intolerance.
+- Provide patient and caregiver education regarding PMV use.
+- Develop evidence-based recommendations for communication and swallowing management.
 
 ---
 
@@ -34,42 +33,42 @@ By the end of this session, students will be able to:
 
 ### 1. Chart Review
 
-Review Karla Green's medical history, hospital course, respiratory status, and swallowing history. Identify factors that may influence today's evaluation.
+Review Jane Ellis' medical history and determine whether she appears to be an appropriate candidate for PMV evaluation.
 
 [Begin Chart Review](chart.html)
 
 ### 2. Interdisciplinary Notes
 
-Review documentation from Respiratory Therapy, Nursing, the medical team, and other disciplines to identify information relevant to PMV candidacy and swallowing safety.
+Review documentation from Respiratory Therapy, Nursing, and the medical team to identify information that impacts PMV candidacy.
 
 [Review Interdisciplinary Notes](interdisciplinary.html)
 
-### 3. PMV & Swallowing Considerations
+### 3. PMV Fundamentals
 
-Integrate information from the chart and interdisciplinary team to plan your evaluation and determine how PMV status may influence the swallowing assessment.
+Review airway physiology, candidacy requirements, contraindications, and key concepts from the assigned PMV readings and videos.
 
-[Review Evaluation Considerations](considerations.html)
+[Review PMV Fundamentals](pmv-basics.html)
 
-### 4. Clinical Evaluation
+### 4. PMV Evaluation
 
-Complete the PMV and clinical swallowing evaluation with your patient. Use information from the live patient encounter and available clinical findings to guide your assessment.
+Work through the evaluation step-by-step, making clinical decisions regarding cuff deflation, valve placement, patient monitoring, and tolerance.
 
-[Begin Clinical Evaluation](evaluation.html)
+[Begin PMV Evaluation](evaluation.html)
 
-### 5. Clinical Findings
+### 5. Patient & Team Communication
 
-Review and integrate findings from today's PMV and swallowing evaluation.
+Practice counseling the patient and providing recommendations to nursing, respiratory therapy, and the medical team.
 
-[Review Clinical Findings](findings.html)
+[Practice Communication](communication.html)
 
 ### 6. Clinical Decision & Recommendations
 
-Determine appropriate recommendations regarding PMV use, oral intake, instrumental swallowing assessment, and continued SLP intervention.
+Determine whether Jane is an appropriate candidate for continued PMV use and develop recommendations for communication, swallowing, and follow-up care.
 
 [Complete the Simulation](clinical-decision.html)
 
 ### 7. Clinical Implications
 
-Reflect on the strengths and limitations of the clinical swallowing evaluation and consider how today's findings influence the next steps in Karla's care.
+Reflect on how PMV use influences communication, swallowing, airway protection, and quality of life in the acute care setting.
 
 [Clinical Implications](implications.html)

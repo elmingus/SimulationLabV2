@@ -1,0 +1,337 @@
+
+---
+title: "Bedside Assessment and Instrumentation"
+---
+
+::: {.patient-banner}
+## Choosing the Appropriate Swallowing Assessment
+
+Clinical swallowing assessment requires more than identifying whether a patient coughs during oral intake.
+
+The SLP must consider the patient's medical status, clinical presentation, and the specific questions that need to be answered.
+
+**Begin with the clinical question.**
+:::
+
+::: {.warning}
+## SLP Task
+
+Review the strengths and limitations of clinical swallow evaluation, FEES, and MBSS.
+
+For each scenario:
+
+1. Identify the primary clinical question.
+2. Determine which assessment approach is most appropriate.
+3. Explain what information the assessment can provide.
+4. Identify limitations or unanswered questions.
+5. Consider how the patient's medical condition influences your decision.
+:::
+
+# Screening, Clinical Evaluation, and Instrumentation
+
+These approaches serve different purposes and are not interchangeable.
+
+## Swallow Screening
+
+Swallow screening identifies patients who may be at risk for dysphagia and require further evaluation.
+
+Screening is not a comprehensive diagnostic assessment.
+
+## Clinical Swallow Evaluation (CSE)
+
+A clinical swallow evaluation may include:
+
+- Review of medical and swallowing history
+- Respiratory status and medical stability
+- Alertness, cognition, and communication
+- Oral mechanism examination
+- Secretion management
+- Voice and cough
+- Oral trials when clinically appropriate
+- Clinical interpretation and recommendations
+- Determination of whether instrumental assessment is indicated
+
+## Instrumental Assessment
+
+Instrumental swallowing assessment provides direct information about aspects of swallowing physiology that cannot be visualized during a bedside examination.
+
+The two primary instrumental assessments are:
+
+- **FEES:** Fiberoptic Endoscopic Evaluation of Swallowing
+- **MBSS:** Modified Barium Swallow Study, also called VFSS
+
+---
+
+# Comparing Assessment Approaches
+
+| Clinical Question or Feature | CSE | FEES | MBSS |
+|---|:---:|:---:|:---:|
+| Medical and swallowing history | ✓ | Supplemental | Supplemental |
+| Oral mechanism examination | ✓ | Limited | Limited |
+| Alertness and participation | ✓ | ✓ | ✓ |
+| Direct evidence of aspiration | No | ✓* | ✓ |
+| Detection of silent aspiration | No reliable exclusion | ✓ | ✓ |
+| Direct visualization of secretions | No | ✓ | No |
+| Visualization of vocal fold movement | No | ✓ | No |
+| Oral phase visualization | Clinical observation | Limited | ✓ |
+| Pharyngeal assessment | Indirect clinical findings | Endoscopic view | Fluoroscopic view |
+| Upper esophageal opening | No | No | ✓ |
+| Bolus flow during the swallow | No | White-out | ✓ |
+| Radiation exposure | No | No | Yes |
+| Bedside availability | ✓ | ✓ | Usually no |
+| Useful when transport is difficult | ✓ | ✓ | Limited |
+| Extended or repeated intake | Clinical observation | Often feasible | Limited by radiation |
+| Biofeedback | Clinical feedback | ✓ | ✓ |
+
+*FEES can identify airway invasion before or after white-out, but direct visualization is obscured during the pharyngeal swallow.*
+
+---
+
+# Clinical Swallow Evaluation
+
+## Strengths
+
+- Can be performed at bedside
+- Provides medical and functional context
+- Evaluates readiness and participation
+- Assesses oral structures and function
+- Identifies clinical signs that may raise concern for dysphagia
+- Supports immediate clinical recommendations
+- Helps determine whether instrumentation is indicated
+
+## Limitations
+
+A clinical swallow evaluation cannot directly visualize:
+
+- Laryngeal penetration or aspiration
+- Pharyngeal residue
+- Timing of airway invasion
+- Pharyngeal swallowing biomechanics
+- Upper esophageal opening
+
+::: {.note-box}
+The absence of coughing, wet vocal quality, or other overt clinical signs does not rule out aspiration.
+:::
+
+---
+
+# Fiberoptic Endoscopic Evaluation of Swallowing (FEES)
+
+## FEES May Be Particularly Useful For
+
+- Secretion management
+- Laryngeal and pharyngeal anatomy
+- Vocal fold movement
+- Penetration and aspiration
+- Pharyngeal residue
+- Repeated swallowing trials
+- Fatigue across extended intake
+- Bedside assessment in the ICU
+- Patients who cannot easily be transported
+- Assessment of selected compensatory strategies
+- Biofeedback during swallowing treatment
+
+## Limitations
+
+- The oral phase is not directly visualized.
+- White-out obscures the moment of the pharyngeal swallow.
+- Upper esophageal opening is not directly visualized.
+- Nasal passage of the scope may be uncomfortable.
+- Patient tolerance and medical considerations must be assessed.
+- Specialized equipment and trained clinicians are required.
+
+---
+
+# Modified Barium Swallow Study (MBSS)
+
+## MBSS May Be Particularly Useful For
+
+- Oral bolus preparation and transport
+- Timing and coordination of swallowing
+- Hyolaryngeal movement
+- Pharyngeal clearance
+- Penetration and aspiration
+- Timing of airway invasion
+- Upper esophageal opening
+- Assessment of swallowing biomechanics
+- Effects of bolus volume, consistency, and strategies
+- Visualization across lateral and anterior-posterior views
+
+## Limitations
+
+- Requires radiation exposure.
+- Usually requires transport to radiology.
+- Represents a limited sample of swallowing performance.
+- Secretions are not directly visualized.
+- Vocal fold movement is not directly assessed.
+- Positioning and medical stability may affect feasibility.
+
+---
+
+# Connecting to the Evidence
+
+Consider the assigned readings on clinical swallowing assessment, instrumental evaluation, and dysphagia following critical illness.
+
+Discuss:
+
+1. Why might bedside findings fail to identify aspiration in some patients?
+2. How can critical illness affect swallowing function, even after respiratory status improves?
+3. What additional challenges may influence assessment decisions in the ICU?
+4. How does the clinical question influence the selection of FEES versus MBSS?
+5. When might both assessments provide complementary information?
+
+::: {.note-box}
+## Clinical Reasoning Reminder
+
+An instrumental assessment is not automatically necessary for every patient.
+
+The decision should consider whether the results are likely to provide clinically meaningful information that influences diagnosis, management, or recommendations.
+:::
+
+---
+
+# Choose the Assessment
+
+For each scenario, identify the clinical question and select the most appropriate assessment approach.
+
+Remember that more than one approach may be reasonable depending on the patient's presentation and the information needed.
+
+## Scenario 1: ICU and Secretion Management
+
+A patient in the ICU has copious secretions, a weak voice, and cannot safely leave the unit.
+
+**Consider:**
+- What information is missing?
+- What assessment can be completed at bedside?
+- What findings would influence management?
+
+<details>
+<summary><strong>Reveal Discussion</strong></summary>
+
+**FEES may be particularly useful.**
+
+FEES allows direct visualization of secretion management, laryngeal anatomy, airway protection, and pharyngeal residue.
+
+A clinical evaluation remains important for determining medical stability, participation, and assessment readiness.
+
+</details>
+
+---
+
+## Scenario 2: Postoperative Oral Phase Concerns
+
+A patient following partial glossectomy demonstrates prolonged oral preparation and suspected reduced bolus propulsion.
+
+**Consider:**
+- Which phase of swallowing is the primary concern?
+- What information cannot be obtained through bedside observation?
+- How might surgical changes influence assessment selection?
+
+<details>
+<summary><strong>Reveal Discussion</strong></summary>
+
+**MBSS may be particularly useful.**
+
+MBSS allows visualization of oral bolus preparation, oral transport, and bolus flow across swallowing phases.
+
+FEES may also provide useful information if secretion management, laryngeal function, or bedside feasibility is the primary concern.
+
+Assessment selection should consider postoperative restrictions and the specific clinical question.
+
+</details>
+
+---
+
+## Scenario 3: Acute Stroke
+
+A patient with an acute stroke is alert, medically stable, and able to participate. The patient has not yet completed a swallowing screen or evaluation.
+
+**Consider:**
+- What should occur before initiating oral intake?
+- What is the purpose of a swallowing screen?
+- When is a comprehensive SLP evaluation indicated?
+
+<details>
+<summary><strong>Reveal Discussion</strong></summary>
+
+**Begin with the appropriate institutional stroke swallowing screening pathway.**
+
+Patients with acute stroke should undergo swallowing screening before oral intake.
+
+A failed screen or other clinical concerns may indicate the need for a comprehensive SLP evaluation.
+
+Instrumental assessment may be indicated based on the clinical presentation and unanswered questions.
+
+</details>
+
+---
+
+## Scenario 4: Possible Silent Aspiration
+
+A patient demonstrates no coughing with liquids but has recurrent pneumonia and an unexplained oxygen requirement.
+
+**Consider:**
+- Does the absence of coughing rule out aspiration?
+- What information would help clarify swallowing physiology?
+- Which instrumental assessment would be most appropriate?
+
+<details>
+<summary><strong>Reveal Discussion</strong></summary>
+
+**Consider instrumental swallowing assessment.**
+
+The absence of coughing does not exclude aspiration, including silent aspiration.
+
+FEES or MBSS may be appropriate depending on the clinical question, transport feasibility, and patient status.
+
+Recurrent pneumonia and oxygen requirements are not specific to aspiration and require broader medical consideration.
+
+</details>
+
+---
+
+## Scenario 5: Limited Transport Tolerance
+
+A patient can tolerate only several minutes of transportation and positioning but requires repeated assessment of secretion management and airway protection.
+
+**Consider:**
+- Which assessment is most feasible?
+- What information is needed?
+- How might repeated assessment influence management?
+
+<details>
+<summary><strong>Reveal Discussion</strong></summary>
+
+**FEES may be preferred.**
+
+FEES can be completed at bedside, directly visualizes secretions, and can be repeated without radiation exposure.
+
+Medical stability, patient tolerance, and the clinical question must still guide assessment decisions.
+
+</details>
+
+---
+
+# Final Reflection
+
+Discuss with your group:
+
+1. What is one clinical question that FEES can answer particularly well?
+2. What is one clinical question that MBSS can answer particularly well?
+3. Why might an apparently normal bedside assessment fail to identify swallowing impairment?
+4. How does the patient's medical status influence assessment selection?
+5. How might instrumental findings change your treatment or diet recommendations?
+
+::: {.note-box}
+## Clinical Pearl
+
+**Choose the assessment that best answers the clinical question.**
+
+The goal is not simply to identify aspiration, but to understand swallowing function sufficiently to guide individualized clinical management.
+:::
+
+---
+
+## Navigation
+
+[← Back: OME Case Practice](case-studies.html) | [Return to Simulation 2 Overview →](index.html)

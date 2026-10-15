@@ -1,146 +1,256 @@
 ---
-title: "Simulation 5 Resources"
+title: "AAC Consultation Resources"
 ---
 
-::: {.patient-banner}
-## Additional Acute Care Skills Resources
+[Return to Simulation 4](index.qmd)
 
-Use these resources to review the evidence and continue developing skills in dysphagia assessment and management.
+## Acute Care AAC Toolkit
+
+AAC includes any strategy, tool, or system used to supplement or replace speech.
+
+In acute care, AAC is frequently used to support communication for patients experiencing:
+
+- Intubation or mechanical ventilation
+- Tracheostomy
+- Neurological injury
+- Motor impairment
+- Aphasia
+- Dysarthria
+- Hearing loss
+- Visual impairment
+- Temporary confusion
+- Fatigue
+- Language-access barriers
+
+## Low-Tech AAC Options
+
+Low-tech AAC does not require electronic equipment.
+
+Examples include:
+
+- Yes/no board
+- Alphabet board
+- Picture communication board
+- Pain scale
+- Body-part diagram
+- Written choice board
+- Communication notebook
+- Eye-gaze board
+- Partner-assisted scanning
+- Whiteboard
+- Gesture
+- Written key words
+
+## High-Tech AAC Options
+
+High-tech AAC may include:
+
+- Tablet-based communication applications
+- Speech-generating devices
+- Eye-gaze speech-generating devices
+- Switch-access communication systems
+- Head-controlled devices
+- Text-to-speech applications
+- Personal voice amplifiers
+
+::: {.callout-note}
+The most appropriate AAC method is the method the patient can use reliably, efficiently, and consistently. The most technologically advanced option is not always the best option.
 :::
 
-# Assigned Readings
+## Feature-Matching Considerations
 
-## Dysphagia Treatment
+Feature matching involves comparing the patient's skills and needs with the characteristics of available AAC systems.
 
-Duncan, S., McAuley, D. F., Walshe, M., McGaughey, J., Anand, R., Fallis, R., & Blackwood, B. (2020). Interventions for oropharyngeal dysphagia in acute and critical care: A systematic review and meta-analysis. *Intensive Care Medicine, 46*, 1326–1338.
+| Patient Factor | AAC Considerations |
+|---|---|
+| Motor ability | Direct selection, eye gaze, switch access, partner-assisted scanning |
+| Vision | Target size, contrast, spacing, lighting, field of presentation |
+| Hearing | Written supports, amplification, visual cues |
+| Language | Vocabulary complexity, symbol type, literacy, preferred language |
+| Cognition | Number of choices, navigation demands, memory demands |
+| Fatigue | Physical effort, visual effort, need for backup methods |
+| Medical status | Positioning, respiratory support, alertness, pain |
+| Communication needs | Pain, comfort, choices, medical decisions, family contact |
+| Environment | Noise, staff familiarity, board placement, infection control |
 
-[View the article DOI](https://doi.org/10.1007/s00134-020-06126-y)
+## Establishing Yes/No Responses
 
-### Review Questions
+A reliable yes/no response is often the foundation of functional communication.
 
-1. What patient populations were represented in the review?
-2. Which outcomes demonstrated a statistically significant benefit?
-3. How strong was the certainty of evidence?
-4. Why are the results difficult to generalize to all ICU patients?
-5. Which interventions were identified as biologically plausible for critically ill patients?
-6. What patient-centered outcomes should future studies include?
+### Possible Response Modes
 
----
+- Verbal response
+- Head nod or shake
+- Eye movement
+- Blink response
+- Thumb movement
+- Finger movement
+- Pointing to written choices
+- Switch activation
 
-## Bedside Screening and Instrumentation
+### Reliability Check
 
-Bours, G. J. J. W., Speyer, R., Lemmens, J., Limburg, M., & de Wit, R. (2009). Bedside screening tests versus videofluoroscopy or fibreoptic endoscopic evaluation of swallowing to detect dysphagia in patients with neurological disorders: Systematic review. *Journal of Advanced Nursing, 65*(3), 477–493.
+Ask several questions with known answers.
 
-[View the article DOI](https://doi.org/10.1111/j.1365-2648.2008.04915.x)
+Include:
 
-### Review Questions
+- Questions for which the answer is yes
+- Questions for which the answer is no
+- Questions related to personal information
+- Questions unrelated to immediate wants or needs
 
-1. What is the difference between a screening test and a diagnostic assessment?
-2. Why were the study results not statistically pooled?
-3. Which bedside findings performed poorly when used alone?
-4. Why is high sensitivity important in dysphagia screening?
-5. What limitations should be considered when applying this review today?
+Avoid relying on a single response.
 
----
+## Partner-Assisted Scanning
 
-# FEES Learning
+Partner-assisted scanning may be useful when the patient cannot directly point to a communication target.
 
-FEES competency requires formal education, direct instruction, supervised practice, and demonstration of clinical competence.
+The communication partner:
 
-Students should not independently perform FEES based solely on observation of today’s demonstration.
+1. Presents categories or choices.
+2. Pauses after each option.
+3. Watches for the patient's established response.
+4. Confirms the selected message.
+5. Repeats the process as needed.
 
-Potential areas for continued learning include:
+Example:
 
-- FEES indications and contraindications
-- Endoscopic anatomy
-- Scope handling
-- Nasal passage
-- Secretion rating
-- Penetration-Aspiration Scale scoring
-- Residue rating
-- Interpretation of white-out
-- Medical emergency procedures
-- Infection prevention
-- Documentation
-- Billing and institutional credentialing
+> Are you uncomfortable because of pain, positioning, temperature, toileting, breathing, or something else?
 
----
+## Common ICU Communication Categories
 
-# Suggested Training Programs to Explore
+A bedside communication board may include:
 
-Programs and availability may change. Review each organization’s current training structure, prerequisites, and supervised practice requirements.
+### Medical and Safety
 
-## Oregon Health & Science University
+- Pain
+- Difficulty breathing
+- Suction
+- Nurse
+- Medication
+- Reposition
+- Bathroom
+- Call light
 
-Explore FEES-related continuing education and clinical training opportunities available through OHSU or affiliated programs in Portland, Oregon.
+### Comfort
 
-## Southeastern Association for Swallowing and Swallowing Disorders
+- Hot
+- Cold
+- Blanket
+- Pillow
+- Itching
+- Lights
+- Television
+- Tired
 
-Explore FEES education and competency-based training opportunities offered through swallowing-focused professional programs.
+### Personal Needs
 
-## Professional Continuing Education
+- Family
+- Phone
+- Glasses
+- Hearing aids
+- Food
+- Drink
+- Privacy
+- Stop
 
-Additional FEES courses may be available through:
+### Emotional Needs
 
-- University medical centers
-- Professional swallowing organizations
-- Hospital-based competency programs
-- Continuing education providers
-- FEES equipment manufacturers
+- Scared
+- Frustrated
+- Sad
+- Anxious
+- Confused
+- Need information
 
-Completion of a course does not automatically establish independent competency or institutional privileges.
+## Communication Partner Strategies
 
----
+Staff and family should:
 
-# Additional Topics for Review
+- Gain the patient's attention.
+- Face the patient.
+- Reduce distractions.
+- Use short, direct messages.
+- Ask one question at a time.
+- Allow adequate response time.
+- Verify yes/no responses.
+- Confirm the patient's intended message.
+- Keep AAC materials within reach and view.
+- Document the established communication method.
+- Provide a backup communication strategy.
 
-## Oral Care
+## Interpreter Considerations
 
-Review:
+A qualified medical interpreter should be used for:
 
-- Relationship between oral health and pneumonia risk
-- Oral care for NPO patients
-- Oral care in patients requiring oxygen or ventilation
-- Suction toothbrush use
-- Interprofessional responsibility for oral hygiene
+- Medical assessment
+- Informed consent
+- Diagnosis and prognosis
+- Treatment education
+- Medical decision-making
+- Discharge planning
+- Complex symptom discussion
 
-## Tracheostomy
+AAC may support immediate communication across languages but should not replace appropriate interpreter services.
 
-Review:
+## Documentation Reminders
 
-- Tracheostomy components
-- Cuff status
-- Airflow and phonation
-- Speaking valve candidacy
-- Secretion management
-- Effects of respiratory status on swallowing assessment
+An acute care AAC note may describe:
 
-## Instrumentation
+### Subjective
 
-Review:
+- Reason for consultation
+- Patient or staff concerns
+- Patient-reported communication needs
 
-- FEES indications and limitations
-- MBSS indications and limitations
-- Penetration-Aspiration Scale
-- Secretion severity ratings
-- Pharyngeal residue ratings
-- IDDSI testing methods
+### Objective
 
----
+- Alertness
+- Command following
+- Yes/no reliability
+- Speech and language abilities
+- Reading and writing
+- Motor access
+- Vision and hearing
+- AAC methods trialed
+- Level of cueing or assistance
+- Patient accuracy and efficiency
 
-# Simulation 5 Takeaways
+### Assessment
 
-- A focused oral mechanism examination contributes important information but does not independently determine swallowing safety.
-- Single clinical findings should not be interpreted in isolation.
-- Bedside assessment and instrumental assessment answer different clinical questions.
-- FEES and MBSS each provide unique information.
-- Dysphagia treatment should target an identified impairment or functional problem.
-- Evidence for specific treatments in acute and critical care remains limited.
-- Medical stability, cognition, endurance, and patient goals must guide treatment planning.
-- Clinical recommendations should clearly distinguish observed findings from clinical inference.
+- Primary communication barrier
+- Most effective access method
+- Functional implications
+- Need for skilled SLP services
+- Patient's ability to communicate medical needs and decisions
 
----
+### Plan
 
-## Return to Simulation Overview
+- Recommended AAC system
+- Staff and family education
+- Bedside signage
+- Interdisciplinary coordination
+- Follow-up
+- Need for additional assessment
 
-[Return to Simulation 5](index.html)
+## Example Assessment Statement
+
+> Pt presents with impaired functional communication secondary to absent verbal output and severe motor limitations. Pt demonstrated reliable responses to concrete yes/no questions using upward eye gaze for yes and downward eye gaze for no. Pt successfully selected basic medical and comfort needs from a low-tech eye-gaze communication board with minimal cueing. Recommend continued use of established eye-gaze system with partner-assisted scanning available as a backup method.
+
+## Example Plan Statement
+
+> Continue skilled ST intervention to establish an efficient and reliable AAC system for communication of basic wants, medical needs, and care preferences. Provide ongoing staff and family education and coordinate with OT and nursing regarding positioning, access, and bedside implementation.
+
+## End-of-Simulation Reflection
+
+After completing all four cases, consider:
+
+1. How did motor, sensory, cognitive, linguistic, and environmental factors affect AAC selection?
+
+2. When was low-tech AAC more appropriate than high-tech AAC?
+
+3. How did the immediate medical context influence your recommendations?
+
+4. What information would you communicate to nursing at the end of each consultation?
+
+5. What aspects of AAC assessment and implementation require additional practice?

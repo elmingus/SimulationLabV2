@@ -58,4 +58,4 @@ Finally, review the clinical decision.
 
 ## Navigation
 
-[← Back: Vital Signs](vitals.qmd) | [Next: Clinical Decision →](decision.qmd)
+[← Back: Vital Signs](vitals.html) | [Next: Clinical Decision →](decision.html)

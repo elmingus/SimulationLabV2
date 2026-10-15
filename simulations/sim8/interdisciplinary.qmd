@@ -1,0 +1,146 @@
+---
+title: "Interdisciplinary Notes"
+---
+
+::: {.patient-banner}
+# Interdisciplinary Documentation
+
+Review documentation from the healthcare team before proceeding with Karla's Passy-Muir Valve and swallowing evaluation.
+:::
+
+## Respiratory Therapy
+
+::: {.note-box}
+
+**08:10**
+
+**Trach:** Shiley 6 cuffed tracheostomy with deflatable cuff
+
+- Patient remains off mechanical ventilation during daytime hours.
+- Receiving humidified tracheostomy collar at **28% FiO₂**.
+- Resting SpO₂ ranges from **94–96%**.
+- Cuff deflation has been completed for brief periods without significant oxygen desaturation.
+- Moderate thin secretions present; patient demonstrates a productive cough and is able to clear secretions with minimal assistance.
+- Mild increase in respiratory rate noted with prolonged activity, resolving with rest.
+- No obvious evidence of acute respiratory distress at rest.
+- Respiratory Therapy available to assist with cuff deflation and initial PMV placement.
+
+:::
+
+---
+
+## Nursing
+
+::: {.note-box}
+
+**08:45**
+
+Patient is awake and cooperative with care.
+
+Oriented to person and place. Intermittent confusion noted regarding date and recent hospital events.
+
+Communicates through mouthing words, gestures, and writing. Frequently attempts to vocalize.
+
+Patient remains **NPO** and is receiving enteral nutrition through a nasogastric tube.
+
+Nursing reports that family has repeatedly asked when Karla will be able to eat and drink again.
+
+Daughter reports that Karla had been "eating less and coughing more" for several weeks prior to admission.
+
+No acute respiratory distress observed this morning.
+
+:::
+
+---
+
+## Internal Medicine
+
+::: {.note-box}
+
+**09:00**
+
+Patient continues to improve following severe community-acquired pneumonia complicated by acute hypoxemic respiratory failure.
+
+Status post prolonged intubation and subsequent tracheostomy placement.
+
+Currently tolerating daytime tracheostomy collar and remains hemodynamically stable.
+
+Continue pulmonary rehabilitation and progressive mobility.
+
+Patient remains NPO pending Speech-Language Pathology evaluation.
+
+Given reports of coughing with meals and unintentional weight loss prior to hospitalization, swallowing concerns may not be solely related to recent intubation or tracheostomy placement.
+
+Proceed with SLP evaluation as tolerated.
+
+:::
+
+---
+
+## Dietitian
+
+::: {.note-box}
+
+**09:20**
+
+Patient currently receiving enteral nutrition through nasogastric tube.
+
+Chart review and family interview indicate approximately **8-pound unintentional weight loss over the past two months**.
+
+Daughter reports declining oral intake prior to hospitalization, with patient frequently leaving meals unfinished.
+
+Current estimated nutritional needs are being met through enteral feeding.
+
+Recommend continued monitoring of nutritional status and coordination with SLP regarding readiness for oral intake.
+
+:::
+
+---
+
+## Physical Therapy
+
+::: {.note-box}
+
+**Previous Day - 14:30**
+
+Patient transferred from bed to chair with contact guard assistance and ambulated approximately 75 feet with rolling walker.
+
+Mild shortness of breath noted following activity.
+
+SpO₂ remained above 92% throughout session.
+
+Patient followed simple commands appropriately but benefited from occasional repetition.
+
+Overall endurance remains reduced compared with baseline.
+
+:::
+
+---
+
+## Clinical Reasoning
+
+Discuss the following with your group before proceeding:
+
+1. Which findings support proceeding with a PMV evaluation today?
+
+2. What factors should be monitored closely during cuff deflation and PMV placement?
+
+3. Which findings increase concern for dysphagia independent of the tracheostomy?
+
+4. How do Karla's weight loss and reduced oral intake influence your interpretation of the case?
+
+5. How might prolonged intubation and respiratory deconditioning further affect swallowing function?
+
+6. Which disciplines provide information that is most relevant to your evaluation plan?
+
+7. Based on the available information, what should occur first: PMV evaluation, swallowing evaluation, or both? Explain your reasoning.
+
+---
+
+::: {.warning}
+Do not assume that successful PMV placement indicates safe swallowing. PMV tolerance and swallowing function must be evaluated separately while considering Karla's respiratory status, medical history, and pre-hospital symptoms.
+:::
+
+## Continue
+
+[Continue to PMV & Swallowing Considerations](considerations.html)

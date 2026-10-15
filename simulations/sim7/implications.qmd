@@ -3,67 +3,54 @@ title: "Clinical Implications"
 ---
 
 ::: {.patient-banner}
-# Clinical Implications
-
-Today's simulation required you to integrate respiratory status, communication, swallowing, medical history, and interdisciplinary information to develop a plan for a medically complex patient.
+# Beyond the Speaking Valve
 :::
 
-## Reflect on the Evaluation
+## PMV influences much more than voice.
 
-Discuss the following with your group:
+Research has demonstrated potential benefits related to:
 
-1. Which finding had the greatest influence on your clinical decision-making?
-
-2. How did Karla's pre-hospital swallowing history change your interpretation of the bedside evaluation?
-
-3. What information could you obtain from the clinical swallowing evaluation, and what information remained unknown?
-
-4. How did PMV tolerance influence the evaluation without determining swallowing safety?
-
----
-
-## From Bedside to Instrumentation
-
-Consider the progression of today's assessment:
-
-**Chart Review → Interdisciplinary Information → PMV Evaluation → Clinical Swallowing Evaluation → Clinical Decision-Making**
-
-### Discuss
-
-- At what point did you determine that additional swallowing assessment was or was not needed?
-- What clinical question would you want an instrumental assessment to answer?
-- How would those results influence Karla's diet, treatment, or discharge recommendations?
+- Communication
+- Participation in medical care
+- Restoration of airflow
+- Improved cough
+- Improved secretion management
+- Improved smell and taste
+- Potential improvements in swallowing
+- Quality of life
 
 ---
 
-::: {.note-box}
-## Key Clinical Takeaway
+## Key Takeaways
 
-Clinical decision-making in acute care rarely depends on a single finding.
+A successful PMV evaluation requires integration of:
 
-For patients with complex medical histories, recommendations should integrate the patient's baseline function, acute medical course, respiratory status, bedside presentation, goals, and the limitations of the available assessment.
-:::
-
----
-
-## Final Reflection
-
-Before completing today's simulation:
-
-1. What part of the evaluation felt most comfortable?
-
-2. What part required the most clinical reasoning?
-
-3. What is one skill you would like additional practice with before independently evaluating a similar patient?
+- Respiratory physiology
+- Airway anatomy
+- Clinical reasoning
+- Interdisciplinary collaboration
+- Patient-centered care
 
 ---
 
-## Documentation
+## Reflection
 
-Complete your Simulation 7 SOAP note using the provided template.
+Discuss with your group:
 
-Be sure your documentation clearly communicates your clinical findings, interpretation, recommendations, and plan for follow-up.
+1. What was the most important factor in determining PMV candidacy?
+
+2. What surprised you during today's simulation?
+
+3. How does communication affect patient participation in healthcare?
+
+4. How might PMV use influence future swallowing assessment?
 
 ---
 
-[Return to Simulation 7 Home](index.html)
+## Simulation Complete
+
+Excellent work!
+
+You have completed **Simulation 6: Passy-Muir Valve Evaluation**.
+
+Please be prepared to discuss your clinical reasoning and recommendations during today's debrief.

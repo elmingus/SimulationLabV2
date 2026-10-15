@@ -74,7 +74,7 @@ Review patient presentation and oral mechanism exam attempt.
 ::: {.chart-card}
 ### 🧠 Clinical Decision
 Determine recommendations and documentation plan.  
-[Open Clinical Decision](decision.qmd)
+[Open Clinical Decision](decision.html)
 :::
 
 :::

@@ -1,0 +1,73 @@
+---
+title: "Chart Review"
+---
+
+::: {.patient-banner}
+# Steven "Steve" Thompson
+
+**54-year-old male** | **Consult:** Language Evaluation
+:::
+
+::: {.warning}
+**SLP Task:** Review the chart and identify information relevant to a language assessment following left hemisphere stroke.
+:::
+
+## Patient Snapshot
+
+| Field | Information |
+|------|-------------|
+| Name | Steven "Steve" Thompson |
+| Age | 54 |
+| Date of Admission | Current hospitalization |
+| Admitting Diagnosis | Fall with mild hip contusion |
+| Primary SLP Diagnosis | Mild expressive and receptive aphasia |
+| Prior Stroke | Left ischemic CVA (2 years ago) |
+
+## Chief Concern
+
+::: {.note-box}
+
+Steve was re-hospitalized following a fall at home. Although imaging showed no fractures, his previous left hemisphere stroke resulted in persistent expressive and receptive language deficits. Speech-Language Pathology was consulted to evaluate current communication abilities.
+
+:::
+
+## Past Medical History
+
+| Condition | Status |
+|------|---------|
+| Left CVA (ischemic) | Two years prior |
+| Hypertension | Controlled |
+| Osteoarthritis | Chronic |
+| Hypothyroidism | Managed |
+| Hearing Loss | Moderate; hearing aids available |
+
+## Current Medications
+
+| Medication | Purpose |
+|------|---------|
+| Lisinopril | Hypertension |
+| Levothyroxine | Hypothyroidism |
+| Acetaminophen | Arthritis pain |
+
+## Social History
+
+| Area | Information |
+|------|-------------|
+| Living Situation | Lives alone |
+| Support | Family nearby |
+| Prior Function | Independent with ADLs |
+| Mobility | Occasionally used a cane |
+
+## Chart Review Questions
+
+1. Why was Speech-Language Pathology consulted?
+
+2. What medical history increases Steve's risk for aphasia?
+
+3. What factors besides aphasia may influence communication?
+
+4. What additional information would you want before beginning assessment?
+
+## Continue
+
+[Go to Interdisciplinary Notes](interdisciplinary.html)

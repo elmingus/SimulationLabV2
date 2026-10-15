@@ -1,74 +1,68 @@
 ---
-title: "Simulation 6"
+title: "Simulation 5"
 ---
 
 ::: {.patient-banner}
-## Passy-Muir Valve (PMV) Evaluation
+## Additional Acute Care Skills
 
-Today's simulation focuses on the evaluation of a patient with a tracheostomy for Passy-Muir Valve candidacy in the acute care setting. Students will apply respiratory, anatomical, and clinical reasoning principles to determine readiness for PMV placement, monitor patient tolerance, and develop evidence-based recommendations.
+Today’s session is a skills-based workshop focused on oral mechanism assessment, cranial nerve function, dysphagia treatment, instrumental assessment, and clinical reasoning in acute care.
 :::
 
 ::: {.warning}
 ## SLP Task
 
-Work through each module with your group. Be prepared to justify your clinical decisions, identify safety considerations, collaborate with the interdisciplinary team, and determine whether the patient is an appropriate candidate for PMV use.
+Work through each module with your group. Be prepared to explain your clinical reasoning, demonstrate components of an oral mechanism examination, and justify when instrumentation may be indicated.
 :::
 
 ## Learning Objectives
 
 By the end of this session, students will be able to:
 
-- Describe the purpose and physiological effects of a Passy-Muir Valve.
-- Identify prerequisites and contraindications for PMV placement.
-- Interpret chart information relevant to PMV candidacy.
-- Explain the roles of the interdisciplinary team during PMV evaluation.
-- Sequence the steps of a comprehensive PMV evaluation.
-- Recognize signs of PMV tolerance and intolerance.
-- Provide patient and caregiver education regarding PMV use.
-- Develop evidence-based recommendations for communication and swallowing management.
+- Perform a focused oral mechanism examination.
+- Identify cranial nerves relevant to swallowing, speech, and airway protection.
+- Connect oral mechanism findings to possible functional impairments.
+- Differentiate compensatory and rehabilitative dysphagia interventions.
+- Summarize current evidence regarding dysphagia treatment in acute and critical care.
+- Compare the purposes and limitations of bedside assessment, FEES, and MBSS.
+- Select an appropriate assessment approach based on the clinical question.
+- Participate in a guided FEES demonstration.
 
 ---
 
-## Today's Modules
+## Today’s Modules
 
-### 1. Chart Review
+### 1. Cranial Nerves and Oral Mechanism Examination
 
-Review Jane Ellis' medical history and determine whether she appears to be an appropriate candidate for PMV evaluation.
+Review the cranial nerves most relevant to speech and swallowing, then quiz yourself using hidden-answer activities.
 
-[Begin Chart Review](chart.html)
+[Begin Cranial Nerve Review](cranial-nerves.html)
 
-### 2. Interdisciplinary Notes
+### 2. Evidence-Based Dysphagia Treatment
 
-Review documentation from Respiratory Therapy, Nursing, and the medical team to identify information that impacts PMV candidacy.
+Review treatment categories and findings from a systematic review of dysphagia interventions in acute and critical care.
 
-[Review Interdisciplinary Notes](interdisciplinary.html)
+[Review Dysphagia Treatment](dysphagia-treatment.html)
 
-### 3. PMV Fundamentals
+### 3. Oral Mechanism Case Practice
 
-Review airway physiology, candidacy requirements, contraindications, and key concepts from the assigned PMV readings and videos.
+Apply your oral mechanism examination skills to four brief acute care cases.
 
-[Review PMV Fundamentals](pmv-basics.html)
+[Begin Case Practice](case-practice.html)
 
-### 4. PMV Evaluation
+### 4. Bedside Assessment and Instrumentation
 
-Work through the evaluation step-by-step, making clinical decisions regarding cuff deflation, valve placement, patient monitoring, and tolerance.
+Compare the clinical swallow evaluation, FEES, and MBSS and determine which approach best answers the clinical question.
 
-[Begin PMV Evaluation](evaluation.html)
+[Compare Assessment Options](instrumentation.html)
 
-### 5. Patient & Team Communication
+### 5. FEES Demonstration
 
-Practice counseling the patient and providing recommendations to nursing, respiratory therapy, and the medical team.
+Prepare for today’s guided FEES demonstration.
 
-[Practice Communication](communication.html)
+[Prepare for the FEES Demo](fees-demo.html)
 
-### 6. Clinical Decision & Recommendations
+### 6. Additional Resources
 
-Determine whether Jane is an appropriate candidate for continued PMV use and develop recommendations for communication, swallowing, and follow-up care.
+Review the assigned articles and additional learning resources.
 
-[Complete the Simulation](clinical-decision.html)
-
-### 7. Clinical Implications
-
-Reflect on how PMV use influences communication, swallowing, airway protection, and quality of life in the acute care setting.
-
-[Clinical Implications](implications.html)
+[View Resources](resources.html)

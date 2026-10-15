@@ -52,4 +52,4 @@ Patient presents with suspected severe dysphagia risk in the setting of acute le
 
 ## Navigation
 
-[← Back: Bedside Contact](bedside.qmd) | [Return to Simulation Overview](index.qmd)
+[← Back: Bedside Contact](bedside.html) | [Return to Simulation Overview](index.html)

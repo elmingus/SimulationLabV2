@@ -1,0 +1,172 @@
+---
+title: "Clinical Decision & Recommendations"
+---
+
+::: {.patient-banner}
+# Clinical Decision & Recommendations
+
+You have completed Karla's Passy-Muir Valve and clinical swallowing evaluation.
+
+Use the information obtained throughout today's simulation to develop your recommendations and plan of care.
+:::
+
+::: {.warning}
+## SLP Task
+
+Develop a complete set of recommendations based on Karla's medical history, interdisciplinary documentation, PMV tolerance, and clinical swallowing evaluation.
+
+Be prepared to justify each recommendation using findings from today's assessment.
+:::
+
+## 1. Passy-Muir Valve
+
+Based on Karla's response during today's evaluation:
+
+1. Would you recommend continued PMV use?
+
+2. Under what conditions should the PMV be worn?
+
+3. Does Karla require supervision or monitoring during use?
+
+4. What education should be provided to Karla, nursing, and other members of the healthcare team?
+
+---
+
+## 2. Oral Intake
+
+Determine your immediate recommendation regarding oral intake.
+
+Consider:
+
+- Karla's medical and swallowing history
+- Findings from the oral mechanism examination
+- Performance during PO trials
+- Respiratory status
+- Endurance
+- Cognition
+- Overall risk for dysphagia-related complications
+
+### Discuss
+
+1. Would you recommend initiating oral intake at this time?
+
+2. If yes, what diet or restrictions would you recommend?
+
+3. If no, how will nutrition and hydration needs be addressed in the interim?
+
+4. Are any swallowing precautions or compensatory strategies appropriate based on today's findings?
+
+::: {.warning}
+Avoid recommending a diet modification solely because a consistency appeared better tolerated during the clinical swallowing evaluation.
+
+Consider what information is still needed before determining the safest and least restrictive oral diet.
+:::
+
+---
+
+## 3. Instrumental Assessment
+
+Does Karla require an instrumental swallowing assessment?
+
+If yes, determine which assessment you would recommend:
+
+### FEES
+
+Consider:
+
+- Bedside accessibility
+- Secretion management
+- Airway visualization
+- Patient endurance
+- Ability to assess repeated trials
+
+### MBSS
+
+Consider:
+
+- Visualization of bolus flow
+- Oral and pharyngeal swallowing physiology
+- Comparison of consistencies
+- Assessment of compensatory strategies
+- Identification of physiologic targets for intervention
+
+### Clinical Reasoning
+
+1. Which instrumental assessment would you recommend for Karla?
+
+2. Why is this assessment appropriate for this patient?
+
+3. What specific clinical question are you hoping to answer?
+
+4. What information will the instrumental assessment provide that you could not obtain at bedside?
+
+---
+
+## 4. SLP Plan of Care
+
+Determine the next steps for Speech-Language Pathology.
+
+Consider whether Karla requires:
+
+- Continued PMV monitoring
+- Patient and caregiver education
+- Instrumental swallowing assessment
+- Dysphagia intervention
+- Continued assessment of communication
+- Follow-up as medical and respiratory status changes
+
+### Discuss
+
+What should the SLP prioritize during the next encounter?
+
+---
+
+## 5. Interdisciplinary Communication
+
+Before completing today's simulation, identify the information that should be communicated to the healthcare team.
+
+### Nursing
+
+What does nursing need to know?
+
+### Respiratory Therapy
+
+What does Respiratory Therapy need to know?
+
+### Medical Team
+
+What recommendations or requests should be communicated to the medical team?
+
+### Dietitian
+
+What information should be shared regarding nutrition and oral intake?
+
+---
+
+::: {.note-box}
+## Final Clinical Question
+
+If you had **30 seconds** to summarize Karla's evaluation to another healthcare provider, what are the most important findings and recommendations you would communicate?
+:::
+
+---
+
+## Documentation
+
+Complete a SOAP note documenting today's evaluation.
+
+Your documentation should clearly communicate:
+
+- Relevant subjective information
+- Assessment procedures and objective findings
+- Clinical interpretation
+- PMV recommendations
+- Swallowing recommendations
+- Need for additional assessment
+- Plan for continued SLP care
+
+---
+
+## Continue
+
+[Clinical Implications](implications.html)

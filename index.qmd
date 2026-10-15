@@ -1,3 +1,4 @@
+
 ---
 title: "UO Acute Care Simulation Lab"
 ---
@@ -25,8 +26,26 @@ Students will complete:
 - Bedside Contact
 - Clinical Impression & Recommendations
 
-[Begin Simulation 1](simulations/sim1/index.qmd)
+[Begin Simulation 1](simulations/sim1/index.html)
 
 :::
 
-::: 
+::: {.chart-card}
+## 🩺 Simulation 2
+
+### Oral Mechanism Examination & Dysphagia Practice
+
+Apply cranial nerve knowledge, practice oral mechanism examinations, and explore clinical decision-making in dysphagia assessment.
+
+Students will complete:
+
+- Cranial Nerve Review
+- Oral Mechanism Examination Practice
+- Simulated Patient Case Studies
+- Bedside & Instrumental Assessment Scenarios
+
+[Begin Simulation 2](simulations/sim2/index.html)
+
+:::
+
+:::

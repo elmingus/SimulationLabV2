@@ -144,4 +144,4 @@ Next, review the patient's current vital signs.
 
 ## Navigation
 
-[← Back to Simulation Overview](index.qmd) | [Next: Vital Signs →](vitals.qmd)
+[← Back to Simulation Overview](index.html) | [Next: Vital Signs →](vitals.html)
