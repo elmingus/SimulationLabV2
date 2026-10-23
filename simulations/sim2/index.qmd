@@ -1,67 +1,80 @@
 
 ---
-title: "Simulation 2"
+title: "Simulation 3"
 ---
 
 ::: {.patient-banner}
-## Oral Mechanism Examination & Clinical Swallow Assessment
+## Cognitive Screening & Clinical Decision-Making
 
-Today's simulation focuses on cranial nerve function, oral mechanism examination (OME), and clinical decision-making in dysphagia assessment.
+Today's simulation focuses on cognitive-communication screening, clinical readiness, and functional implications following right hemisphere stroke.
 
-Students will apply evidence from assigned readings, practice examination skills with peers, and explore the role of instrumental swallowing assessments in acute care.
+Students will review medical and interdisciplinary documentation, determine the appropriateness of cognitive screening, administer the Montreal Cognitive Assessment (MoCA), and interpret findings in the context of functional communication, safety, and discharge planning.
 :::
 
 ::: {.warning}
 ## SLP Task
 
-Work collaboratively to review cranial nerve function, complete simulated oral mechanism examinations, and interpret clinical findings.
+You have received a consult for a cognitive-communication evaluation for Cindy Carlson, a 92-year-old female admitted following a right MCA ischemic stroke.
 
-Throughout the session, consider what information can be obtained through bedside assessment, what limitations remain, and when additional assessment may be warranted.
+Review the available clinical information to determine whether cognitive screening is appropriate at this time.
+
+If appropriate, administer the MoCA and use your findings to identify areas of cognitive-communication concern, discuss functional implications, and develop recommendations.
+
+Throughout the session, consider how medical status, environmental factors, and patient presentation may influence assessment and interpretation.
 :::
 
 ## Learning Objectives
 
 By the end of this session, students will be able to:
 
-- Identify cranial nerves relevant to speech, swallowing, and airway protection.
-- Demonstrate components of a focused oral mechanism examination.
-- Interpret oral mechanism findings in relation to swallowing function.
-- Discuss the clinical utility and limitations of the OME in predicting aspiration.
-- Adapt examination procedures based on patient presentation and communication abilities.
-- Compare the purposes, strengths, and limitations of clinical swallow evaluation, FEES, and MBSS.
-- Apply clinical reasoning to determine when instrumental assessment may be indicated.
-- Integrate evidence from assigned readings into clinical decision-making.
+- Identify cognitive-communication deficits commonly associated with right hemisphere stroke.
+- Gather relevant information from medical and interdisciplinary documentation.
+- Evaluate patient readiness for cognitive screening based on medical, cognitive, and behavioral factors.
+- Demonstrate appropriate administration of the Montreal Cognitive Assessment (MoCA).
+- Interpret screening findings while recognizing the limitations of standardized cognitive screening.
+- Connect cognitive-communication findings to functional activities, safety, and discharge planning.
+- Communicate findings and recommendations using professional, patient-centered language.
 
 ---
 
 ## Today's Modules
 
-### 1. Cranial Nerves & Oral Mechanism Examination
+### 1. Medical Chart Review
 
-Review cranial nerves relevant to speech and swallowing, their associated functions, and methods of assessment.
+Review Cindy Carlson's medical history, admitting diagnosis, neuroimaging, medications, prior level of function, and current plan of care.
 
-Test your knowledge and practice components of a focused oral mechanism examination with a partner.
+Identify relevant risk factors and consider how her neurological presentation may influence cognitive-communication functioning.
 
-[Begin Cranial Nerve Review](cranial-nerves.html)
+[Begin Chart Review](chart.html)
 
-### 2. Oral Mechanism Case Practice
+### 2. Interdisciplinary Documentation
 
-Work with a partner to complete simulated oral mechanism examinations using four acute care patient scenarios.
+Review documentation from nursing, occupational therapy, physical therapy, and the medical team.
 
-Alternate roles as the SLP and patient while practicing examination techniques, interpreting findings, and discussing clinical implications.
+Identify observations that may suggest cognitive-communication impairment and consider how interdisciplinary findings contribute to your assessment plan.
 
-[Begin Case Practice](case-studies.html)
+[Review Interdisciplinary Notes](interdisciplinary.html)
 
-### 3. Bedside Assessment & Instrumentation
+### 3. Cognitive Screening Readiness
 
-Compare clinical swallow evaluation, FEES, and MBSS.
+Evaluate Cindy's current medical status, alertness, communication abilities, and participation to determine whether cognitive screening is appropriate.
 
-Apply evidence from assigned readings and clinical scenarios to determine which assessment approach best addresses the clinical question.
+Discuss factors that may influence the validity of MoCA administration and identify potential modifications or reasons to defer screening.
 
-[Compare Assessment Options](instrumentation.html)
+[Assess Screening Readiness](readiness.html)
+
+### 4. Cognitive Screening & Functional Implications
+
+Administer the MoCA during the simulation, as appropriate.
+
+Interpret findings across cognitive domains and discuss how identified strengths and weaknesses may influence functional independence, safety awareness, and discharge planning.
+
+Consider the limitations of screening results and whether additional assessment is warranted.
+
+[Explore Functional Implications](implications.html)
 
 ---
 
 ## Navigation
 
-[← Back: Simulation Home](../index.html) | [Next: Cranial Nerve Review →](cranial-nerves.html)
+[← Back: Simulation Home](../index.html) | [Next: Medical Chart Review →](chart.html)

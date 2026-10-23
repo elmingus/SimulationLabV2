@@ -1,72 +1,134 @@
+
 ---
 title: "Interdisciplinary Notes"
 ---
 
 ::: {.patient-banner}
-# Cindy Carlson
+## Cindy Carlson | Interdisciplinary Documentation
 
 **92-year-old female** | **Diagnosis:** Right MCA Ischemic Stroke | **Consult:** Cognitive-Communication Evaluation
+
+Review documentation from the interdisciplinary team to better understand Cindy's current functional abilities, neurological presentation, and potential cognitive-communication concerns.
+:::
+
+::: {.warning}
+## SLP Task
+
+Review the interdisciplinary documentation and identify observations relevant to cognitive-communication functioning.
+
+Consider how findings from nursing, occupational therapy, physical therapy, neurology, and family members may inform your assessment approach.
+
+As you review, distinguish between observed behaviors, potential underlying cognitive impairments, and functional consequences.
 :::
 
 ## Nursing Note
 
 ::: {.note-box}
-**Time:** 0715  
-**Author:** RN
+**Time:** 07:15  
+**Author:** Registered Nurse
 
-Patient alert intermittently throughout morning. Oriented to name inconsistently; unable to state location or date. Frequently looks toward the right side of the room and does not attend to items placed on the left side of tray table. Requires repeated verbal cues for safety. Attempted to get out of bed without calling for assistance. Spouse at bedside and reports patient is "not acting like herself."
+Patient intermittently alert throughout morning. Oriented to name inconsistently; unable to accurately state location or date.
+
+Frequently looks toward the right side of the room and does not attend to items placed on the left side of the tray table.
+
+Requires repeated verbal cues for safety. Attempted to get out of bed without calling for assistance.
+
+Spouse at bedside and reports patient is "not acting like herself."
 :::
+
+---
 
 ## Occupational Therapy Note
 
 ::: {.note-box}
-**OT Evaluation Summary**
+**Service:** Occupational Therapy  
+**Documentation:** Initial Evaluation
 
-Patient demonstrates left-sided inattention during grooming and upper-body dressing tasks. Requires moderate cues to locate items placed on left side. Decreased awareness of left upper extremity positioning. Safety concerns noted due to reduced insight and impaired visual scanning.
+Patient demonstrates left-sided inattention during grooming and upper-body dressing tasks.
+
+Requires moderate verbal and visual cues to locate items placed on the left side.
+
+Decreased awareness of left upper extremity positioning during functional tasks.
+
+Reduced visual scanning and awareness of current limitations observed during assessment.
+
+Patient requires assistance and cueing to safely complete self-care activities.
 :::
+
+---
 
 ## Physical Therapy Note
 
 ::: {.note-box}
-**PT Evaluation Summary**
+**Service:** Physical Therapy  
+**Documentation:** Initial Evaluation
 
-Patient requires assistance for transfers. Demonstrates right gaze preference and reduced awareness of left side during mobility. Increased fall risk due to poor safety awareness and reduced attention to environmental obstacles.
+Patient requires physical assistance for transfers and mobility.
+
+Demonstrates right gaze preference and reduced attention to the left side of the environment.
+
+During mobility tasks, patient requires verbal cues to identify environmental obstacles and maintain safety.
+
+Increased fall risk noted due to reduced attention, limited awareness of current mobility deficits, and need for assistance.
 :::
 
-## Physician Progress Note
+---
+
+## Neurology Progress Note
 
 ::: {.note-box}
-**Neurology Impression**
+**Service:** Neurology  
+**Documentation:** Physician Progress Note
 
-Right MCA ischemic stroke with persistent left neglect, fluctuating orientation, and cognitive concerns. Continue medical management and rehabilitation therapies. SLP cognitive-communication evaluation requested to assist with discharge planning and functional recommendations.
+Patient admitted with acute right MCA ischemic stroke involving the right temporal and parietal regions.
+
+Persistent left-sided inattention and right gaze preference noted on examination.
+
+Orientation and attention fluctuate across assessments.
+
+Continue medical management and neurological monitoring.
+
+Rehabilitation services consulted to evaluate functional impairments and anticipated discharge needs.
+
+SLP cognitive-communication evaluation requested to further characterize cognitive functioning and inform interdisciplinary recommendations.
 :::
+
+---
 
 ## Family Report
 
 ::: {.info}
-Spouse reports Cindy was fully independent prior to admission, managed household routines, drove locally, gardened regularly, and participated in church activities. Spouse reports current behavior is a significant change from baseline.
+**Source:** Patient's Spouse
+
+Spouse reports Cindy was independent prior to hospitalization.
+
+She managed household routines, drove locally, participated in gardening, and remained active in her church community.
+
+Spouse reports Cindy did not demonstrate noticeable difficulties with memory, attention, or daily decision-making prior to the stroke.
+
+Current behavior represents a significant change from her usual functioning.
 :::
 
-## SLP-Relevant Flags
+---
 
-::: {.danger}
-Potential concerns for SLP assessment:
+## Clinical Reasoning: Interdisciplinary Review
 
-- Fluctuating orientation
-- Left-sided neglect
-- Reduced safety awareness
-- Memory deficits for recent events
-- Possible reduced insight into deficits
-- Increased fall risk
-- Functional change from baseline
-:::
+Discuss the following questions with your group:
 
-## Pause and Think
+1. What observations from the interdisciplinary team suggest possible cognitive-communication impairment?
 
-1. What interdisciplinary information supports the need for cognitive-communication assessment?
-2. What cognitive domains appear most relevant based on the notes?
-3. How might these findings affect safety, discharge planning, and caregiver education?
+2. Which cognitive domains would you prioritize during your assessment? What information supports your choices?
 
-## Continue
+3. How might Cindy's current presentation influence her ability to participate in daily activities, communicate needs, and maintain safety?
 
-[Go to Screening Readiness](readiness.qmd)
+4. What additional information would you want to obtain from the interdisciplinary team or Cindy's spouse before beginning cognitive screening?
+
+5. How might differences between Cindy's reported baseline and current functioning influence your interpretation of assessment findings?
+
+6. Are there any findings that may influence the timing, administration, or interpretation of a standardized cognitive screening tool?
+
+---
+
+## Navigation
+
+[← Back: Medical Chart Review](chart.html) | [Next: Screening Readiness →](readiness.html)

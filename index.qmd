@@ -48,4 +48,23 @@ Students will complete:
 
 :::
 
+::: {.chart-card}
+## 🧠 Simulation 3
+
+### Cognitive Screening & Clinical Decision-Making
+
+Evaluate cognitive-communication functioning following a right MCA ischemic stroke through medical chart review, interdisciplinary collaboration, and standardized cognitive screening.
+
+Students will complete:
+
+- Medical Chart Review
+- Interdisciplinary Documentation Review
+- Cognitive Screening Readiness
+- MoCA Administration
+- Functional Implications & Recommendations
+
+[Begin Simulation 3](simulations/sim3/index.html)
+
+:::
+
 :::

@@ -1,52 +1,85 @@
+
 ---
-title: "Chart Review"
+title: "Medical Chart Review"
 ---
 
 ::: {.patient-banner}
-# Cindy Carlson
+## Cindy Carlson | Medical Chart
 
 **92-year-old female** | **DOB:** 09/10/1932 | **Diagnosis:** Right MCA Ischemic Stroke
+
+Review the medical chart to identify relevant clinical information prior to completing a cognitive-communication assessment.
 :::
 
 ::: {.warning}
-**SLP Task:** Review the chart and identify information relevant to cognitive-communication assessment, safety, functional participation, and discharge planning.
+## SLP Task
+
+Review Cindy Carlson's medical history, neurological findings, imaging, medications, and prior level of function.
+
+Identify information relevant to cognitive-communication functioning, patient safety, assessment readiness, and discharge planning.
+
+Consider what additional information may be needed before proceeding with cognitive screening.
 :::
 
-## Patient Snapshot
+## Patient Information
 
 | Field | Information |
 |---|---|
-| Name | Cindy Carlson |
-| DOB | 09/10/1932 |
+| Patient Name | Cindy Carlson |
+| Date of Birth | 09/10/1932 |
+| Age | 92 years |
 | Sex | Female |
 | Date of Admission | 10/12/2024 |
 | Symptom Onset | 10/11/2024 |
 | Primary Diagnosis | Right MCA ischemic stroke |
 | Reason for SLP Consult | Cognitive-communication evaluation |
-| Prior Level of Function | Independent with ADLs, cognitively intact |
+| Prior Level of Function | Independent with ADLs; no reported baseline cognitive impairment |
+
+---
 
 ## Chief Concern
 
 ::: {.note-box}
-Left-sided neglect, right gaze preference, fluctuating orientation, memory concerns, and difficulty with speech characterized by phonemic paraphasias.
+Cindy Carlson was admitted following an acute right MCA ischemic stroke.
+
+Current concerns include left-sided neglect, right gaze preference, fluctuating orientation, difficulty recalling recent events, and reduced awareness of functional limitations.
+
+These findings raise concerns regarding cognitive-communication functioning and safety during daily activities.
 :::
 
 ## History of Present Illness
 
 ::: {.note-box}
-Cindy Carlson presented to the emergency department with sudden onset confusion, left-sided weakness, and difficulty speaking. Symptoms began approximately two hours prior to arrival. Initial imaging revealed an acute ischemic stroke affecting the right MCA territory.
+Cindy Carlson presented to the emergency department with sudden-onset confusion, left-sided weakness, and difficulty communicating.
 
-Current clinical concerns include left-sided neglect, right gaze preference, fluctuating orientation, memory deficits for recent events, and reduced functional awareness.
+Symptoms reportedly began approximately two hours prior to arrival.
+
+Initial imaging identified an acute ischemic stroke involving the right middle cerebral artery (MCA) territory.
+
+Since admission, clinical observations have included:
+
+- Left-sided weakness and inattention
+- Right gaze preference
+- Fluctuating orientation
+- Difficulty recalling recent events
+- Reduced awareness of current deficits
+- Concerns regarding functional safety and independence
+
+The medical team requested an SLP cognitive-communication evaluation to further characterize potential deficits and inform interdisciplinary care planning.
 :::
 
-## Imaging / Testing
+---
+
+## Imaging & Diagnostic Testing
 
 | Test | Findings |
 |---|---|
 | CT Head | Acute infarct in the right MCA distribution |
-| MRI Brain | Ischemic stroke involving right temporal and parietal lobes |
-| Carotid Doppler | Moderate stenosis of right internal carotid artery |
-| Echocardiogram | No evidence of embolic source |
+| MRI Brain | Ischemic changes involving the right temporal and parietal lobes |
+| Carotid Doppler | Moderate stenosis of the right internal carotid artery |
+| Echocardiogram | No identified cardiac embolic source |
+
+---
 
 ## Past Medical History
 
@@ -56,41 +89,79 @@ Current clinical concerns include left-sided neglect, right gaze preference, flu
 | Hypertension | Active |
 | Hyperlipidemia | Active |
 
-## Medications
+---
+
+## Current Medications
 
 | Medication | Dose / Frequency | Clinical Relevance |
 |---|---|---|
-| Aspirin | 81 mg daily | Stroke prevention |
-| Atorvastatin | 40 mg daily | Hyperlipidemia / stroke prevention |
+| Aspirin | 81 mg daily | Antiplatelet therapy |
+| Atorvastatin | 40 mg daily | Lipid management and secondary stroke prevention |
 | Lisinopril | 20 mg daily | Blood pressure management |
 | Metformin | 500 mg twice daily | Diabetes management |
 | Clopidogrel | 75 mg daily | Antiplatelet therapy |
 
-## Social History
+---
+
+## Social & Functional History
 
 | Area | Information |
 |---|---|
 | Occupation | Retired elementary school teacher |
-| Living Situation | Lives with spouse; married 50 years |
+| Living Situation | Lives with spouse; married approximately 50 years |
+| Prior Independence | Independent with activities of daily living |
+| Baseline Cognition | No reported history of cognitive impairment |
 | Substance Use | Non-smoker; no alcohol use reported |
-| Interests | Gardening, church community |
+| Interests | Gardening and church community |
 
-## Medical Assessment / Plan
+::: {.note-box}
+**Clinical Consideration**
 
-::: {.info}
-**Right MCA ischemic stroke:** Continue medical management and monitor neurological status.  
-**Left-sided neglect:** Occupational therapy to address visual-spatial deficits.  
-**Cognitive deficits:** Cognitive therapy and monitoring.  
-**Discharge planning:** Anticipate rehabilitation needs and arrange family education with spouse.
+Cindy's prior level of independence is important when interpreting current cognitive-communication findings.
+
+Consider how new neurological deficits may affect her ability to return to previous routines, participate in daily activities, and safely manage responsibilities at home.
 :::
 
-## Chart Review Questions
+---
 
-1. What findings suggest possible cognitive-communication impairment?
-2. What information is most relevant to determining whether Cindy is appropriate for MoCA administration?
-3. What functional activities may be impacted by right hemisphere stroke?
-4. What questions would you ask nursing, OT, PT, or the spouse before completing the assessment?
+## Medical Assessment & Plan
 
-## Continue
+::: {.info}
+**Right MCA Ischemic Stroke**
 
-[Go to Interdisciplinary Notes](interdisciplinary.qmd)
+Continue medical management and neurological monitoring.
+
+**Left-Sided Neglect**
+
+Occupational therapy consultation to evaluate visual-spatial attention and functional participation.
+
+**Cognitive-Communication Concerns**
+
+SLP evaluation requested to characterize cognitive-communication functioning and determine appropriate recommendations.
+
+**Discharge Planning**
+
+Continue interdisciplinary evaluation of rehabilitation needs, functional independence, and anticipated support requirements. Include spouse in education and discharge planning as appropriate.
+:::
+
+---
+
+## Clinical Reasoning: Chart Review
+
+Discuss the following questions with your group:
+
+1. Which findings in Cindy's medical history and current presentation suggest possible cognitive-communication impairment?
+
+2. What information is most relevant when determining whether Cindy is appropriate for MoCA administration?
+
+3. How might a right hemisphere stroke influence attention, awareness, memory, executive functioning, and functional communication?
+
+4. What additional information would you want from nursing, occupational therapy, physical therapy, or Cindy's spouse before beginning the evaluation?
+
+5. What potential barriers to returning to her prior level of independence can you identify from the chart?
+
+---
+
+## Navigation
+
+[← Back: Simulation 3 Home](index.html) | [Next: Interdisciplinary Notes →](interdisciplinary.html)

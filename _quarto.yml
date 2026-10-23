@@ -17,6 +17,9 @@ website:
       - href: simulations/sim2/index.qmd
         text: Simulation 2
 
+      - href: simulations/sim3/index.qmd
+        text: Simulation 3
+
 format:
   html:
     theme: cosmo

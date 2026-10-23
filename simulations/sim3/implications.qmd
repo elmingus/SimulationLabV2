@@ -1,54 +1,164 @@
+
 ---
 title: "Functional Implications"
 ---
 
 ::: {.patient-banner}
-# Cindy Carlson
+## Cindy Carlson | Functional Implications
 
-**92-year-old female** | **Diagnosis:** Right MCA Ischemic Stroke | **Focus:** Cognitive domains and function
+**92-year-old female** | **Diagnosis:** Right MCA Ischemic Stroke | **Focus:** Cognitive-Communication Function
+
+Use findings from cognitive screening, chart review, and interdisciplinary documentation to identify functional implications and develop patient-centered recommendations.
 :::
 
-## Connecting Cognitive Domains to Function
+::: {.warning}
+## SLP Task
 
-After completing the MoCA during simulation, use the results to describe how cognitive-communication deficits may affect Cindy's daily functioning and discharge needs.
+You have completed your cognitive-communication screening of Cindy Carlson.
 
-## Domain-to-Function Guide
+Your next task is to interpret the findings and consider how identified cognitive strengths and weaknesses may influence Cindy's daily functioning, safety, and participation in rehabilitation.
 
-| Cognitive Domain | Possible Functional Implications |
-|---|---|
-| Attention | Difficulty sustaining focus during therapy, meals, safety routines, and conversations |
-| Visuospatial / Executive Function | Difficulty scanning the environment, completing multi-step tasks, navigating safely, and recognizing hazards |
-| Memory | Difficulty recalling recent events, new safety instructions, medication changes, and therapy recommendations |
-| Orientation | Confusion regarding place, date, situation, and hospital routines |
-| Language | Word errors or communication breakdowns that may affect medical communication |
-| Insight / Awareness | Reduced recognition of deficits, increased fall risk, and difficulty following safety precautions |
+Integrate information from the MoCA, clinical observations, medical chart, and interdisciplinary team to develop a clinical impression and appropriate recommendations.
+
+Remember that standardized screening scores represent only one component of a comprehensive clinical assessment.
+:::
+
+## From Cognitive Screening to Functional Performance
+
+The MoCA provides information about performance across several cognitive domains. However, a screening score alone does not establish how a patient will function in everyday activities.
+
+Consider how Cindy's performance relates to her reported prior level of independence and her current medical and functional needs.
+
+---
+
+## Cognitive Domains & Functional Implications
+
+Using Cindy's MoCA results and observations from the simulation, discuss the following domains.
+
+For each domain, identify:
+
+1. Relevant findings from the assessment.
+2. Potential implications for daily activities.
+3. Additional information needed to support your interpretation.
+
+| Cognitive Domain | Assessment Findings | Potential Functional Implications |
+|---|---|---|
+| Attention | | |
+| Visuospatial / Executive Function | | |
+| Memory | | |
+| Orientation | | |
+| Language | | |
+| Awareness / Insight | | |
+
+::: {.info}
+**Clinical Consideration**
+
+Not all aspects of cognitive-communication functioning are adequately captured by a standardized screening measure.
+
+Consider whether additional clinical observations, functional tasks, or interdisciplinary findings are needed to characterize Cindy's abilities.
+
+In particular, awareness of deficits and functional safety should not be inferred solely from the MoCA total score.
+:::
+
+---
 
 ## Right Hemisphere Stroke Considerations
 
-::: {.warning}
-Right hemisphere stroke may affect attention, awareness, visual scanning, pragmatics, safety judgment, and functional problem-solving. A screening score alone does not fully describe functional impact.
+Right hemisphere stroke may influence multiple aspects of cognitive-communication functioning, including:
+
+- Attention and visual-spatial processing
+- Awareness of deficits
+- Executive functioning and problem-solving
+- Social communication and pragmatics
+- Interpretation of contextual information
+- Functional safety and judgment
+
+Consider how these areas may interact and influence Cindy's ability to participate in rehabilitation and return to her previous routines.
+
+::: {.note-box}
+**Clinical Reasoning**
+
+Cindy's spouse reports that she was previously independent with household responsibilities, driving, and community activities.
+
+Based on her current presentation, what concerns might arise when considering her return to these activities?
+
+Which concerns are supported by your findings, and which require additional assessment?
 :::
 
-## Clinical Impression Prompts
+---
 
-Use your MoCA results and chart review to answer:
+## Developing a Clinical Impression
 
-1. Which cognitive domains appear most impacted?
-2. How do these deficits affect safety and participation in rehabilitation?
-3. What recommendations would support Cindy and her spouse?
-4. What additional assessment or follow-up may be needed?
+Using the information gathered throughout the simulation, develop a brief clinical impression that addresses:
 
-## Possible Recommendations
+1. **Cognitive-Communication Profile:** Which areas of cognitive functioning appear relatively preserved or impaired?
 
-Recommendations may include:
+2. **Functional Impact:** How might these findings influence Cindy's participation in daily activities, rehabilitation, and communication?
 
-- Continue SLP cognitive-communication intervention
-- Provide family education regarding cognitive changes after right hemisphere stroke
-- Use environmental supports for left attention/scanning
-- Provide written and verbal reminders for safety information
-- Coordinate with OT/PT regarding neglect, mobility, and safety concerns
-- Consider supervision needs at discharge based on functional performance
+3. **Assessment Limitations:** What factors may have influenced MoCA performance or limit interpretation of the results?
+
+4. **Additional Assessment:** What additional information or evaluation would help clarify Cindy's cognitive-communication abilities?
+
+5. **Interdisciplinary Considerations:** How do your findings relate to observations documented by nursing, OT, and PT?
+
+---
+
+## Clinical Recommendations
+
+Based on your assessment findings, discuss potential recommendations in the following areas:
+
+### 1. Cognitive-Communication Intervention
+
+- Is skilled SLP intervention indicated?
+- Which areas of cognitive-communication functioning would you prioritize?
+- How would you connect intervention targets to functional activities?
+
+### 2. Environmental Supports & Safety
+
+- What strategies might support Cindy's attention and participation?
+- How could the environment be modified to support functional independence?
+- What safety concerns should be communicated to the interdisciplinary team?
+
+### 3. Patient & Family Education
+
+- What information would be important to share with Cindy and her spouse?
+- How would you explain the cognitive-communication findings using accessible, patient-centered language?
+- What strategies might help support communication and daily routines?
+
+### 4. Discharge Planning & Follow-Up
+
+- What additional information is needed to determine Cindy's anticipated support needs?
+- How might cognitive-communication findings influence discharge recommendations?
+- What role should the SLP play in interdisciplinary discharge planning?
+
+---
+
+## Clinical Reasoning: Final Reflection
+
+Discuss the following questions with your group:
+
+1. How did Cindy's performance on the MoCA compare with the concerns identified during chart review?
+
+2. Were there any discrepancies between standardized screening results and functional observations?
+
+3. How might left-sided neglect influence both cognitive screening performance and everyday functioning?
+
+4. What are the limitations of making discharge recommendations based on a single cognitive screening session?
+
+5. How would you communicate your findings to Cindy, her spouse, and the interdisciplinary team?
 
 ::: {.info}
-**Clinical takeaway:** The goal is not only to report a score, but to explain what the findings mean for Cindy's safety, participation, and everyday life.
+**Clinical Takeaway**
+
+Cognitive-communication assessment extends beyond identifying deficits or reporting standardized scores.
+
+Clinical reasoning requires integrating assessment findings, patient presentation, prior level of function, and interdisciplinary observations to understand how cognitive changes may affect meaningful daily activities.
+
+Recommendations should reflect the available evidence, patient-specific needs, and any remaining uncertainty.
 :::
+
+---
+
+## Navigation
+
+[← Back: Screening Readiness](readiness.html) | [Return to Simulation 3 Home →](index.html)

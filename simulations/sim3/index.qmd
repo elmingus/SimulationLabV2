@@ -1,5 +1,5 @@
 ---
-title: "Simulation 2: Cognitive Screening"
+title: "Simulation 3: Cognitive Screening"
 ---
 
 ::: {.patient-banner}

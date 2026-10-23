@@ -1,61 +1,131 @@
+
 ---
 title: "Screening Readiness"
 ---
 
 ::: {.patient-banner}
-# Cindy Carlson
+## Cindy Carlson | Cognitive Screening Readiness
 
-**92-year-old female** | **Diagnosis:** Right MCA Ischemic Stroke | **Assessment:** MoCA if appropriate
+**92-year-old female** | **Diagnosis:** Right MCA Ischemic Stroke | **Assessment:** Montreal Cognitive Assessment (MoCA)
+
+Evaluate Cindy's current presentation to determine whether standardized cognitive screening is appropriate and what factors may influence assessment administration and interpretation.
+:::
+
+::: {.warning}
+## SLP Task
+
+You have reviewed Cindy's medical chart and interdisciplinary documentation.
+
+Before administering the MoCA, evaluate her current readiness to participate in cognitive screening.
+
+Consider her alertness, attention, communication abilities, sensory and motor functioning, and medical status.
+
+Use clinical reasoning to determine whether to proceed, defer, or modify your assessment approach.
 :::
 
 ## Clinical Readiness for Cognitive Screening
 
-Before administering a cognitive screener, determine whether the patient can participate meaningfully.
+Before administering a standardized cognitive screener, determine whether the patient can participate meaningfully and whether the results are likely to provide interpretable information.
 
-Consider:
+Consider the following factors:
 
-- Alertness
-- Ability to attend to task
-- Vision/hearing needs
-- Motor or visual-perceptual barriers
-- Language abilities
-- Fatigue
-- Medical stability
-- Baseline function and current goals of care
+- **Alertness and arousal:** Is the patient sufficiently awake and responsive?
+- **Attention:** Can the patient sustain attention long enough to participate?
+- **Vision and hearing:** Are sensory limitations likely to interfere with test administration?
+- **Motor and visual-perceptual abilities:** Could physical limitations or visual neglect influence performance?
+- **Language and communication:** Can the patient understand instructions and communicate responses?
+- **Fatigue and endurance:** Can the patient tolerate the assessment demands?
+- **Medical stability:** Are there medical or neurological concerns that may affect participation?
+- **Baseline functioning:** How does the current presentation compare with the patient's prior level of function?
 
-## Current Presentation
+---
+
+## Current Patient Presentation
 
 ::: {.note-box}
-Cindy is awake when you enter. She looks toward the right side of the room and does not initially notice you standing on her left side. She responds to her name and participates in brief conversation, though her orientation fluctuates. She requires occasional redirection but remains awake and engaged for short periods.
+**SLP Arrival: 10:00 AM**
+
+Upon entering the room, Cindy is awake and resting in bed.
+
+She looks toward the right side of the room and does not initially acknowledge the clinician standing on her left.
+
+When addressed by name, Cindy turns toward the clinician and responds verbally.
+
+She participates in brief conversation and follows simple verbal directions.
+
+Cindy is able to state her name but has difficulty identifying the current date and location.
+
+During conversation, she occasionally loses track of the topic and requires verbal redirection.
+
+She remains awake and cooperative throughout the initial interaction, although her attention fluctuates.
+
+No acute distress is observed.
 :::
 
-## Clinical Decision
+---
+
+## Clinical Decision-Making
+
+Based on the available information, discuss the following with your group:
+
+1. What findings support Cindy's ability to participate in cognitive screening?
+
+2. What findings raise concerns about the validity or interpretability of standardized screening results?
+
+3. Would you proceed with the MoCA at this time? Why or why not?
+
+4. What additional information or observations might influence your decision?
+
+5. If Cindy is unable to complete standardized screening, what alternative assessment approaches could provide clinically meaningful information?
 
 ::: {.info}
-Cindy appears appropriate for attempted cognitive screening with accommodations and clinical judgment. Monitor fatigue, provide clear instructions, and document any factors that may influence interpretation of results.
+**Clinical Consideration**
+
+Standardized cognitive screening may provide useful information about cognitive functioning; however, results must be interpreted within the context of the patient's neurological presentation, sensory and motor abilities, medical status, and functional performance.
+
+Consider whether any changes to standardized administration would affect the interpretation or validity of the resulting scores.
 :::
 
-## If Proceeding With MoCA
+---
 
-During simulation, administer the MoCA as directed by your supervisor.
+## MoCA Administration
 
-Pay attention to:
+If you determine that cognitive screening is appropriate, administer the Montreal Cognitive Assessment (MoCA) during the simulation as directed by your supervisor.
 
+During administration, observe performance across the following domains:
+
+- Visuospatial and executive functioning
+- Naming
 - Attention and concentration
-- Executive functioning
-- Visuospatial skills
-- Memory
-- Orientation
 - Language
-- Insight and safety awareness
-- Impact of left neglect on task performance
+- Abstraction
+- Delayed recall
+- Orientation
 
-## Pause and Think
+In addition to recording scores, observe Cindy's approach to tasks, response patterns, need for redirection, and behavioral responses.
 
-1. What factors support proceeding with cognitive screening?
-2. What factors may affect validity or interpretation of MoCA results?
-3. How would you document limitations related to left neglect, fatigue, or fluctuating orientation?
+Pay particular attention to how left-sided inattention may influence performance on visually mediated tasks.
 
-## Continue
+Follow standardized administration procedures and document any deviations that may affect scoring or interpretation.
 
-[Go to Functional Implications](implications.qmd)
+---
+
+## Clinical Reasoning: Screening Readiness
+
+Following the assessment, discuss:
+
+1. How did Cindy's presentation during the assessment compare with the information documented in her medical chart?
+
+2. Which cognitive domains appeared most affected during screening?
+
+3. How might left-sided neglect influence performance on visuospatial or executive functioning tasks?
+
+4. Were there any behaviors or observations that were clinically meaningful but not fully captured by the MoCA score?
+
+5. What limitations should be included when documenting or communicating the screening results?
+
+---
+
+## Navigation
+
+[← Back: Interdisciplinary Notes](interdisciplinary.html) | [Next: Functional Implications →](implications.html)

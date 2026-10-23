@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "UO Acute Care Simulation Lab",
     "section": "",
-    "text": "Welcome to the University of Oregon Acute Care Simulation Lab.\nEach simulation is designed to mirror the clinical reasoning process used by Speech-Language Pathologists in the acute care setting. Select a simulation below to begin.\n\n\n\n\n\nAcute ischemic stroke with altered mental status requiring an initial Speech-Language Pathology consultation.\nStudents will complete:\n\nCase Overview\nChart Review\nVital Signs\nBedside Contact\nClinical Impression & Recommendations\n\nBegin Simulation 1\n\n\n\n\n\n\nApply cranial nerve knowledge, practice oral mechanism examinations, and explore clinical decision-making in dysphagia assessment.\nStudents will complete:\n\nCranial Nerve Review\nOral Mechanism Examination Practice\nSimulated Patient Case Studies\nBedside & Instrumental Assessment Scenarios\n\nBegin Simulation 2"
+    "text": "Welcome to the University of Oregon Acute Care Simulation Lab.\nEach simulation is designed to mirror the clinical reasoning process used by Speech-Language Pathologists in the acute care setting. Select a simulation below to begin.\n\n\n\n\n\nAcute ischemic stroke with altered mental status requiring an initial Speech-Language Pathology consultation.\nStudents will complete:\n\nCase Overview\nChart Review\nVital Signs\nBedside Contact\nClinical Impression & Recommendations\n\nBegin Simulation 1\n\n\n\n\n\n\nApply cranial nerve knowledge, practice oral mechanism examinations, and explore clinical decision-making in dysphagia assessment.\nStudents will complete:\n\nCranial Nerve Review\nOral Mechanism Examination Practice\nSimulated Patient Case Studies\nBedside & Instrumental Assessment Scenarios\n\nBegin Simulation 2\n\n\n\n\n\n\nEvaluate cognitive-communication functioning following a right MCA ischemic stroke through medical chart review, interdisciplinary collaboration, and standardized cognitive screening.\nStudents will complete:\n\nMedical Chart Review\nInterdisciplinary Documentation Review\nCognitive Screening Readiness\nMoCA Administration\nFunctional Implications & Recommendations\n\nBegin Simulation 3"
   },
   {
     "objectID": "index.html#simulation-1",
@@ -25,7 +25,7 @@
     "href": "index.html#simulation-3",
     "title": "UO Acute Care Simulation Lab",
     "section": "",
-    "text": "Left hemisphere stroke resulting in expressive and receptive aphasia following re-hospitalization after a fall.\nStudents will complete:\n\nCase Overview\nChart Review\nInterdisciplinary Notes\nCommunication Assessment\nFunctional Implications\n\nBegin Simulation 3"
+    "text": "Evaluate cognitive-communication functioning following a right MCA ischemic stroke through medical chart review, interdisciplinary collaboration, and standardized cognitive screening.\nStudents will complete:\n\nMedical Chart Review\nInterdisciplinary Documentation Review\nCognitive Screening Readiness\nMoCA Administration\nFunctional Implications & Recommendations\n\nBegin Simulation 3"
   },
   {
     "objectID": "index.html#simulation-4",
@@ -569,9 +569,9 @@
   {
     "objectID": "simulations/sim2/index.html",
     "href": "simulations/sim2/index.html",
-    "title": "Simulation 2",
+    "title": "Simulation 3",
     "section": "",
-    "text": "Today’s simulation focuses on cranial nerve function, oral mechanism examination (OME), and clinical decision-making in dysphagia assessment.\nStudents will apply evidence from assigned readings, practice examination skills with peers, and explore the role of instrumental swallowing assessments in acute care."
+    "text": "Today’s simulation focuses on cognitive-communication screening, clinical readiness, and functional implications following right hemisphere stroke.\nStudents will review medical and interdisciplinary documentation, determine the appropriateness of cognitive screening, administer the Montreal Cognitive Assessment (MoCA), and interpret findings in the context of functional communication, safety, and discharge planning."
   },
   {
     "objectID": "simulations/sim2/index.html#simulation-2-cognitive-screening",
@@ -1318,9 +1318,9 @@
   {
     "objectID": "simulations/sim3/index.html",
     "href": "simulations/sim3/index.html",
-    "title": "Simulation 3: Aphasia Assessment",
+    "title": "Simulation 2: Cognitive Screening",
     "section": "",
-    "text": "54-year-old male | DOB: 02/14/1994 | Location: Acute Care / Medical Unit\n\n\nHospital Day 1\n\n\nPrimary Diagnosis Fall with history of Left CVA\n\n\nConsult SLP Language Evaluation\n\n\nPrior Function Independent with Family Support"
+    "text": "92-year-old female | DOB: 09/10/1932 | Location: Acute Care / Neuro Unit\n\n\nHospital Day\n1\n\n\nPrimary Diagnosis\nRight MCA Ischemic Stroke\n\n\nConsult\nSLP Cognitive-Communication Evaluation\n\n\nPrior Function\nIndependent"
   },
   {
     "objectID": "simulations/sim3/index.html#simulation-3-aphasia-assessment",
@@ -1332,30 +1332,30 @@
   {
     "objectID": "simulations/sim3/index.html#learning-focus",
     "href": "simulations/sim3/index.html#learning-focus",
-    "title": "Simulation 3: Aphasia Assessment",
+    "title": "Simulation 2: Cognitive Screening",
     "section": "Learning Focus",
-    "text": "Learning Focus\nStudents will:\n\nReview relevant medical information for a language evaluation.\nIdentify characteristics associated with aphasia.\nDetermine appropriate communication strategies prior to assessment.\nInterpret interdisciplinary documentation.\nConnect language deficits to functional communication."
+    "text": "Learning Focus\nStudents will:\n\nGather relevant clinical information from the medical chart.\nIdentify cognitive-communication risk factors after right MCA stroke.\nDetermine whether the patient is appropriate for cognitive screening.\nConnect cognitive domains to functional skills and discharge planning.\nCommunicate findings using medical and patient-centered language."
   },
   {
     "objectID": "simulations/sim3/index.html#simulation-workflow",
     "href": "simulations/sim3/index.html#simulation-workflow",
-    "title": "Simulation 3: Aphasia Assessment",
+    "title": "Simulation 2: Cognitive Screening",
     "section": "Simulation Workflow",
-    "text": "Simulation Workflow\n\n\n\n📋 Step 1\n\n\nChart Review\nReview Steve’s medical history, current hospitalization, medications, and reason for consult.\nBegin Chart Review\n\n\n\n\n🏥 Step 2\n\n\nInterdisciplinary Notes\nReview documentation from nursing, PT, OT, and the physician.\nReview Notes\n\n\n\n\n💬 Step 3\n\n\nCommunication Considerations\nPlan how to communicate effectively before beginning language assessment.\nCommunication Strategies\n\n\n\n\n🧠 Step 4\n\n\nFunctional Implications\nRelate language deficits to daily communication and discharge planning.\nFunctional Implications"
+    "text": "Simulation Workflow\n\n\n\n📋 Step 1\n\n\nChart Review\nReview the H&P, imaging, medications, prior level of function, and current plan of care.\nBegin Chart Review\n\n\n\n\n🏥 Step 2\n\n\nInterdisciplinary Notes\nReview nursing, OT/PT, and medical notes for functional concerns.\nReview Notes\n\n\n\n\n🧠 Step 3\n\n\nScreening Readiness\nDetermine whether Cindy is appropriate for MoCA administration today.\nAssess Readiness\n\n\n\n\n🔎 Step 4\n\n\nFunctional Implications\nUse cognitive domains to connect screening results to real-world function.\nReview Implications"
   },
   {
     "objectID": "simulations/sim3/index.html#chart-review",
     "href": "simulations/sim3/index.html#chart-review",
-    "title": "Simulation 3: Aphasia Assessment",
+    "title": "Simulation 2: Cognitive Screening",
     "section": "Chart Review",
-    "text": "Chart Review\nReview Steve’s medical history, current hospitalization, medications, and reason for consult.\nBegin Chart Review"
+    "text": "Chart Review\nReview the H&P, imaging, medications, prior level of function, and current plan of care.\nBegin Chart Review"
   },
   {
     "objectID": "simulations/sim3/index.html#interdisciplinary-notes",
     "href": "simulations/sim3/index.html#interdisciplinary-notes",
-    "title": "Simulation 3: Aphasia Assessment",
+    "title": "Simulation 2: Cognitive Screening",
     "section": "Interdisciplinary Notes",
-    "text": "Interdisciplinary Notes\nReview documentation from nursing, PT, OT, and the physician.\nReview Notes"
+    "text": "Interdisciplinary Notes\nReview nursing, OT/PT, and medical notes for functional concerns.\nReview Notes"
   },
   {
     "objectID": "simulations/sim3/index.html#communication-considerations",
@@ -1367,16 +1367,16 @@
   {
     "objectID": "simulations/sim3/index.html#functional-implications",
     "href": "simulations/sim3/index.html#functional-implications",
-    "title": "Simulation 3: Aphasia Assessment",
+    "title": "Simulation 2: Cognitive Screening",
     "section": "Functional Implications",
-    "text": "Functional Implications\nRelate language deficits to daily communication and discharge planning.\nFunctional Implications"
+    "text": "Functional Implications\nUse cognitive domains to connect screening results to real-world function.\nReview Implications"
   },
   {
     "objectID": "simulations/sim3/chart.html",
     "href": "simulations/sim3/chart.html",
-    "title": "Chart Review",
+    "title": "Medical Chart Review",
     "section": "",
-    "text": "54-year-old male | Consult: Language Evaluation"
+    "text": "92-year-old female | DOB: 09/10/1932 | Diagnosis: Right MCA Ischemic Stroke\nReview the medical chart to identify relevant clinical information prior to completing a cognitive-communication assessment."
   },
   {
     "objectID": "simulations/sim3/chart.html#patient-snapshot",
@@ -1388,23 +1388,23 @@
   {
     "objectID": "simulations/sim3/chart.html#chief-concern",
     "href": "simulations/sim3/chart.html#chief-concern",
-    "title": "Chart Review",
+    "title": "Medical Chart Review",
     "section": "Chief Concern",
-    "text": "Chief Concern\n\nSteve was re-hospitalized following a fall at home. Although imaging showed no fractures, his previous left hemisphere stroke resulted in persistent expressive and receptive language deficits. Speech-Language Pathology was consulted to evaluate current communication abilities."
+    "text": "Chief Concern\n\nCindy Carlson was admitted following an acute right MCA ischemic stroke.\nCurrent concerns include left-sided neglect, right gaze preference, fluctuating orientation, difficulty recalling recent events, and reduced awareness of functional limitations.\nThese findings raise concerns regarding cognitive-communication functioning and safety during daily activities."
   },
   {
     "objectID": "simulations/sim3/chart.html#past-medical-history",
     "href": "simulations/sim3/chart.html#past-medical-history",
-    "title": "Chart Review",
+    "title": "Medical Chart Review",
     "section": "Past Medical History",
-    "text": "Past Medical History\n\n\n\nCondition\nStatus\n\n\n\n\nLeft CVA (ischemic)\nTwo years prior\n\n\nHypertension\nControlled\n\n\nOsteoarthritis\nChronic\n\n\nHypothyroidism\nManaged\n\n\nHearing Loss\nModerate; hearing aids available"
+    "text": "Past Medical History\n\n\n\nCondition\nStatus\n\n\n\n\nType 2 diabetes mellitus\nActive\n\n\nHypertension\nActive\n\n\nHyperlipidemia\nActive"
   },
   {
     "objectID": "simulations/sim3/chart.html#current-medications",
     "href": "simulations/sim3/chart.html#current-medications",
-    "title": "Chart Review",
+    "title": "Medical Chart Review",
     "section": "Current Medications",
-    "text": "Current Medications\n\n\n\nMedication\nPurpose\n\n\n\n\nLisinopril\nHypertension\n\n\nLevothyroxine\nHypothyroidism\n\n\nAcetaminophen\nArthritis pain"
+    "text": "Current Medications\n\n\n\n\n\n\n\n\nMedication\nDose / Frequency\nClinical Relevance\n\n\n\n\nAspirin\n81 mg daily\nAntiplatelet therapy\n\n\nAtorvastatin\n40 mg daily\nLipid management and secondary stroke prevention\n\n\nLisinopril\n20 mg daily\nBlood pressure management\n\n\nMetformin\n500 mg twice daily\nDiabetes management\n\n\nClopidogrel\n75 mg daily\nAntiplatelet therapy"
   },
   {
     "objectID": "simulations/sim3/chart.html#social-history",
@@ -1432,7 +1432,7 @@
     "href": "simulations/sim3/implications.html",
     "title": "Functional Implications",
     "section": "",
-    "text": "Focus: Language and Functional Communication"
+    "text": "92-year-old female | Diagnosis: Right MCA Ischemic Stroke | Focus: Cognitive-Communication Function\nUse findings from cognitive screening, chart review, and interdisciplinary documentation to identify functional implications and develop patient-centered recommendations."
   },
   {
     "objectID": "simulations/sim3/implications.html#connecting-language-to-daily-function",
@@ -1467,14 +1467,14 @@
     "href": "simulations/sim3/interdisciplinary.html",
     "title": "Interdisciplinary Notes",
     "section": "",
-    "text": "SLP Consult: Language Evaluation"
+    "text": "92-year-old female | Diagnosis: Right MCA Ischemic Stroke | Consult: Cognitive-Communication Evaluation\nReview documentation from the interdisciplinary team to better understand Cindy’s current functional abilities, neurological presentation, and potential cognitive-communication concerns."
   },
   {
     "objectID": "simulations/sim3/interdisciplinary.html#nursing-note",
     "href": "simulations/sim3/interdisciplinary.html#nursing-note",
     "title": "Interdisciplinary Notes",
     "section": "Nursing Note",
-    "text": "Nursing Note\n\nSteve is pleasant and cooperative throughout the shift. Frequently pauses during conversation and appears frustrated when unable to find desired words. Follows simple directions with occasional repetition. Family reports communication appears similar to his baseline following his previous stroke."
+    "text": "Nursing Note\n\nTime: 07:15\nAuthor: Registered Nurse\nPatient intermittently alert throughout morning. Oriented to name inconsistently; unable to accurately state location or date.\nFrequently looks toward the right side of the room and does not attend to items placed on the left side of the tray table.\nRequires repeated verbal cues for safety. Attempted to get out of bed without calling for assistance.\nSpouse at bedside and reports patient is “not acting like herself.”"
   },
   {
     "objectID": "simulations/sim3/interdisciplinary.html#physical-therapy",
@@ -1502,7 +1502,7 @@
     "href": "simulations/sim3/interdisciplinary.html#family-report",
     "title": "Interdisciplinary Notes",
     "section": "Family Report",
-    "text": "Family Report\n\nFamily reports Steve has remained largely independent since his stroke but occasionally struggles with word finding, especially when tired or stressed. They deny significant decline in cognition."
+    "text": "Family Report\n\nSource: Patient’s Spouse\nSpouse reports Cindy was independent prior to hospitalization.\nShe managed household routines, drove locally, participated in gardening, and remained active in her church community.\nSpouse reports Cindy did not demonstrate noticeable difficulties with memory, attention, or daily decision-making prior to the stroke.\nCurrent behavior represents a significant change from her usual functioning."
   },
   {
     "objectID": "simulations/sim3/interdisciplinary.html#slp-relevant-flags",
@@ -4120,14 +4120,14 @@
     "href": "simulations/sim3/readiness.html",
     "title": "Screening Readiness",
     "section": "",
-    "text": "92-year-old female | Diagnosis: Right MCA Ischemic Stroke | Assessment: MoCA if appropriate"
+    "text": "92-year-old female | Diagnosis: Right MCA Ischemic Stroke | Assessment: Montreal Cognitive Assessment (MoCA)\nEvaluate Cindy’s current presentation to determine whether standardized cognitive screening is appropriate and what factors may influence assessment administration and interpretation."
   },
   {
     "objectID": "simulations/sim3/readiness.html#clinical-readiness-for-cognitive-screening",
     "href": "simulations/sim3/readiness.html#clinical-readiness-for-cognitive-screening",
     "title": "Screening Readiness",
     "section": "Clinical Readiness for Cognitive Screening",
-    "text": "Clinical Readiness for Cognitive Screening\nBefore administering a cognitive screener, determine whether the patient can participate meaningfully.\nConsider:\n\nAlertness\nAbility to attend to task\nVision/hearing needs\nMotor or visual-perceptual barriers\nLanguage abilities\nFatigue\nMedical stability\nBaseline function and current goals of care"
+    "text": "Clinical Readiness for Cognitive Screening\nBefore administering a standardized cognitive screener, determine whether the patient can participate meaningfully and whether the results are likely to provide interpretable information.\nConsider the following factors:\n\nAlertness and arousal: Is the patient sufficiently awake and responsive?\nAttention: Can the patient sustain attention long enough to participate?\nVision and hearing: Are sensory limitations likely to interfere with test administration?\nMotor and visual-perceptual abilities: Could physical limitations or visual neglect influence performance?\nLanguage and communication: Can the patient understand instructions and communicate responses?\nFatigue and endurance: Can the patient tolerate the assessment demands?\nMedical stability: Are there medical or neurological concerns that may affect participation?\nBaseline functioning: How does the current presentation compare with the patient’s prior level of function?"
   },
   {
     "objectID": "simulations/sim3/readiness.html#current-presentation",
@@ -4475,30 +4475,30 @@
   {
     "objectID": "simulations/sim2/index.html#slp-task",
     "href": "simulations/sim2/index.html#slp-task",
-    "title": "Simulation 2",
+    "title": "Simulation 3",
     "section": "SLP Task",
-    "text": "SLP Task\nWork collaboratively to review cranial nerve function, complete simulated oral mechanism examinations, and interpret clinical findings.\nThroughout the session, consider what information can be obtained through bedside assessment, what limitations remain, and when additional assessment may be warranted."
+    "text": "SLP Task\nYou have received a consult for a cognitive-communication evaluation for Cindy Carlson, a 92-year-old female admitted following a right MCA ischemic stroke.\nReview the available clinical information to determine whether cognitive screening is appropriate at this time.\nIf appropriate, administer the MoCA and use your findings to identify areas of cognitive-communication concern, discuss functional implications, and develop recommendations.\nThroughout the session, consider how medical status, environmental factors, and patient presentation may influence assessment and interpretation."
   },
   {
     "objectID": "simulations/sim2/index.html#learning-objectives",
     "href": "simulations/sim2/index.html#learning-objectives",
-    "title": "Simulation 2",
+    "title": "Simulation 3",
     "section": "Learning Objectives",
-    "text": "Learning Objectives\nBy the end of this session, students will be able to:\n\nIdentify cranial nerves relevant to speech, swallowing, and airway protection.\nDemonstrate components of a focused oral mechanism examination.\nInterpret oral mechanism findings in relation to swallowing function.\nDiscuss the clinical utility and limitations of the OME in predicting aspiration.\nAdapt examination procedures based on patient presentation and communication abilities.\nCompare the purposes, strengths, and limitations of clinical swallow evaluation, FEES, and MBSS.\nApply clinical reasoning to determine when instrumental assessment may be indicated.\nIntegrate evidence from assigned readings into clinical decision-making."
+    "text": "Learning Objectives\nBy the end of this session, students will be able to:\n\nIdentify cognitive-communication deficits commonly associated with right hemisphere stroke.\nGather relevant information from medical and interdisciplinary documentation.\nEvaluate patient readiness for cognitive screening based on medical, cognitive, and behavioral factors.\nDemonstrate appropriate administration of the Montreal Cognitive Assessment (MoCA).\nInterpret screening findings while recognizing the limitations of standardized cognitive screening.\nConnect cognitive-communication findings to functional activities, safety, and discharge planning.\nCommunicate findings and recommendations using professional, patient-centered language."
   },
   {
     "objectID": "simulations/sim2/index.html#todays-modules",
     "href": "simulations/sim2/index.html#todays-modules",
-    "title": "Simulation 2",
+    "title": "Simulation 3",
     "section": "Today’s Modules",
-    "text": "Today’s Modules\n\n1. Cranial Nerves & Oral Mechanism Examination\nReview cranial nerves relevant to speech and swallowing, their associated functions, and methods of assessment.\nTest your knowledge and practice components of a focused oral mechanism examination with a partner.\nBegin Cranial Nerve Review\n\n\n2. Oral Mechanism Case Practice\nWork with a partner to complete simulated oral mechanism examinations using four acute care patient scenarios.\nAlternate roles as the SLP and patient while practicing examination techniques, interpreting findings, and discussing clinical implications.\nBegin Case Practice\n\n\n3. Bedside Assessment & Instrumentation\nCompare clinical swallow evaluation, FEES, and MBSS.\nApply evidence from assigned readings and clinical scenarios to determine which assessment approach best addresses the clinical question.\nCompare Assessment Options"
+    "text": "Today’s Modules\n\n1. Medical Chart Review\nReview Cindy Carlson’s medical history, admitting diagnosis, neuroimaging, medications, prior level of function, and current plan of care.\nIdentify relevant risk factors and consider how her neurological presentation may influence cognitive-communication functioning.\nBegin Chart Review\n\n\n2. Interdisciplinary Documentation\nReview documentation from nursing, occupational therapy, physical therapy, and the medical team.\nIdentify observations that may suggest cognitive-communication impairment and consider how interdisciplinary findings contribute to your assessment plan.\nReview Interdisciplinary Notes\n\n\n3. Cognitive Screening Readiness\nEvaluate Cindy’s current medical status, alertness, communication abilities, and participation to determine whether cognitive screening is appropriate.\nDiscuss factors that may influence the validity of MoCA administration and identify potential modifications or reasons to defer screening.\nAssess Screening Readiness\n\n\n4. Cognitive Screening & Functional Implications\nAdminister the MoCA during the simulation, as appropriate.\nInterpret findings across cognitive domains and discuss how identified strengths and weaknesses may influence functional independence, safety awareness, and discharge planning.\nConsider the limitations of screening results and whether additional assessment is warranted.\nExplore Functional Implications"
   },
   {
     "objectID": "simulations/sim2/index.html#navigation",
     "href": "simulations/sim2/index.html#navigation",
-    "title": "Simulation 2",
+    "title": "Simulation 3",
     "section": "Navigation",
-    "text": "Navigation\n← Back: Simulation Home | Next: Cranial Nerve Review →"
+    "text": "Navigation\n← Back: Simulation Home | Next: Medical Chart Review →"
   },
   {
     "objectID": "simulations/sim2/instrumentation.html",
@@ -5178,5 +5178,250 @@
     "title": "PMV & Swallowing Considerations",
     "section": "Continue",
     "text": "Continue\nBegin Clinical Evaluation"
+  },
+  {
+    "objectID": "simulations/sim2/index.html#cognitive-screening-clinical-decision-making",
+    "href": "simulations/sim2/index.html#cognitive-screening-clinical-decision-making",
+    "title": "Simulation 3",
+    "section": "",
+    "text": "Today’s simulation focuses on cognitive-communication screening, clinical readiness, and functional implications following right hemisphere stroke.\nStudents will review medical and interdisciplinary documentation, determine the appropriateness of cognitive screening, administer the Montreal Cognitive Assessment (MoCA), and interpret findings in the context of functional communication, safety, and discharge planning."
+  },
+  {
+    "objectID": "simulations/sim3/chart.html#cindy-carlson-medical-chart",
+    "href": "simulations/sim3/chart.html#cindy-carlson-medical-chart",
+    "title": "Medical Chart Review",
+    "section": "",
+    "text": "92-year-old female | DOB: 09/10/1932 | Diagnosis: Right MCA Ischemic Stroke\nReview the medical chart to identify relevant clinical information prior to completing a cognitive-communication assessment."
+  },
+  {
+    "objectID": "simulations/sim3/chart.html#slp-task",
+    "href": "simulations/sim3/chart.html#slp-task",
+    "title": "Medical Chart Review",
+    "section": "SLP Task",
+    "text": "SLP Task\nReview Cindy Carlson’s medical history, neurological findings, imaging, medications, and prior level of function.\nIdentify information relevant to cognitive-communication functioning, patient safety, assessment readiness, and discharge planning.\nConsider what additional information may be needed before proceeding with cognitive screening."
+  },
+  {
+    "objectID": "simulations/sim3/chart.html#patient-information",
+    "href": "simulations/sim3/chart.html#patient-information",
+    "title": "Medical Chart Review",
+    "section": "Patient Information",
+    "text": "Patient Information\n\n\n\n\n\n\n\nField\nInformation\n\n\n\n\nPatient Name\nCindy Carlson\n\n\nDate of Birth\n09/10/1932\n\n\nAge\n92 years\n\n\nSex\nFemale\n\n\nDate of Admission\n10/12/2024\n\n\nSymptom Onset\n10/11/2024\n\n\nPrimary Diagnosis\nRight MCA ischemic stroke\n\n\nReason for SLP Consult\nCognitive-communication evaluation\n\n\nPrior Level of Function\nIndependent with ADLs; no reported baseline cognitive impairment"
+  },
+  {
+    "objectID": "simulations/sim3/chart.html#history-of-present-illness",
+    "href": "simulations/sim3/chart.html#history-of-present-illness",
+    "title": "Medical Chart Review",
+    "section": "History of Present Illness",
+    "text": "History of Present Illness\n\nCindy Carlson presented to the emergency department with sudden-onset confusion, left-sided weakness, and difficulty communicating.\nSymptoms reportedly began approximately two hours prior to arrival.\nInitial imaging identified an acute ischemic stroke involving the right middle cerebral artery (MCA) territory.\nSince admission, clinical observations have included:\n\nLeft-sided weakness and inattention\nRight gaze preference\nFluctuating orientation\nDifficulty recalling recent events\nReduced awareness of current deficits\nConcerns regarding functional safety and independence\n\nThe medical team requested an SLP cognitive-communication evaluation to further characterize potential deficits and inform interdisciplinary care planning."
+  },
+  {
+    "objectID": "simulations/sim3/chart.html#imaging-diagnostic-testing",
+    "href": "simulations/sim3/chart.html#imaging-diagnostic-testing",
+    "title": "Medical Chart Review",
+    "section": "Imaging & Diagnostic Testing",
+    "text": "Imaging & Diagnostic Testing\n\n\n\n\n\n\n\nTest\nFindings\n\n\n\n\nCT Head\nAcute infarct in the right MCA distribution\n\n\nMRI Brain\nIschemic changes involving the right temporal and parietal lobes\n\n\nCarotid Doppler\nModerate stenosis of the right internal carotid artery\n\n\nEchocardiogram\nNo identified cardiac embolic source"
+  },
+  {
+    "objectID": "simulations/sim3/chart.html#social-functional-history",
+    "href": "simulations/sim3/chart.html#social-functional-history",
+    "title": "Medical Chart Review",
+    "section": "Social & Functional History",
+    "text": "Social & Functional History\n\n\n\nArea\nInformation\n\n\n\n\nOccupation\nRetired elementary school teacher\n\n\nLiving Situation\nLives with spouse; married approximately 50 years\n\n\nPrior Independence\nIndependent with activities of daily living\n\n\nBaseline Cognition\nNo reported history of cognitive impairment\n\n\nSubstance Use\nNon-smoker; no alcohol use reported\n\n\nInterests\nGardening and church community\n\n\n\n\nClinical Consideration\nCindy’s prior level of independence is important when interpreting current cognitive-communication findings.\nConsider how new neurological deficits may affect her ability to return to previous routines, participate in daily activities, and safely manage responsibilities at home."
+  },
+  {
+    "objectID": "simulations/sim3/chart.html#medical-assessment-plan",
+    "href": "simulations/sim3/chart.html#medical-assessment-plan",
+    "title": "Medical Chart Review",
+    "section": "Medical Assessment & Plan",
+    "text": "Medical Assessment & Plan\n\nRight MCA Ischemic Stroke\nContinue medical management and neurological monitoring.\nLeft-Sided Neglect\nOccupational therapy consultation to evaluate visual-spatial attention and functional participation.\nCognitive-Communication Concerns\nSLP evaluation requested to characterize cognitive-communication functioning and determine appropriate recommendations.\nDischarge Planning\nContinue interdisciplinary evaluation of rehabilitation needs, functional independence, and anticipated support requirements. Include spouse in education and discharge planning as appropriate."
+  },
+  {
+    "objectID": "simulations/sim3/chart.html#clinical-reasoning-chart-review",
+    "href": "simulations/sim3/chart.html#clinical-reasoning-chart-review",
+    "title": "Medical Chart Review",
+    "section": "Clinical Reasoning: Chart Review",
+    "text": "Clinical Reasoning: Chart Review\nDiscuss the following questions with your group:\n\nWhich findings in Cindy’s medical history and current presentation suggest possible cognitive-communication impairment?\nWhat information is most relevant when determining whether Cindy is appropriate for MoCA administration?\nHow might a right hemisphere stroke influence attention, awareness, memory, executive functioning, and functional communication?\nWhat additional information would you want from nursing, occupational therapy, physical therapy, or Cindy’s spouse before beginning the evaluation?\nWhat potential barriers to returning to her prior level of independence can you identify from the chart?"
+  },
+  {
+    "objectID": "simulations/sim3/chart.html#navigation",
+    "href": "simulations/sim3/chart.html#navigation",
+    "title": "Medical Chart Review",
+    "section": "Navigation",
+    "text": "Navigation\n← Back: Simulation 3 Home | Next: Interdisciplinary Notes →"
+  },
+  {
+    "objectID": "simulations/sim3/implications.html#cindy-carlson-functional-implications",
+    "href": "simulations/sim3/implications.html#cindy-carlson-functional-implications",
+    "title": "Functional Implications",
+    "section": "",
+    "text": "92-year-old female | Diagnosis: Right MCA Ischemic Stroke | Focus: Cognitive-Communication Function\nUse findings from cognitive screening, chart review, and interdisciplinary documentation to identify functional implications and develop patient-centered recommendations."
+  },
+  {
+    "objectID": "simulations/sim3/implications.html#slp-task",
+    "href": "simulations/sim3/implications.html#slp-task",
+    "title": "Functional Implications",
+    "section": "SLP Task",
+    "text": "SLP Task\nYou have completed your cognitive-communication screening of Cindy Carlson.\nYour next task is to interpret the findings and consider how identified cognitive strengths and weaknesses may influence Cindy’s daily functioning, safety, and participation in rehabilitation.\nIntegrate information from the MoCA, clinical observations, medical chart, and interdisciplinary team to develop a clinical impression and appropriate recommendations.\nRemember that standardized screening scores represent only one component of a comprehensive clinical assessment."
+  },
+  {
+    "objectID": "simulations/sim3/implications.html#from-cognitive-screening-to-functional-performance",
+    "href": "simulations/sim3/implications.html#from-cognitive-screening-to-functional-performance",
+    "title": "Functional Implications",
+    "section": "From Cognitive Screening to Functional Performance",
+    "text": "From Cognitive Screening to Functional Performance\nThe MoCA provides information about performance across several cognitive domains. However, a screening score alone does not establish how a patient will function in everyday activities.\nConsider how Cindy’s performance relates to her reported prior level of independence and her current medical and functional needs."
+  },
+  {
+    "objectID": "simulations/sim3/implications.html#cognitive-domains-functional-implications",
+    "href": "simulations/sim3/implications.html#cognitive-domains-functional-implications",
+    "title": "Functional Implications",
+    "section": "Cognitive Domains & Functional Implications",
+    "text": "Cognitive Domains & Functional Implications\nUsing Cindy’s MoCA results and observations from the simulation, discuss the following domains.\nFor each domain, identify:\n\nRelevant findings from the assessment.\nPotential implications for daily activities.\nAdditional information needed to support your interpretation.\n\n\n\n\n\n\n\n\n\nCognitive Domain\nAssessment Findings\nPotential Functional Implications\n\n\n\n\nAttention\n\n\n\n\nVisuospatial / Executive Function\n\n\n\n\nMemory\n\n\n\n\nOrientation\n\n\n\n\nLanguage\n\n\n\n\nAwareness / Insight\n\n\n\n\n\n\nClinical Consideration\nNot all aspects of cognitive-communication functioning are adequately captured by a standardized screening measure.\nConsider whether additional clinical observations, functional tasks, or interdisciplinary findings are needed to characterize Cindy’s abilities.\nIn particular, awareness of deficits and functional safety should not be inferred solely from the MoCA total score."
+  },
+  {
+    "objectID": "simulations/sim3/implications.html#right-hemisphere-stroke-considerations",
+    "href": "simulations/sim3/implications.html#right-hemisphere-stroke-considerations",
+    "title": "Functional Implications",
+    "section": "Right Hemisphere Stroke Considerations",
+    "text": "Right Hemisphere Stroke Considerations\nRight hemisphere stroke may influence multiple aspects of cognitive-communication functioning, including:\n\nAttention and visual-spatial processing\nAwareness of deficits\nExecutive functioning and problem-solving\nSocial communication and pragmatics\nInterpretation of contextual information\nFunctional safety and judgment\n\nConsider how these areas may interact and influence Cindy’s ability to participate in rehabilitation and return to her previous routines.\n\nClinical Reasoning\nCindy’s spouse reports that she was previously independent with household responsibilities, driving, and community activities.\nBased on her current presentation, what concerns might arise when considering her return to these activities?\nWhich concerns are supported by your findings, and which require additional assessment?"
+  },
+  {
+    "objectID": "simulations/sim3/implications.html#developing-a-clinical-impression",
+    "href": "simulations/sim3/implications.html#developing-a-clinical-impression",
+    "title": "Functional Implications",
+    "section": "Developing a Clinical Impression",
+    "text": "Developing a Clinical Impression\nUsing the information gathered throughout the simulation, develop a brief clinical impression that addresses:\n\nCognitive-Communication Profile: Which areas of cognitive functioning appear relatively preserved or impaired?\nFunctional Impact: How might these findings influence Cindy’s participation in daily activities, rehabilitation, and communication?\nAssessment Limitations: What factors may have influenced MoCA performance or limit interpretation of the results?\nAdditional Assessment: What additional information or evaluation would help clarify Cindy’s cognitive-communication abilities?\nInterdisciplinary Considerations: How do your findings relate to observations documented by nursing, OT, and PT?"
+  },
+  {
+    "objectID": "simulations/sim3/implications.html#clinical-recommendations",
+    "href": "simulations/sim3/implications.html#clinical-recommendations",
+    "title": "Functional Implications",
+    "section": "Clinical Recommendations",
+    "text": "Clinical Recommendations\nBased on your assessment findings, discuss potential recommendations in the following areas:\n\n1. Cognitive-Communication Intervention\n\nIs skilled SLP intervention indicated?\nWhich areas of cognitive-communication functioning would you prioritize?\nHow would you connect intervention targets to functional activities?\n\n\n\n2. Environmental Supports & Safety\n\nWhat strategies might support Cindy’s attention and participation?\nHow could the environment be modified to support functional independence?\nWhat safety concerns should be communicated to the interdisciplinary team?\n\n\n\n3. Patient & Family Education\n\nWhat information would be important to share with Cindy and her spouse?\nHow would you explain the cognitive-communication findings using accessible, patient-centered language?\nWhat strategies might help support communication and daily routines?\n\n\n\n4. Discharge Planning & Follow-Up\n\nWhat additional information is needed to determine Cindy’s anticipated support needs?\nHow might cognitive-communication findings influence discharge recommendations?\nWhat role should the SLP play in interdisciplinary discharge planning?"
+  },
+  {
+    "objectID": "simulations/sim3/implications.html#clinical-reasoning-final-reflection",
+    "href": "simulations/sim3/implications.html#clinical-reasoning-final-reflection",
+    "title": "Functional Implications",
+    "section": "Clinical Reasoning: Final Reflection",
+    "text": "Clinical Reasoning: Final Reflection\nDiscuss the following questions with your group:\n\nHow did Cindy’s performance on the MoCA compare with the concerns identified during chart review?\nWere there any discrepancies between standardized screening results and functional observations?\nHow might left-sided neglect influence both cognitive screening performance and everyday functioning?\nWhat are the limitations of making discharge recommendations based on a single cognitive screening session?\nHow would you communicate your findings to Cindy, her spouse, and the interdisciplinary team?\n\n\nClinical Takeaway\nCognitive-communication assessment extends beyond identifying deficits or reporting standardized scores.\nClinical reasoning requires integrating assessment findings, patient presentation, prior level of function, and interdisciplinary observations to understand how cognitive changes may affect meaningful daily activities.\nRecommendations should reflect the available evidence, patient-specific needs, and any remaining uncertainty."
+  },
+  {
+    "objectID": "simulations/sim3/implications.html#navigation",
+    "href": "simulations/sim3/implications.html#navigation",
+    "title": "Functional Implications",
+    "section": "Navigation",
+    "text": "Navigation\n← Back: Screening Readiness | Return to Simulation 3 Home →"
+  },
+  {
+    "objectID": "simulations/sim3/readiness.html#cindy-carlson-cognitive-screening-readiness",
+    "href": "simulations/sim3/readiness.html#cindy-carlson-cognitive-screening-readiness",
+    "title": "Screening Readiness",
+    "section": "",
+    "text": "92-year-old female | Diagnosis: Right MCA Ischemic Stroke | Assessment: Montreal Cognitive Assessment (MoCA)\nEvaluate Cindy’s current presentation to determine whether standardized cognitive screening is appropriate and what factors may influence assessment administration and interpretation."
+  },
+  {
+    "objectID": "simulations/sim3/readiness.html#slp-task",
+    "href": "simulations/sim3/readiness.html#slp-task",
+    "title": "Screening Readiness",
+    "section": "SLP Task",
+    "text": "SLP Task\nYou have reviewed Cindy’s medical chart and interdisciplinary documentation.\nBefore administering the MoCA, evaluate her current readiness to participate in cognitive screening.\nConsider her alertness, attention, communication abilities, sensory and motor functioning, and medical status.\nUse clinical reasoning to determine whether to proceed, defer, or modify your assessment approach."
+  },
+  {
+    "objectID": "simulations/sim3/readiness.html#current-patient-presentation",
+    "href": "simulations/sim3/readiness.html#current-patient-presentation",
+    "title": "Screening Readiness",
+    "section": "Current Patient Presentation",
+    "text": "Current Patient Presentation\n\nSLP Arrival: 10:00 AM\nUpon entering the room, Cindy is awake and resting in bed.\nShe looks toward the right side of the room and does not initially acknowledge the clinician standing on her left.\nWhen addressed by name, Cindy turns toward the clinician and responds verbally.\nShe participates in brief conversation and follows simple verbal directions.\nCindy is able to state her name but has difficulty identifying the current date and location.\nDuring conversation, she occasionally loses track of the topic and requires verbal redirection.\nShe remains awake and cooperative throughout the initial interaction, although her attention fluctuates.\nNo acute distress is observed."
+  },
+  {
+    "objectID": "simulations/sim3/readiness.html#clinical-decision-making",
+    "href": "simulations/sim3/readiness.html#clinical-decision-making",
+    "title": "Screening Readiness",
+    "section": "Clinical Decision-Making",
+    "text": "Clinical Decision-Making\nBased on the available information, discuss the following with your group:\n\nWhat findings support Cindy’s ability to participate in cognitive screening?\nWhat findings raise concerns about the validity or interpretability of standardized screening results?\nWould you proceed with the MoCA at this time? Why or why not?\nWhat additional information or observations might influence your decision?\nIf Cindy is unable to complete standardized screening, what alternative assessment approaches could provide clinically meaningful information?\n\n\nClinical Consideration\nStandardized cognitive screening may provide useful information about cognitive functioning; however, results must be interpreted within the context of the patient’s neurological presentation, sensory and motor abilities, medical status, and functional performance.\nConsider whether any changes to standardized administration would affect the interpretation or validity of the resulting scores."
+  },
+  {
+    "objectID": "simulations/sim3/readiness.html#moca-administration",
+    "href": "simulations/sim3/readiness.html#moca-administration",
+    "title": "Screening Readiness",
+    "section": "MoCA Administration",
+    "text": "MoCA Administration\nIf you determine that cognitive screening is appropriate, administer the Montreal Cognitive Assessment (MoCA) during the simulation as directed by your supervisor.\nDuring administration, observe performance across the following domains:\n\nVisuospatial and executive functioning\nNaming\nAttention and concentration\nLanguage\nAbstraction\nDelayed recall\nOrientation\n\nIn addition to recording scores, observe Cindy’s approach to tasks, response patterns, need for redirection, and behavioral responses.\nPay particular attention to how left-sided inattention may influence performance on visually mediated tasks.\nFollow standardized administration procedures and document any deviations that may affect scoring or interpretation."
+  },
+  {
+    "objectID": "simulations/sim3/readiness.html#clinical-reasoning-screening-readiness",
+    "href": "simulations/sim3/readiness.html#clinical-reasoning-screening-readiness",
+    "title": "Screening Readiness",
+    "section": "Clinical Reasoning: Screening Readiness",
+    "text": "Clinical Reasoning: Screening Readiness\nFollowing the assessment, discuss:\n\nHow did Cindy’s presentation during the assessment compare with the information documented in her medical chart?\nWhich cognitive domains appeared most affected during screening?\nHow might left-sided neglect influence performance on visuospatial or executive functioning tasks?\nWere there any behaviors or observations that were clinically meaningful but not fully captured by the MoCA score?\nWhat limitations should be included when documenting or communicating the screening results?"
+  },
+  {
+    "objectID": "simulations/sim3/readiness.html#navigation",
+    "href": "simulations/sim3/readiness.html#navigation",
+    "title": "Screening Readiness",
+    "section": "Navigation",
+    "text": "Navigation\n← Back: Interdisciplinary Notes | Next: Functional Implications →"
+  },
+  {
+    "objectID": "simulations/sim3/interdisciplinary.html#cindy-carlson-interdisciplinary-documentation",
+    "href": "simulations/sim3/interdisciplinary.html#cindy-carlson-interdisciplinary-documentation",
+    "title": "Interdisciplinary Notes",
+    "section": "",
+    "text": "92-year-old female | Diagnosis: Right MCA Ischemic Stroke | Consult: Cognitive-Communication Evaluation\nReview documentation from the interdisciplinary team to better understand Cindy’s current functional abilities, neurological presentation, and potential cognitive-communication concerns."
+  },
+  {
+    "objectID": "simulations/sim3/interdisciplinary.html#slp-task",
+    "href": "simulations/sim3/interdisciplinary.html#slp-task",
+    "title": "Interdisciplinary Notes",
+    "section": "SLP Task",
+    "text": "SLP Task\nReview the interdisciplinary documentation and identify observations relevant to cognitive-communication functioning.\nConsider how findings from nursing, occupational therapy, physical therapy, neurology, and family members may inform your assessment approach.\nAs you review, distinguish between observed behaviors, potential underlying cognitive impairments, and functional consequences."
+  },
+  {
+    "objectID": "simulations/sim3/interdisciplinary.html#occupational-therapy-note",
+    "href": "simulations/sim3/interdisciplinary.html#occupational-therapy-note",
+    "title": "Interdisciplinary Notes",
+    "section": "Occupational Therapy Note",
+    "text": "Occupational Therapy Note\n\nService: Occupational Therapy\nDocumentation: Initial Evaluation\nPatient demonstrates left-sided inattention during grooming and upper-body dressing tasks.\nRequires moderate verbal and visual cues to locate items placed on the left side.\nDecreased awareness of left upper extremity positioning during functional tasks.\nReduced visual scanning and awareness of current limitations observed during assessment.\nPatient requires assistance and cueing to safely complete self-care activities."
+  },
+  {
+    "objectID": "simulations/sim3/interdisciplinary.html#physical-therapy-note",
+    "href": "simulations/sim3/interdisciplinary.html#physical-therapy-note",
+    "title": "Interdisciplinary Notes",
+    "section": "Physical Therapy Note",
+    "text": "Physical Therapy Note\n\nService: Physical Therapy\nDocumentation: Initial Evaluation\nPatient requires physical assistance for transfers and mobility.\nDemonstrates right gaze preference and reduced attention to the left side of the environment.\nDuring mobility tasks, patient requires verbal cues to identify environmental obstacles and maintain safety.\nIncreased fall risk noted due to reduced attention, limited awareness of current mobility deficits, and need for assistance."
+  },
+  {
+    "objectID": "simulations/sim3/interdisciplinary.html#neurology-progress-note",
+    "href": "simulations/sim3/interdisciplinary.html#neurology-progress-note",
+    "title": "Interdisciplinary Notes",
+    "section": "Neurology Progress Note",
+    "text": "Neurology Progress Note\n\nService: Neurology\nDocumentation: Physician Progress Note\nPatient admitted with acute right MCA ischemic stroke involving the right temporal and parietal regions.\nPersistent left-sided inattention and right gaze preference noted on examination.\nOrientation and attention fluctuate across assessments.\nContinue medical management and neurological monitoring.\nRehabilitation services consulted to evaluate functional impairments and anticipated discharge needs.\nSLP cognitive-communication evaluation requested to further characterize cognitive functioning and inform interdisciplinary recommendations."
+  },
+  {
+    "objectID": "simulations/sim3/interdisciplinary.html#clinical-reasoning-interdisciplinary-review",
+    "href": "simulations/sim3/interdisciplinary.html#clinical-reasoning-interdisciplinary-review",
+    "title": "Interdisciplinary Notes",
+    "section": "Clinical Reasoning: Interdisciplinary Review",
+    "text": "Clinical Reasoning: Interdisciplinary Review\nDiscuss the following questions with your group:\n\nWhat observations from the interdisciplinary team suggest possible cognitive-communication impairment?\nWhich cognitive domains would you prioritize during your assessment? What information supports your choices?\nHow might Cindy’s current presentation influence her ability to participate in daily activities, communicate needs, and maintain safety?\nWhat additional information would you want to obtain from the interdisciplinary team or Cindy’s spouse before beginning cognitive screening?\nHow might differences between Cindy’s reported baseline and current functioning influence your interpretation of assessment findings?\nAre there any findings that may influence the timing, administration, or interpretation of a standardized cognitive screening tool?"
+  },
+  {
+    "objectID": "simulations/sim3/interdisciplinary.html#navigation",
+    "href": "simulations/sim3/interdisciplinary.html#navigation",
+    "title": "Interdisciplinary Notes",
+    "section": "Navigation",
+    "text": "Navigation\n← Back: Medical Chart Review | Next: Screening Readiness →"
+  },
+  {
+    "objectID": "simulations/sim3/index.html#simulation-2-cognitive-screening",
+    "href": "simulations/sim3/index.html#simulation-2-cognitive-screening",
+    "title": "Simulation 2: Cognitive Screening",
+    "section": "Simulation 2: Cognitive Screening",
+    "text": "Simulation 2: Cognitive Screening\nThis simulation focuses on chart review, clinical readiness for cognitive screening, and functional implications of cognitive-communication findings following right hemisphere stroke.\n\nClinical task: Determine whether Cindy is appropriate for cognitive screening today. If appropriate, administer the MoCA during simulation and use results to describe functional implications."
+  },
+  {
+    "objectID": "simulations/sim3/index.html#screening-readiness",
+    "href": "simulations/sim3/index.html#screening-readiness",
+    "title": "Simulation 2: Cognitive Screening",
+    "section": "Screening Readiness",
+    "text": "Screening Readiness\nDetermine whether Cindy is appropriate for MoCA administration today.\nAssess Readiness"
   }
 ]
