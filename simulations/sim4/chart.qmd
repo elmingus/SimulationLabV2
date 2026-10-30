@@ -1,73 +1,126 @@
+
 ---
-title: "Chart Review"
+title: "Medical Chart Review"
 ---
 
 ::: {.patient-banner}
-# Steven "Steve" Thompson
+## Medical Chart Review
 
-**54-year-old male** | **Consult:** Language Evaluation
+Review Steven "Steve" Thompson's medical history, current hospitalization, and reason for Speech-Language Pathology consultation.
+
+Consider how his neurological history, current medical status, and reported changes in communication may influence language assessment and clinical decision-making.
 :::
 
 ::: {.warning}
-**SLP Task:** Review the chart and identify information relevant to a language assessment following left hemisphere stroke.
+## SLP Task
+
+You have received a consult for a language evaluation for Steve Thompson, a 54-year-old male admitted following a fall at home.
+
+Steve has a history of left hemisphere ischemic stroke with residual language difficulties. His son reports that Steve's communication has worsened since the fall.
+
+Review the medical chart to identify relevant clinical information, distinguish baseline communication abilities from reported changes, and determine what additional information is needed before proceeding with the Quick Aphasia Battery (QAB).
 :::
 
 ## Patient Snapshot
 
 | Field | Information |
-|------|-------------|
-| Name | Steven "Steve" Thompson |
-| Age | 54 |
-| Date of Admission | Current hospitalization |
+|---|---|
+| Patient Name | Steven "Steve" Thompson |
+| Age | 54 years |
+| Setting | Acute Care / Medical Unit |
+| Hospital Day | 1 |
 | Admitting Diagnosis | Fall with mild hip contusion |
-| Primary SLP Diagnosis | Mild expressive and receptive aphasia |
-| Prior Stroke | Left ischemic CVA (2 years ago) |
+| Reason for SLP Consult | Reported change in communication following fall; history of left hemisphere stroke |
+| Neurological History | Left ischemic CVA approximately 2 years ago |
+| Baseline Communication | Persistent word-finding difficulties following previous stroke |
+| Current Communication Concern | Increased difficulty with expression and comprehension reported by family |
+| Living Situation | Lives alone; son lives next door |
+
+---
 
 ## Chief Concern
 
 ::: {.note-box}
 
-Steve was re-hospitalized following a fall at home. Although imaging showed no fractures, his previous left hemisphere stroke resulted in persistent expressive and receptive language deficits. Speech-Language Pathology was consulted to evaluate current communication abilities.
+**Emergency Department / Admission Summary**
+
+Steve presented to the emergency department following a fall at home.
+
+Initial evaluation identified a mild hip contusion without evidence of fracture.
+
+His medical history is significant for a left hemisphere ischemic stroke approximately two years ago, with residual language difficulties.
+
+During the current hospitalization, Steve's son reported that his father's communication abilities appear different from baseline, including increased word-finding difficulties and difficulty responding appropriately to questions.
+
+The medical team is continuing to evaluate potential contributors to this reported change in communication.
+
+Speech-Language Pathology was consulted to characterize Steve's current language functioning, identify communication supports, and assist with recommendations for his care.
 
 :::
 
+---
+
 ## Past Medical History
 
-| Condition | Status |
-|------|---------|
-| Left CVA (ischemic) | Two years prior |
-| Hypertension | Controlled |
+| Condition | Clinical Information |
+|---|---|
+| Left Hemisphere Ischemic CVA | Approximately 2 years prior; residual language difficulties |
+| Hypertension | Controlled with medication |
 | Osteoarthritis | Chronic |
-| Hypothyroidism | Managed |
+| Hypothyroidism | Managed with medication |
 | Hearing Loss | Moderate; hearing aids available |
+
+### Clinical Considerations
+
+Steve's previous left hemisphere stroke is relevant to his current language functioning. However, his son's report of a recent change raises questions about whether the observed communication difficulties reflect his chronic aphasia, an acute change, or other contributing factors.
+
+His hearing loss may also influence comprehension of spoken instructions and performance during standardized language assessment.
+
+---
 
 ## Current Medications
 
-| Medication | Purpose |
-|------|---------|
+| Medication | Indication |
+|---|---|
 | Lisinopril | Hypertension |
 | Levothyroxine | Hypothyroidism |
-| Acetaminophen | Arthritis pain |
+| Acetaminophen | Arthritis-related pain |
 
-## Social History
+---
+
+## Social & Functional History
 
 | Area | Information |
-|------|-------------|
-| Living Situation | Lives alone |
-| Support | Family nearby |
-| Prior Function | Independent with ADLs |
-| Mobility | Occasionally used a cane |
+|---|---|
+| Living Situation | Lives independently |
+| Family Support | Son lives next door and checks in regularly |
+| Prior Level of Function | Independent with basic activities of daily living |
+| Mobility | Occasionally uses a cane |
+| Baseline Communication | Word-finding difficulties following previous stroke; generally able to express basic needs and participate in conversation |
+| Hearing | Moderate hearing loss; hearing aids available |
 
-## Chart Review Questions
+---
 
-1. Why was Speech-Language Pathology consulted?
+## Clinical Reasoning
 
-2. What medical history increases Steve's risk for aphasia?
+Discuss with your group:
 
-3. What factors besides aphasia may influence communication?
+1. Why was Speech-Language Pathology consulted during this hospitalization?
 
-4. What additional information would you want before beginning assessment?
+2. What aspects of Steve's medical and neurological history are relevant to his current communication abilities?
 
-## Continue
+3. What information suggests that Steve's communication may have changed from baseline?
 
-[Go to Interdisciplinary Notes](interdisciplinary.html)
+4. What medical concerns should be considered when a patient presents with new or worsening communication difficulties following a fall?
+
+5. How might Steve's hearing loss, pain, or fatigue influence his communication and performance during assessment?
+
+6. What additional information would you request from the medical team before administering the QAB?
+
+7. How could Steve's son contribute to the evaluation while ensuring Steve remains actively involved in his own care?
+
+---
+
+## Navigation
+
+[← Back: Simulation 4 Overview](index.html) | [Next: Interdisciplinary Documentation →](interdisciplinary.html)

@@ -67,4 +67,24 @@ Students will complete:
 
 :::
 
+::: {.chart-card}
+## 💬 Simulation 4
+
+### Aphasia Assessment & Clinical Decision-Making
+
+Evaluate language functioning in a patient with a history of left hemisphere stroke and reported changes in communication following a fall.
+
+Students will complete:
+
+- Medical Chart Review
+- Interdisciplinary Documentation Review
+- Communication Considerations & Assessment Preparation
+- Quick Aphasia Battery (QAB) Administration
+- Functional Implications & Recommendations
+
+[Begin Simulation 4](simulations/sim4/index.html)
+
 :::
+
+:::
+

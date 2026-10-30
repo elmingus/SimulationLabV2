@@ -1,54 +1,160 @@
+
 ---
 title: "Communication Considerations"
 ---
 
 ::: {.patient-banner}
-# Steven "Steve" Thompson
+## Communication Considerations & Assessment Preparation
 
-**Assessment:** Quick Aphasia Battery (QAB)
+Today's focus is on preparing for language assessment, identifying communication barriers, and selecting strategies to support effective communication with individuals with aphasia.
+
+Students will consider Steve Thompson's current communication presentation, reported changes from baseline, and factors that may influence participation in the Quick Aphasia Battery (QAB).
 :::
 
-## Preparing for Assessment
+::: {.warning}
+## SLP Task
 
-Before beginning language testing, consider how communication strategies may improve participation and provide a more accurate representation of Steve's language abilities.
+You are preparing to complete a language evaluation for Steve Thompson, a 54-year-old male with a history of left hemisphere ischemic stroke.
 
-## Current Presentation
+Steve's son reports that his communication has become more difficult since the fall. Before beginning standardized assessment, determine whether Steve is medically appropriate to participate and identify strategies to facilitate effective communication.
+
+Consider how to support Steve's comprehension, expression, and participation while maintaining the integrity of standardized assessment procedures.
+:::
+
+## Current Communication Presentation
 
 ::: {.note-box}
 
-Steve greets you with a smile and attempts conversation. His speech is fluent but interrupted by frequent word-finding pauses. He occasionally substitutes incorrect words and appears aware of communication breakdowns. He becomes visibly frustrated when unable to express himself.
+**Initial SLP Contact**
+
+Steve is awake and seated upright in bed. His son is present at bedside.
+
+When greeted, Steve smiles and attempts to engage in conversation.
+
+His speech is generally fluent but interrupted by frequent word-finding pauses. He occasionally substitutes incorrect words and demonstrates difficulty communicating his intended message.
+
+Steve appears aware of some communication breakdowns and becomes visibly frustrated when unable to express himself.
+
+He responds to simple questions but occasionally requires repetition or clarification.
+
+His son reports that these difficulties are more pronounced than before the fall.
 
 :::
 
-## Clinical Considerations
+---
 
-Before administering the QAB:
+## Before Beginning Assessment
 
-- Confirm hearing aids are available and functioning.
-- Reduce background noise.
-- Use short, clear sentences.
-- Present one task at a time.
-- Allow extra response time.
-- Avoid interrupting attempts to communicate.
-- Support communication with gestures or written keywords as appropriate.
-- Verify comprehension throughout the interaction.
+Review the available information and discuss the following considerations.
+
+### 1. Medical Readiness
+
+- Has the medical team been notified of the reported change in communication?
+- Has an acute neurological change been appropriately evaluated?
+- Is Steve medically stable and sufficiently alert to participate?
+- Are pain, fatigue, medications, or other factors influencing his presentation?
+- Is standardized language assessment appropriate at this time, or should it be deferred?
 
 ::: {.info}
+**Clinical Consideration**
 
-**Clinical Pearl**
+New or worsening language difficulties may indicate an acute neurological change, even in a patient with a history of aphasia.
 
-People with aphasia often understand more than they are able to express. Reduced verbal output should not automatically be interpreted as impaired cognition.
-
+An SLP evaluation does not replace medical assessment of an acute change in neurological status. Communicate concerns promptly to the medical team and confirm readiness before proceeding with routine standardized testing.
 :::
 
-## Pause and Think
+### 2. Hearing & Environmental Factors
 
-1. Which communication supports will be most important?
+- Confirm that Steve's hearing aids are available, functioning, and appropriately positioned.
+- Reduce background noise and competing auditory stimuli.
+- Position yourself where Steve can clearly see your face.
+- Confirm that Steve can hear and attend to conversational speech.
+- Consider how hearing difficulties could influence responses to auditory comprehension tasks.
 
-2. What barriers could affect test performance?
+### 3. Supportive Communication Strategies
 
-3. How will you respond if Steve becomes frustrated?
+During introductions, interviews, and routine clinical interactions:
 
-## Continue
+- Use short, clear sentences.
+- Present one idea or question at a time.
+- Allow additional time for processing and responding.
+- Avoid interrupting or completing Steve's sentences unnecessarily.
+- Use gestures, written keywords, or visual supports when helpful.
+- Offer opportunities to clarify or repair communication breakdowns.
+- Verify understanding without relying exclusively on yes/no responses.
+- Address Steve directly, even when his son assists with communication.
 
-[Functional Implications](implications.html)
+---
+
+## Standardized Assessment Considerations
+
+The Quick Aphasia Battery (QAB) provides a structured approach to evaluating language abilities across multiple domains.
+
+Supportive communication strategies may facilitate participation during the clinical interview and other nonstandardized interactions. However, modifications to standardized test instructions, cues, or item presentation may affect the interpretation of assessment results.
+
+Consider the following distinctions:
+
+| Clinical Interaction | Considerations |
+|---|---|
+| Patient interview | Use supported communication strategies to facilitate participation |
+| QAB administration | Follow standardized administration and scoring procedures |
+| Hearing accommodations | Address sensory barriers while considering potential effects on test validity |
+| Repetition or additional cues | Follow test-specific instructions; document deviations when applicable |
+| Communication breakdowns | Provide appropriate support outside standardized testing and document relevant observations |
+| Interpretation | Consider the influence of hearing, fatigue, medical status, and any administration modifications |
+
+::: {.info}
+**Clinical Pearl**
+
+Aphasia and cognitive impairment are not synonymous. Difficulty expressing a response does not necessarily indicate impaired reasoning, memory, or understanding.
+
+Similarly, successful responses to simple questions do not establish intact comprehension across more complex language tasks.
+
+Assessment should distinguish observed language difficulties from assumptions about cognitive functioning.
+:::
+
+---
+
+## Responding to Communication Breakdowns
+
+During your initial interaction, Steve attempts to explain something to you but repeatedly struggles to retrieve the intended word.
+
+He pauses, shakes his head, and says:
+
+*"I know... it's the... the thing... I can't..."*
+
+He becomes frustrated and looks toward his son for assistance.
+
+### Discuss With Your Group
+
+1. How would you respond to Steve's frustration while maintaining his autonomy?
+
+2. What supportive communication strategies could you use during the clinical interview?
+
+3. When might it be appropriate to involve his son, and how would you ensure Steve remains the primary participant?
+
+4. How might your approach differ during standardized QAB administration?
+
+---
+
+## Clinical Reasoning
+
+Before proceeding with the QAB, discuss:
+
+1. What information is needed to determine whether Steve is medically appropriate for language assessment?
+
+2. Which observed behaviors suggest possible expressive language difficulties? Which suggest possible receptive language difficulties?
+
+3. How might Steve's hearing loss influence his performance on auditory comprehension tasks?
+
+4. What is the difference between supporting communication during a clinical interaction and modifying standardized test administration?
+
+5. How would you document deviations from standardized procedures, if any were necessary?
+
+6. What additional information could you obtain from Steve and his son to better understand his baseline communication abilities?
+
+---
+
+## Navigation
+
+[← Back: Interdisciplinary Documentation](interdisciplinary.html) | [Next: Functional Implications →](implications.html)

@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "UO Acute Care Simulation Lab",
     "section": "",
-    "text": "Welcome to the University of Oregon Acute Care Simulation Lab.\nEach simulation is designed to mirror the clinical reasoning process used by Speech-Language Pathologists in the acute care setting. Select a simulation below to begin.\n\n\n\n\n\nAcute ischemic stroke with altered mental status requiring an initial Speech-Language Pathology consultation.\nStudents will complete:\n\nCase Overview\nChart Review\nVital Signs\nBedside Contact\nClinical Impression & Recommendations\n\nBegin Simulation 1\n\n\n\n\n\n\nApply cranial nerve knowledge, practice oral mechanism examinations, and explore clinical decision-making in dysphagia assessment.\nStudents will complete:\n\nCranial Nerve Review\nOral Mechanism Examination Practice\nSimulated Patient Case Studies\nBedside & Instrumental Assessment Scenarios\n\nBegin Simulation 2\n\n\n\n\n\n\nEvaluate cognitive-communication functioning following a right MCA ischemic stroke through medical chart review, interdisciplinary collaboration, and standardized cognitive screening.\nStudents will complete:\n\nMedical Chart Review\nInterdisciplinary Documentation Review\nCognitive Screening Readiness\nMoCA Administration\nFunctional Implications & Recommendations\n\nBegin Simulation 3"
+    "text": "Welcome to the University of Oregon Acute Care Simulation Lab.\nEach simulation is designed to mirror the clinical reasoning process used by Speech-Language Pathologists in the acute care setting. Select a simulation below to begin.\n\n\n\n\n\nAcute ischemic stroke with altered mental status requiring an initial Speech-Language Pathology consultation.\nStudents will complete:\n\nCase Overview\nChart Review\nVital Signs\nBedside Contact\nClinical Impression & Recommendations\n\nBegin Simulation 1\n\n\n\n\n\n\nApply cranial nerve knowledge, practice oral mechanism examinations, and explore clinical decision-making in dysphagia assessment.\nStudents will complete:\n\nCranial Nerve Review\nOral Mechanism Examination Practice\nSimulated Patient Case Studies\nBedside & Instrumental Assessment Scenarios\n\nBegin Simulation 2\n\n\n\n\n\n\nEvaluate cognitive-communication functioning following a right MCA ischemic stroke through medical chart review, interdisciplinary collaboration, and standardized cognitive screening.\nStudents will complete:\n\nMedical Chart Review\nInterdisciplinary Documentation Review\nCognitive Screening Readiness\nMoCA Administration\nFunctional Implications & Recommendations\n\nBegin Simulation 3\n\n\n\n\n\n\nEvaluate language functioning in a patient with a history of left hemisphere stroke and reported changes in communication following a fall.\nStudents will complete:\n\nMedical Chart Review\nInterdisciplinary Documentation Review\nCommunication Considerations & Assessment Preparation\nQuick Aphasia Battery (QAB) Administration\nFunctional Implications & Recommendations\n\nBegin Simulation 4"
   },
   {
     "objectID": "index.html#simulation-1",
@@ -32,7 +32,7 @@
     "href": "index.html#simulation-4",
     "title": "UO Acute Care Simulation Lab",
     "section": "",
-    "text": "Patients in acute care may experience communication barriers related to motor impairment, sensory loss, language differences, pain, or medical status.\nStudents will complete four AAC consultation cases involving:\n\nQuadriplegia and absent verbal communication\nVisual impairment and pain communication\nSpanish-language access\nHearing impairment\n\nStudents will identify communication barriers, evaluate access abilities, select appropriate AAC supports, collaborate with the interdisciplinary team, and develop communication recommendations.\nBegin Simulation 4"
+    "text": "Evaluate language functioning in a patient with a history of left hemisphere stroke and reported changes in communication following a fall.\nStudents will complete:\n\nMedical Chart Review\nInterdisciplinary Documentation Review\nCommunication Considerations & Assessment Preparation\nQuick Aphasia Battery (QAB) Administration\nFunctional Implications & Recommendations\n\nBegin Simulation 4"
   },
   {
     "objectID": "index.html#simulation-5",
@@ -1101,9 +1101,9 @@
   {
     "objectID": "simulations/sim4/index.html",
     "href": "simulations/sim4/index.html",
-    "title": "Simulation 4: AAC Consultation",
+    "title": "Simulation 4",
     "section": "",
-    "text": "Acute Care Simulation | Consultation-Based Activity"
+    "text": "Today’s simulation focuses on language assessment, communication strategies, and clinical decision-making for a patient with a history of left hemisphere stroke.\nStudents will review medical and interdisciplinary documentation, identify communication barriers, determine readiness for language assessment, and administer the Quick Aphasia Battery (QAB). Students will interpret findings in the context of functional communication, patient participation, and discharge planning."
   },
   {
     "objectID": "simulations/sim4/index.html#simulation-overview",
@@ -1115,9 +1115,9 @@
   {
     "objectID": "simulations/sim4/index.html#learning-objectives",
     "href": "simulations/sim4/index.html#learning-objectives",
-    "title": "Simulation 4: AAC Consultation",
+    "title": "Simulation 4",
     "section": "Learning Objectives",
-    "text": "Learning Objectives\nBy the end of this simulation, students will be able to:\n\nIdentify barriers affecting functional communication in the acute care setting.\nEvaluate patient access abilities, including motor, visual, auditory, cognitive, and linguistic factors.\nSelect appropriate low-tech and high-tech AAC supports.\nDevelop strategies for communicating urgent medical and personal needs.\nProvide patient, family, and staff education regarding AAC use.\nCoordinate recommendations with the interdisciplinary team.\nDocument findings and recommendations using an acute care SOAP note.\nReflect on clinical reasoning and patient-centered decision-making."
+    "text": "Learning Objectives\nBy the end of this session, students will be able to:\n\nIdentify language impairments commonly associated with left hemisphere stroke.\nGather relevant information from medical and interdisciplinary documentation.\nEvaluate patient readiness for language assessment based on medical, cognitive, and communication factors.\nIdentify and implement supportive communication strategies for individuals with aphasia.\nDemonstrate appropriate administration of the Quick Aphasia Battery (QAB).\nInterpret language assessment findings while recognizing the limitations of standardized assessment.\nConnect language findings to functional communication, patient participation, safety, and discharge planning.\nCommunicate findings and recommendations using professional, patient-centered language."
   },
   {
     "objectID": "simulations/sim4/index.html#your-role",
@@ -3994,7 +3994,7 @@
     "href": "simulations/sim4/communication.html",
     "title": "Communication Considerations",
     "section": "",
-    "text": "Assessment: Quick Aphasia Battery (QAB)"
+    "text": "Today’s focus is on preparing for language assessment, identifying communication barriers, and selecting strategies to support effective communication with individuals with aphasia.\nStudents will consider Steve Thompson’s current communication presentation, reported changes from baseline, and factors that may influence participation in the Quick Aphasia Battery (QAB)."
   },
   {
     "objectID": "simulations/sim4/communication.html#preparing-for-assessment",
@@ -4034,37 +4034,37 @@
   {
     "objectID": "simulations/sim4/chart.html",
     "href": "simulations/sim4/chart.html",
-    "title": "Chart Review",
+    "title": "Medical Chart Review",
     "section": "",
-    "text": "54-year-old male | Consult: Language Evaluation"
+    "text": "Review Steven “Steve” Thompson’s medical history, current hospitalization, and reason for Speech-Language Pathology consultation.\nConsider how his neurological history, current medical status, and reported changes in communication may influence language assessment and clinical decision-making."
   },
   {
     "objectID": "simulations/sim4/chart.html#patient-snapshot",
     "href": "simulations/sim4/chart.html#patient-snapshot",
-    "title": "Chart Review",
+    "title": "Medical Chart Review",
     "section": "Patient Snapshot",
-    "text": "Patient Snapshot\n\n\n\nField\nInformation\n\n\n\n\nName\nSteven “Steve” Thompson\n\n\nAge\n54\n\n\nDate of Admission\nCurrent hospitalization\n\n\nAdmitting Diagnosis\nFall with mild hip contusion\n\n\nPrimary SLP Diagnosis\nMild expressive and receptive aphasia\n\n\nPrior Stroke\nLeft ischemic CVA (2 years ago)"
+    "text": "Patient Snapshot\n\n\n\n\n\n\n\nField\nInformation\n\n\n\n\nPatient Name\nSteven “Steve” Thompson\n\n\nAge\n54 years\n\n\nSetting\nAcute Care / Medical Unit\n\n\nHospital Day\n1\n\n\nAdmitting Diagnosis\nFall with mild hip contusion\n\n\nReason for SLP Consult\nReported change in communication following fall; history of left hemisphere stroke\n\n\nNeurological History\nLeft ischemic CVA approximately 2 years ago\n\n\nBaseline Communication\nPersistent word-finding difficulties following previous stroke\n\n\nCurrent Communication Concern\nIncreased difficulty with expression and comprehension reported by family\n\n\nLiving Situation\nLives alone; son lives next door"
   },
   {
     "objectID": "simulations/sim4/chart.html#chief-concern",
     "href": "simulations/sim4/chart.html#chief-concern",
-    "title": "Chart Review",
+    "title": "Medical Chart Review",
     "section": "Chief Concern",
-    "text": "Chief Concern\n\nSteve was re-hospitalized following a fall at home. Although imaging showed no fractures, his previous left hemisphere stroke resulted in persistent expressive and receptive language deficits. Speech-Language Pathology was consulted to evaluate current communication abilities."
+    "text": "Chief Concern\n\nEmergency Department / Admission Summary\nSteve presented to the emergency department following a fall at home.\nInitial evaluation identified a mild hip contusion without evidence of fracture.\nHis medical history is significant for a left hemisphere ischemic stroke approximately two years ago, with residual language difficulties.\nDuring the current hospitalization, Steve’s son reported that his father’s communication abilities appear different from baseline, including increased word-finding difficulties and difficulty responding appropriately to questions.\nThe medical team is continuing to evaluate potential contributors to this reported change in communication.\nSpeech-Language Pathology was consulted to characterize Steve’s current language functioning, identify communication supports, and assist with recommendations for his care."
   },
   {
     "objectID": "simulations/sim4/chart.html#past-medical-history",
     "href": "simulations/sim4/chart.html#past-medical-history",
-    "title": "Chart Review",
+    "title": "Medical Chart Review",
     "section": "Past Medical History",
-    "text": "Past Medical History\n\n\n\nCondition\nStatus\n\n\n\n\nLeft CVA (ischemic)\nTwo years prior\n\n\nHypertension\nControlled\n\n\nOsteoarthritis\nChronic\n\n\nHypothyroidism\nManaged\n\n\nHearing Loss\nModerate; hearing aids available"
+    "text": "Past Medical History\n\n\n\n\n\n\n\nCondition\nClinical Information\n\n\n\n\nLeft Hemisphere Ischemic CVA\nApproximately 2 years prior; residual language difficulties\n\n\nHypertension\nControlled with medication\n\n\nOsteoarthritis\nChronic\n\n\nHypothyroidism\nManaged with medication\n\n\nHearing Loss\nModerate; hearing aids available\n\n\n\n\nClinical Considerations\nSteve’s previous left hemisphere stroke is relevant to his current language functioning. However, his son’s report of a recent change raises questions about whether the observed communication difficulties reflect his chronic aphasia, an acute change, or other contributing factors.\nHis hearing loss may also influence comprehension of spoken instructions and performance during standardized language assessment."
   },
   {
     "objectID": "simulations/sim4/chart.html#current-medications",
     "href": "simulations/sim4/chart.html#current-medications",
-    "title": "Chart Review",
+    "title": "Medical Chart Review",
     "section": "Current Medications",
-    "text": "Current Medications\n\n\n\nMedication\nPurpose\n\n\n\n\nLisinopril\nHypertension\n\n\nLevothyroxine\nHypothyroidism\n\n\nAcetaminophen\nArthritis pain"
+    "text": "Current Medications\n\n\n\nMedication\nIndication\n\n\n\n\nLisinopril\nHypertension\n\n\nLevothyroxine\nHypothyroidism\n\n\nAcetaminophen\nArthritis-related pain"
   },
   {
     "objectID": "simulations/sim4/chart.html#social-history",
@@ -4169,14 +4169,14 @@
     "href": "simulations/sim4/implications.html",
     "title": "Functional Implications",
     "section": "",
-    "text": "Focus: Language and Functional Communication"
+    "text": "Today’s focus is on interpreting language assessment findings and translating results into meaningful clinical recommendations.\nFollowing administration of the Quick Aphasia Battery (QAB), students will examine Steve Thompson’s language abilities, consider changes from his reported baseline, and develop recommendations to support communication, participation in care, and discharge planning."
   },
   {
     "objectID": "simulations/sim4/implications.html#connecting-language-to-daily-function",
     "href": "simulations/sim4/implications.html#connecting-language-to-daily-function",
     "title": "Functional Implications",
     "section": "Connecting Language to Daily Function",
-    "text": "Connecting Language to Daily Function\nFollowing completion of the Quick Aphasia Battery, consider how Steve’s communication abilities may influence daily participation and discharge planning."
+    "text": "Connecting Language to Daily Function\nLanguage assessment findings should be interpreted in the context of everyday communication demands.\nConsider how Steve’s performance may influence his ability to understand medical information, communicate with healthcare providers, and participate in decisions about his care.\n\nFunctional Communication Guide\n\n\n\n\n\n\n\nLanguage Domain\nPossible Functional Implications\n\n\n\n\nAuditory Comprehension\nDifficulty understanding medical explanations, instructions, or questions\n\n\nVerbal Expression\nDifficulty communicating wants, needs, symptoms, or concerns\n\n\nWord Retrieval & Naming\nIncreased pauses, communication breakdowns, or frustration during conversation\n\n\nRepetition\nDifficulty repeating unfamiliar words or medical terminology\n\n\nReading\nDifficulty interpreting discharge instructions, medication labels, or written information\n\n\nWriting\nDifficulty completing forms or using writing as an alternative communication method\n\n\n\n\nClinical Consideration\nNot all language difficulties will result in the same functional limitations.\nConsider the severity of the impairment, Steve’s existing communication strategies, environmental demands, and available supports when interpreting how assessment findings may influence daily activities."
   },
   {
     "objectID": "simulations/sim4/implications.html#functional-communication-guide",
@@ -4204,7 +4204,7 @@
     "href": "simulations/sim4/interdisciplinary.html",
     "title": "Interdisciplinary Notes",
     "section": "",
-    "text": "SLP Consult: Language Evaluation"
+    "text": "Review documentation from the healthcare team regarding Steven “Steve” Thompson’s communication abilities, functional performance, and current medical status.\nPay particular attention to differences between his reported baseline functioning and his presentation following the fall."
   },
   {
     "objectID": "simulations/sim4/interdisciplinary.html#nursing-note",
@@ -4218,28 +4218,28 @@
     "href": "simulations/sim4/interdisciplinary.html#physical-therapy",
     "title": "Interdisciplinary Notes",
     "section": "Physical Therapy",
-    "text": "Physical Therapy\n\nPatient ambulates short distances with contact guard assistance secondary to hip pain. Demonstrates good participation in therapy. Able to follow one-step commands consistently but requires repetition for more complex directions."
+    "text": "Physical Therapy\n\n09:15 – Mobility Evaluation\nPatient ambulates short distances with contact guard assistance secondary to hip pain.\nDemonstrates good participation in therapy.\nFollows simple one-step commands consistently. Requires repetition, demonstration, and additional time when completing multistep tasks.\nPatient occasionally responds with words or phrases that do not clearly communicate his intended message.\nTherapist notes difficulty determining whether breakdowns are related to comprehension, hearing, or other factors."
   },
   {
     "objectID": "simulations/sim4/interdisciplinary.html#occupational-therapy",
     "href": "simulations/sim4/interdisciplinary.html#occupational-therapy",
     "title": "Interdisciplinary Notes",
     "section": "Occupational Therapy",
-    "text": "Occupational Therapy\n\nPatient independently completes basic grooming with additional time. Difficulty reading written instructions. Performs better when demonstrations accompany verbal directions."
+    "text": "Occupational Therapy\n\n10:00 – Functional Assessment\nPatient completes basic grooming tasks with additional time.\nDemonstrates difficulty interpreting written instructions but performs better when verbal directions are accompanied by demonstration.\nPatient attempts to communicate needs independently but frequently relies on gestures when unable to retrieve words.\nFunctional performance improves with familiar tasks and structured cues.\nAdditional assessment of communication abilities may assist with determining appropriate supports for daily activities."
   },
   {
     "objectID": "simulations/sim4/interdisciplinary.html#physician-progress-note",
     "href": "simulations/sim4/interdisciplinary.html#physician-progress-note",
     "title": "Interdisciplinary Notes",
     "section": "Physician Progress Note",
-    "text": "Physician Progress Note\n\nHistory of left hemisphere ischemic stroke with residual mild aphasia. No evidence of new neurological injury following current fall. SLP consulted to reassess communication abilities during hospitalization."
+    "text": "Physician Progress Note\n\n10:30 – Medical Team\n54-year-old male admitted following a fall at home resulting in a mild hip contusion. No fracture identified on initial imaging.\nMedical history significant for left hemisphere ischemic stroke approximately two years ago with residual language difficulties.\nNo new focal motor deficits documented on current examination. However, family reports a change in communication abilities compared with baseline.\nThe cause of the reported communication change has not yet been established. Medical team is continuing evaluation of possible contributing factors.\nSLP consultation requested to characterize current communication functioning and assist with identifying appropriate communication supports."
   },
   {
     "objectID": "simulations/sim4/interdisciplinary.html#family-report",
     "href": "simulations/sim4/interdisciplinary.html#family-report",
     "title": "Interdisciplinary Notes",
     "section": "Family Report",
-    "text": "Family Report\n\nFamily reports Steve has remained largely independent since his stroke but occasionally struggles with word finding, especially when tired or stressed. They deny significant decline in cognition."
+    "text": "Family Report\n\nSteve’s son is present at bedside.\nSteve lives independently, and his son lives next door. His son checks in regularly and assists with transportation, appointments, and other activities as needed.\nAccording to his son, Steve has experienced word-finding difficulties since his stroke approximately two years ago. However, he has generally been able to communicate his needs, participate in conversations, and manage daily activities with occasional assistance.\nSince the fall, his son has noticed that Steve:\n\nTakes longer to respond to questions.\nHas greater difficulty finding words during conversation.\nOccasionally provides responses that do not match the question asked.\nAppears more frustrated when attempting to communicate.\nRelies more heavily on gestures or assistance from family members.\n\nHis son states:\n“Dad has always had some trouble getting his words out since the stroke, but this is different. He’s having a harder time understanding us and telling us what he needs.”"
   },
   {
     "objectID": "simulations/sim4/interdisciplinary.html#slp-relevant-flags",
@@ -5423,5 +5423,236 @@
     "title": "Simulation 2: Cognitive Screening",
     "section": "Screening Readiness",
     "text": "Screening Readiness\nDetermine whether Cindy is appropriate for MoCA administration today.\nAssess Readiness"
+  },
+  {
+    "objectID": "simulations/sim4/communication.html#communication-considerations-assessment-preparation",
+    "href": "simulations/sim4/communication.html#communication-considerations-assessment-preparation",
+    "title": "Communication Considerations",
+    "section": "",
+    "text": "Today’s focus is on preparing for language assessment, identifying communication barriers, and selecting strategies to support effective communication with individuals with aphasia.\nStudents will consider Steve Thompson’s current communication presentation, reported changes from baseline, and factors that may influence participation in the Quick Aphasia Battery (QAB)."
+  },
+  {
+    "objectID": "simulations/sim4/communication.html#slp-task",
+    "href": "simulations/sim4/communication.html#slp-task",
+    "title": "Communication Considerations",
+    "section": "SLP Task",
+    "text": "SLP Task\nYou are preparing to complete a language evaluation for Steve Thompson, a 54-year-old male with a history of left hemisphere ischemic stroke.\nSteve’s son reports that his communication has become more difficult since the fall. Before beginning standardized assessment, determine whether Steve is medically appropriate to participate and identify strategies to facilitate effective communication.\nConsider how to support Steve’s comprehension, expression, and participation while maintaining the integrity of standardized assessment procedures."
+  },
+  {
+    "objectID": "simulations/sim4/communication.html#current-communication-presentation",
+    "href": "simulations/sim4/communication.html#current-communication-presentation",
+    "title": "Communication Considerations",
+    "section": "Current Communication Presentation",
+    "text": "Current Communication Presentation\n\nInitial SLP Contact\nSteve is awake and seated upright in bed. His son is present at bedside.\nWhen greeted, Steve smiles and attempts to engage in conversation.\nHis speech is generally fluent but interrupted by frequent word-finding pauses. He occasionally substitutes incorrect words and demonstrates difficulty communicating his intended message.\nSteve appears aware of some communication breakdowns and becomes visibly frustrated when unable to express himself.\nHe responds to simple questions but occasionally requires repetition or clarification.\nHis son reports that these difficulties are more pronounced than before the fall."
+  },
+  {
+    "objectID": "simulations/sim4/communication.html#before-beginning-assessment",
+    "href": "simulations/sim4/communication.html#before-beginning-assessment",
+    "title": "Communication Considerations",
+    "section": "Before Beginning Assessment",
+    "text": "Before Beginning Assessment\nReview the available information and discuss the following considerations.\n\n1. Medical Readiness\n\nHas the medical team been notified of the reported change in communication?\nHas an acute neurological change been appropriately evaluated?\nIs Steve medically stable and sufficiently alert to participate?\nAre pain, fatigue, medications, or other factors influencing his presentation?\nIs standardized language assessment appropriate at this time, or should it be deferred?\n\n\nClinical Consideration\nNew or worsening language difficulties may indicate an acute neurological change, even in a patient with a history of aphasia.\nAn SLP evaluation does not replace medical assessment of an acute change in neurological status. Communicate concerns promptly to the medical team and confirm readiness before proceeding with routine standardized testing.\n\n\n\n2. Hearing & Environmental Factors\n\nConfirm that Steve’s hearing aids are available, functioning, and appropriately positioned.\nReduce background noise and competing auditory stimuli.\nPosition yourself where Steve can clearly see your face.\nConfirm that Steve can hear and attend to conversational speech.\nConsider how hearing difficulties could influence responses to auditory comprehension tasks.\n\n\n\n3. Supportive Communication Strategies\nDuring introductions, interviews, and routine clinical interactions:\n\nUse short, clear sentences.\nPresent one idea or question at a time.\nAllow additional time for processing and responding.\nAvoid interrupting or completing Steve’s sentences unnecessarily.\nUse gestures, written keywords, or visual supports when helpful.\nOffer opportunities to clarify or repair communication breakdowns.\nVerify understanding without relying exclusively on yes/no responses.\nAddress Steve directly, even when his son assists with communication."
+  },
+  {
+    "objectID": "simulations/sim4/communication.html#standardized-assessment-considerations",
+    "href": "simulations/sim4/communication.html#standardized-assessment-considerations",
+    "title": "Communication Considerations",
+    "section": "Standardized Assessment Considerations",
+    "text": "Standardized Assessment Considerations\nThe Quick Aphasia Battery (QAB) provides a structured approach to evaluating language abilities across multiple domains.\nSupportive communication strategies may facilitate participation during the clinical interview and other nonstandardized interactions. However, modifications to standardized test instructions, cues, or item presentation may affect the interpretation of assessment results.\nConsider the following distinctions:\n\n\n\n\n\n\n\nClinical Interaction\nConsiderations\n\n\n\n\nPatient interview\nUse supported communication strategies to facilitate participation\n\n\nQAB administration\nFollow standardized administration and scoring procedures\n\n\nHearing accommodations\nAddress sensory barriers while considering potential effects on test validity\n\n\nRepetition or additional cues\nFollow test-specific instructions; document deviations when applicable\n\n\nCommunication breakdowns\nProvide appropriate support outside standardized testing and document relevant observations\n\n\nInterpretation\nConsider the influence of hearing, fatigue, medical status, and any administration modifications\n\n\n\n\nClinical Pearl\nAphasia and cognitive impairment are not synonymous. Difficulty expressing a response does not necessarily indicate impaired reasoning, memory, or understanding.\nSimilarly, successful responses to simple questions do not establish intact comprehension across more complex language tasks.\nAssessment should distinguish observed language difficulties from assumptions about cognitive functioning."
+  },
+  {
+    "objectID": "simulations/sim4/communication.html#responding-to-communication-breakdowns",
+    "href": "simulations/sim4/communication.html#responding-to-communication-breakdowns",
+    "title": "Communication Considerations",
+    "section": "Responding to Communication Breakdowns",
+    "text": "Responding to Communication Breakdowns\nDuring your initial interaction, Steve attempts to explain something to you but repeatedly struggles to retrieve the intended word.\nHe pauses, shakes his head, and says:\n“I know… it’s the… the thing… I can’t…”\nHe becomes frustrated and looks toward his son for assistance.\n\nDiscuss With Your Group\n\nHow would you respond to Steve’s frustration while maintaining his autonomy?\nWhat supportive communication strategies could you use during the clinical interview?\nWhen might it be appropriate to involve his son, and how would you ensure Steve remains the primary participant?\nHow might your approach differ during standardized QAB administration?"
+  },
+  {
+    "objectID": "simulations/sim4/communication.html#clinical-reasoning",
+    "href": "simulations/sim4/communication.html#clinical-reasoning",
+    "title": "Communication Considerations",
+    "section": "Clinical Reasoning",
+    "text": "Clinical Reasoning\nBefore proceeding with the QAB, discuss:\n\nWhat information is needed to determine whether Steve is medically appropriate for language assessment?\nWhich observed behaviors suggest possible expressive language difficulties? Which suggest possible receptive language difficulties?\nHow might Steve’s hearing loss influence his performance on auditory comprehension tasks?\nWhat is the difference between supporting communication during a clinical interaction and modifying standardized test administration?\nHow would you document deviations from standardized procedures, if any were necessary?\nWhat additional information could you obtain from Steve and his son to better understand his baseline communication abilities?"
+  },
+  {
+    "objectID": "simulations/sim4/communication.html#navigation",
+    "href": "simulations/sim4/communication.html#navigation",
+    "title": "Communication Considerations",
+    "section": "Navigation",
+    "text": "Navigation\n← Back: Interdisciplinary Documentation | Next: Functional Implications →"
+  },
+  {
+    "objectID": "simulations/sim4/interdisciplinary.html#interdisciplinary-documentation",
+    "href": "simulations/sim4/interdisciplinary.html#interdisciplinary-documentation",
+    "title": "Interdisciplinary Notes",
+    "section": "",
+    "text": "Review documentation from the healthcare team regarding Steven “Steve” Thompson’s communication abilities, functional performance, and current medical status.\nPay particular attention to differences between his reported baseline functioning and his presentation following the fall."
+  },
+  {
+    "objectID": "simulations/sim4/interdisciplinary.html#slp-task",
+    "href": "simulations/sim4/interdisciplinary.html#slp-task",
+    "title": "Interdisciplinary Notes",
+    "section": "SLP Task",
+    "text": "SLP Task\nYou are preparing to complete a language evaluation for Steve Thompson, a 54-year-old male with a history of left hemisphere ischemic stroke.\nSteve’s son is present at bedside and reports that his father’s communication has changed since the fall.\nReview the interdisciplinary documentation and consider which findings may reflect longstanding language impairment, which may represent a change from baseline, and what additional information is needed before proceeding with assessment."
+  },
+  {
+    "objectID": "simulations/sim4/interdisciplinary.html#nursing",
+    "href": "simulations/sim4/interdisciplinary.html#nursing",
+    "title": "Interdisciplinary Notes",
+    "section": "Nursing",
+    "text": "Nursing\n\n08:00 – Morning Assessment\nPatient is alert, pleasant, and cooperative with care.\nFrequently pauses during conversation and demonstrates difficulty expressing his needs. At times, becomes visibly frustrated when staff are unable to understand his responses.\nFollows simple verbal directions but requires repetition and additional processing time for more complex instructions.\nPatient’s son is present at bedside and reports that Steve has been having greater difficulty communicating since his fall.\nNursing staff have observed that communication improves when instructions are presented slowly and one step at a time."
+  },
+  {
+    "objectID": "simulations/sim4/interdisciplinary.html#clinical-considerations",
+    "href": "simulations/sim4/interdisciplinary.html#clinical-considerations",
+    "title": "Interdisciplinary Notes",
+    "section": "Clinical Considerations",
+    "text": "Clinical Considerations\nWhen reviewing the documentation, consider the following:\n\nBaseline versus current functioning: Which communication difficulties were present before the fall, and which appear to be new or more pronounced?\nLanguage comprehension and expression: What observations suggest possible difficulties with understanding or producing language?\nHearing loss: How might Steve’s documented hearing impairment influence his responses to spoken instructions?\nMedical status: What additional medical information would help clarify possible contributors to his reported change in communication?\nFunctional communication: How might his current communication abilities influence participation in medical care, therapy, and discharge planning?"
+  },
+  {
+    "objectID": "simulations/sim4/interdisciplinary.html#clinical-reasoning",
+    "href": "simulations/sim4/interdisciplinary.html#clinical-reasoning",
+    "title": "Interdisciplinary Notes",
+    "section": "Clinical Reasoning",
+    "text": "Clinical Reasoning\nDiscuss with your group:\n\nWhat information suggests Steve’s communication abilities have changed from his baseline following the previous stroke?\nWhich observations suggest possible expressive language difficulties? Which suggest possible receptive language difficulties?\nHow might hearing loss, fatigue, pain, or other medical factors contribute to his current presentation?\nWhat additional information would you request from the medical team before proceeding with the QAB?\nHow would you involve Steve’s son in the evaluation while ensuring that Steve remains the primary participant in his own care?\nWhat communication strategies could you implement immediately to support Steve’s participation in care, even before completing a formal language assessment?"
+  },
+  {
+    "objectID": "simulations/sim4/interdisciplinary.html#navigation",
+    "href": "simulations/sim4/interdisciplinary.html#navigation",
+    "title": "Interdisciplinary Notes",
+    "section": "Navigation",
+    "text": "Navigation\n← Back: Medical Chart Review | Next: Communication Considerations →"
+  },
+  {
+    "objectID": "simulations/sim4/implications.html#language-assessment-functional-implications",
+    "href": "simulations/sim4/implications.html#language-assessment-functional-implications",
+    "title": "Functional Implications",
+    "section": "",
+    "text": "Today’s focus is on interpreting language assessment findings and translating results into meaningful clinical recommendations.\nFollowing administration of the Quick Aphasia Battery (QAB), students will examine Steve Thompson’s language abilities, consider changes from his reported baseline, and develop recommendations to support communication, participation in care, and discharge planning."
+  },
+  {
+    "objectID": "simulations/sim4/implications.html#slp-task",
+    "href": "simulations/sim4/implications.html#slp-task",
+    "title": "Functional Implications",
+    "section": "SLP Task",
+    "text": "SLP Task\nYou have completed a language evaluation for Steven “Steve” Thompson, a 54-year-old male with a history of left hemisphere ischemic stroke and reported changes in communication following a recent fall.\nUsing your QAB findings, clinical observations, and information from Steve’s son and the interdisciplinary team, develop a clinical impression and recommendations.\nConsider how Steve’s current communication abilities may influence his participation in medical care, ability to communicate needs, and independence following discharge.\nEnsure that any concerns regarding acute changes in communication have been communicated to the medical team."
+  },
+  {
+    "objectID": "simulations/sim4/implications.html#interpreting-the-qab",
+    "href": "simulations/sim4/implications.html#interpreting-the-qab",
+    "title": "Functional Implications",
+    "section": "Interpreting the QAB",
+    "text": "Interpreting the QAB\nReview your assessment findings and discuss the following:\n\nWhat patterns of strengths and difficulties were observed across language domains?\nWhich findings were consistent with your observations during the clinical interview?\nHow might hearing loss, fatigue, or other factors have influenced performance?\nHow do Steve’s current abilities compare with the baseline described by his son?\nWhat additional assessment or information may be needed to clarify his communication profile?"
+  },
+  {
+    "objectID": "simulations/sim4/implications.html#baseline-versus-current-functioning",
+    "href": "simulations/sim4/implications.html#baseline-versus-current-functioning",
+    "title": "Functional Implications",
+    "section": "Baseline Versus Current Functioning",
+    "text": "Baseline Versus Current Functioning\nSteve’s son reports that his father has experienced word-finding difficulties since his previous stroke but was generally able to communicate his needs and participate in daily activities.\nSince the fall, his son has noticed increased difficulty with expression and comprehension.\n\nDiscuss With Your Group\n\nWhich assessment findings may reflect Steve’s longstanding language impairment?\nWhich findings appear consistent with his son’s report of worsening communication?\nWhat additional information would help determine whether Steve has experienced a meaningful change from baseline?\nHow should uncertainty about his previous communication abilities be reflected in your documentation?\nWhat concerns should be communicated to the medical team?"
+  },
+  {
+    "objectID": "simulations/sim4/implications.html#communication-patient-participation",
+    "href": "simulations/sim4/implications.html#communication-patient-participation",
+    "title": "Functional Implications",
+    "section": "Communication & Patient Participation",
+    "text": "Communication & Patient Participation\nSteve lives independently, and his son lives next door.\nConsider how his current communication abilities may influence the following activities:\n\nCommunicating pain, symptoms, and basic needs to healthcare providers.\nUnderstanding medical information and participating in treatment decisions.\nFollowing instructions from nursing, therapy, and medical staff.\nCommunicating effectively during emergencies.\nUnderstanding discharge instructions and follow-up recommendations.\nManaging communication demands in his home environment."
+  },
+  {
+    "objectID": "simulations/sim4/implications.html#patient-centered-care",
+    "href": "simulations/sim4/implications.html#patient-centered-care",
+    "title": "Functional Implications",
+    "section": "Patient-Centered Care",
+    "text": "Patient-Centered Care\nAphasia does not automatically indicate impaired cognition or an inability to participate in medical decisions.\nUse appropriate communication supports to facilitate Steve’s understanding, expression, and involvement in his own care.\nWhen possible, verify his preferences directly rather than relying exclusively on family reports."
+  },
+  {
+    "objectID": "simulations/sim4/implications.html#developing-clinical-recommendations",
+    "href": "simulations/sim4/implications.html#developing-clinical-recommendations",
+    "title": "Functional Implications",
+    "section": "Developing Clinical Recommendations",
+    "text": "Developing Clinical Recommendations\nUsing your assessment findings, determine which recommendations are appropriate for Steve.\n\nCommunication Supports\nConsider:\n\nSupported communication strategies for nursing and medical staff.\nUse of gestures, written keywords, visual supports, or other multimodal strategies.\nAdditional processing and response time.\nEnvironmental modifications to reduce communication barriers.\nStrategies to support comprehension of important medical information.\nEducation for Steve’s son and other communication partners.\n\n\n\nContinued Assessment & Intervention\nConsider:\n\nWhether additional language assessment is warranted.\nWhether continued SLP intervention is indicated during hospitalization.\nAppropriate treatment priorities based on identified language difficulties.\nThe need for communication supports during interdisciplinary care.\nRecommendations for continued SLP services following discharge, when indicated.\n\n\n\nDischarge Considerations\nDiscuss how Steve’s communication abilities may influence discharge planning.\nConsider his prior level of independence, available family support, functional communication needs, and the findings of the interdisciplinary team.\nAvoid making discharge recommendations based on language assessment scores alone."
+  },
+  {
+    "objectID": "simulations/sim4/implications.html#clinical-impression-documentation",
+    "href": "simulations/sim4/implications.html#clinical-impression-documentation",
+    "title": "Functional Implications",
+    "section": "Clinical Impression & Documentation",
+    "text": "Clinical Impression & Documentation\nUsing your QAB findings, prepare a brief clinical summary that addresses:\n\nAssessment Findings: What language strengths and difficulties were identified?\nClinical Interpretation: How do findings relate to Steve’s history and current presentation?\nFunctional Implications: How might his communication abilities influence participation in medical care and daily activities?\nRecommendations: What communication supports, additional assessment, or interventions are appropriate?\nClinical Justification: What findings support your recommendations?\n\n\nClinical Takeaway\nLanguage assessment should extend beyond identifying impairment or reporting standardized scores.\nClinical recommendations should reflect how language abilities influence meaningful communication, patient participation, and functional independence.\nThe goal is not simply to describe what Steve can or cannot do during testing, but to explain what those findings mean for his care."
+  },
+  {
+    "objectID": "simulations/sim4/implications.html#final-reflection",
+    "href": "simulations/sim4/implications.html#final-reflection",
+    "title": "Functional Implications",
+    "section": "Final Reflection",
+    "text": "Final Reflection\nDiscuss with your group:\n\nHow did information from Steve’s son influence your interpretation of assessment findings?\nWhat was the most important clinical consideration when determining your recommendations?\nHow did you balance standardized assessment results with observations of functional communication?\nWhat would you communicate to the interdisciplinary team regarding Steve’s current communication needs?\nWhat additional information would increase your confidence in your clinical recommendations?"
+  },
+  {
+    "objectID": "simulations/sim4/implications.html#navigation",
+    "href": "simulations/sim4/implications.html#navigation",
+    "title": "Functional Implications",
+    "section": "Navigation",
+    "text": "Navigation\n← Back: Communication Considerations | Return to Simulation Home →"
+  },
+  {
+    "objectID": "simulations/sim4/chart.html#medical-chart-review",
+    "href": "simulations/sim4/chart.html#medical-chart-review",
+    "title": "Medical Chart Review",
+    "section": "",
+    "text": "Review Steven “Steve” Thompson’s medical history, current hospitalization, and reason for Speech-Language Pathology consultation.\nConsider how his neurological history, current medical status, and reported changes in communication may influence language assessment and clinical decision-making."
+  },
+  {
+    "objectID": "simulations/sim4/chart.html#slp-task",
+    "href": "simulations/sim4/chart.html#slp-task",
+    "title": "Medical Chart Review",
+    "section": "SLP Task",
+    "text": "SLP Task\nYou have received a consult for a language evaluation for Steve Thompson, a 54-year-old male admitted following a fall at home.\nSteve has a history of left hemisphere ischemic stroke with residual language difficulties. His son reports that Steve’s communication has worsened since the fall.\nReview the medical chart to identify relevant clinical information, distinguish baseline communication abilities from reported changes, and determine what additional information is needed before proceeding with the Quick Aphasia Battery (QAB)."
+  },
+  {
+    "objectID": "simulations/sim4/chart.html#social-functional-history",
+    "href": "simulations/sim4/chart.html#social-functional-history",
+    "title": "Medical Chart Review",
+    "section": "Social & Functional History",
+    "text": "Social & Functional History\n\n\n\n\n\n\n\nArea\nInformation\n\n\n\n\nLiving Situation\nLives independently\n\n\nFamily Support\nSon lives next door and checks in regularly\n\n\nPrior Level of Function\nIndependent with basic activities of daily living\n\n\nMobility\nOccasionally uses a cane\n\n\nBaseline Communication\nWord-finding difficulties following previous stroke; generally able to express basic needs and participate in conversation\n\n\nHearing\nModerate hearing loss; hearing aids available"
+  },
+  {
+    "objectID": "simulations/sim4/chart.html#clinical-reasoning",
+    "href": "simulations/sim4/chart.html#clinical-reasoning",
+    "title": "Medical Chart Review",
+    "section": "Clinical Reasoning",
+    "text": "Clinical Reasoning\nDiscuss with your group:\n\nWhy was Speech-Language Pathology consulted during this hospitalization?\nWhat aspects of Steve’s medical and neurological history are relevant to his current communication abilities?\nWhat information suggests that Steve’s communication may have changed from baseline?\nWhat medical concerns should be considered when a patient presents with new or worsening communication difficulties following a fall?\nHow might Steve’s hearing loss, pain, or fatigue influence his communication and performance during assessment?\nWhat additional information would you request from the medical team before administering the QAB?\nHow could Steve’s son contribute to the evaluation while ensuring Steve remains actively involved in his own care?"
+  },
+  {
+    "objectID": "simulations/sim4/chart.html#navigation",
+    "href": "simulations/sim4/chart.html#navigation",
+    "title": "Medical Chart Review",
+    "section": "Navigation",
+    "text": "Navigation\n← Back: Simulation 4 Overview | Next: Interdisciplinary Documentation →"
+  },
+  {
+    "objectID": "simulations/sim4/index.html#aphasia-assessment-clinical-decision-making",
+    "href": "simulations/sim4/index.html#aphasia-assessment-clinical-decision-making",
+    "title": "Simulation 4",
+    "section": "",
+    "text": "Today’s simulation focuses on language assessment, communication strategies, and clinical decision-making for a patient with a history of left hemisphere stroke.\nStudents will review medical and interdisciplinary documentation, identify communication barriers, determine readiness for language assessment, and administer the Quick Aphasia Battery (QAB). Students will interpret findings in the context of functional communication, patient participation, and discharge planning."
+  },
+  {
+    "objectID": "simulations/sim4/index.html#slp-task",
+    "href": "simulations/sim4/index.html#slp-task",
+    "title": "Simulation 4",
+    "section": "SLP Task",
+    "text": "SLP Task\nYou have received a consult for a language evaluation for Steven “Steve” Thompson, a 54-year-old male admitted following a fall with a history of left hemisphere cerebrovascular accident (CVA).\nReview the available clinical information to determine whether Steve is appropriate for language assessment at this time.\nIf appropriate, administer the Quick Aphasia Battery (QAB), identify receptive and expressive language strengths and difficulties, and develop recommendations to support functional communication.\nThroughout the session, consider how Steve’s medical history, current presentation, and communication abilities may influence assessment, patient participation, and clinical recommendations."
+  },
+  {
+    "objectID": "simulations/sim4/index.html#todays-modules",
+    "href": "simulations/sim4/index.html#todays-modules",
+    "title": "Simulation 4",
+    "section": "Today’s Modules",
+    "text": "Today’s Modules\n\n1. Medical Chart Review\nReview Steve Thompson’s medical history, current hospitalization, neurological history, medications, prior level of function, and reason for SLP consultation.\nIdentify relevant clinical information and consider how his history of left hemisphere stroke may influence language functioning.\nBegin Chart Review\n\n\n2. Interdisciplinary Documentation\nReview documentation from nursing, occupational therapy, physical therapy, and the medical team.\nIdentify observations related to Steve’s communication abilities, participation in care, and functional independence.\nConsider how interdisciplinary findings may inform your language assessment plan.\nReview Interdisciplinary Notes\n\n\n3. Communication Considerations\nEvaluate Steve’s current communication abilities and identify strategies to support successful interactions during the assessment.\nDiscuss how to modify instructions, verify comprehension, support expression, and facilitate patient participation without compromising the purpose of standardized testing.\nExplore Communication Strategies\n\n\n4. Language Assessment & Functional Implications\nAdminister the Quick Aphasia Battery (QAB) during the simulation, as appropriate.\nInterpret findings across receptive and expressive language domains and discuss how identified strengths and difficulties may influence functional communication, participation in medical care, and discharge planning.\nConsider whether additional assessment, communication supports, or caregiver education may be warranted.\nExplore Functional Implications"
+  },
+  {
+    "objectID": "simulations/sim4/index.html#navigation",
+    "href": "simulations/sim4/index.html#navigation",
+    "title": "Simulation 4",
+    "section": "Navigation",
+    "text": "Navigation\n← Back: Simulation Home | Next: Medical Chart Review →"
   }
 ]

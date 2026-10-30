@@ -1,59 +1,181 @@
+
 ---
 title: "Functional Implications"
 ---
 
 ::: {.patient-banner}
-# Steven "Steve" Thompson
+## Language Assessment & Functional Implications
 
-**Focus:** Language and Functional Communication
+Today's focus is on interpreting language assessment findings and translating results into meaningful clinical recommendations.
+
+Following administration of the Quick Aphasia Battery (QAB), students will examine Steve Thompson's language abilities, consider changes from his reported baseline, and develop recommendations to support communication, participation in care, and discharge planning.
 :::
+
+::: {.warning}
+## SLP Task
+
+You have completed a language evaluation for Steven "Steve" Thompson, a 54-year-old male with a history of left hemisphere ischemic stroke and reported changes in communication following a recent fall.
+
+Using your QAB findings, clinical observations, and information from Steve's son and the interdisciplinary team, develop a clinical impression and recommendations.
+
+Consider how Steve's current communication abilities may influence his participation in medical care, ability to communicate needs, and independence following discharge.
+
+Ensure that any concerns regarding acute changes in communication have been communicated to the medical team.
+:::
+
+## Interpreting the QAB
+
+Review your assessment findings and discuss the following:
+
+1. What patterns of strengths and difficulties were observed across language domains?
+2. Which findings were consistent with your observations during the clinical interview?
+3. How might hearing loss, fatigue, or other factors have influenced performance?
+4. How do Steve's current abilities compare with the baseline described by his son?
+5. What additional assessment or information may be needed to clarify his communication profile?
+
+---
 
 ## Connecting Language to Daily Function
 
-Following completion of the Quick Aphasia Battery, consider how Steve's communication abilities may influence daily participation and discharge planning.
+Language assessment findings should be interpreted in the context of everyday communication demands.
 
-## Functional Communication Guide
+Consider how Steve's performance may influence his ability to understand medical information, communicate with healthcare providers, and participate in decisions about his care.
 
-| Language Domain | Possible Functional Impact |
-|------|----------------------------|
-| Auditory Comprehension | Difficulty understanding medical information and multi-step directions |
-| Verbal Expression | Difficulty communicating wants, needs, and concerns |
-| Naming | Increased pauses and frustration during conversation |
-| Repetition | Difficulty repeating unfamiliar medical terminology |
-| Reading | Difficulty interpreting discharge paperwork or medication instructions |
-| Writing | Difficulty completing written forms or communicating by writing |
+### Functional Communication Guide
 
-::: {.warning}
-
-Aphasia affects language—not intelligence. Communication supports should maximize participation while preserving patient autonomy.
-
-:::
-
-## Clinical Impression Prompts
-
-Following the QAB, consider:
-
-1. Which language domains appear most impaired?
-
-2. How may these deficits affect safety during hospitalization?
-
-3. What communication supports should staff and family use?
-
-4. What recommendations would you include in your documentation?
-
-## Possible Recommendations
-
-- Continue speech-language pathology intervention.
-- Educate staff regarding supported communication strategies.
-- Encourage use of multimodal communication.
-- Provide written information in simplified format.
-- Include family in communication strategy education.
-- Recommend continued outpatient or inpatient language therapy as appropriate.
+| Language Domain | Possible Functional Implications |
+|---|---|
+| Auditory Comprehension | Difficulty understanding medical explanations, instructions, or questions |
+| Verbal Expression | Difficulty communicating wants, needs, symptoms, or concerns |
+| Word Retrieval & Naming | Increased pauses, communication breakdowns, or frustration during conversation |
+| Repetition | Difficulty repeating unfamiliar words or medical terminology |
+| Reading | Difficulty interpreting discharge instructions, medication labels, or written information |
+| Writing | Difficulty completing forms or using writing as an alternative communication method |
 
 ::: {.info}
+**Clinical Consideration**
 
+Not all language difficulties will result in the same functional limitations.
+
+Consider the severity of the impairment, Steve's existing communication strategies, environmental demands, and available supports when interpreting how assessment findings may influence daily activities.
+:::
+
+---
+
+## Baseline Versus Current Functioning
+
+Steve's son reports that his father has experienced word-finding difficulties since his previous stroke but was generally able to communicate his needs and participate in daily activities.
+
+Since the fall, his son has noticed increased difficulty with expression and comprehension.
+
+### Discuss With Your Group
+
+1. Which assessment findings may reflect Steve's longstanding language impairment?
+2. Which findings appear consistent with his son's report of worsening communication?
+3. What additional information would help determine whether Steve has experienced a meaningful change from baseline?
+4. How should uncertainty about his previous communication abilities be reflected in your documentation?
+5. What concerns should be communicated to the medical team?
+
+---
+
+## Communication & Patient Participation
+
+Steve lives independently, and his son lives next door.
+
+Consider how his current communication abilities may influence the following activities:
+
+- Communicating pain, symptoms, and basic needs to healthcare providers.
+- Understanding medical information and participating in treatment decisions.
+- Following instructions from nursing, therapy, and medical staff.
+- Communicating effectively during emergencies.
+- Understanding discharge instructions and follow-up recommendations.
+- Managing communication demands in his home environment.
+
+::: {.warning}
+## Patient-Centered Care
+
+Aphasia does not automatically indicate impaired cognition or an inability to participate in medical decisions.
+
+Use appropriate communication supports to facilitate Steve's understanding, expression, and involvement in his own care.
+
+When possible, verify his preferences directly rather than relying exclusively on family reports.
+:::
+
+---
+
+## Developing Clinical Recommendations
+
+Using your assessment findings, determine which recommendations are appropriate for Steve.
+
+### Communication Supports
+
+Consider:
+
+- Supported communication strategies for nursing and medical staff.
+- Use of gestures, written keywords, visual supports, or other multimodal strategies.
+- Additional processing and response time.
+- Environmental modifications to reduce communication barriers.
+- Strategies to support comprehension of important medical information.
+- Education for Steve's son and other communication partners.
+
+### Continued Assessment & Intervention
+
+Consider:
+
+- Whether additional language assessment is warranted.
+- Whether continued SLP intervention is indicated during hospitalization.
+- Appropriate treatment priorities based on identified language difficulties.
+- The need for communication supports during interdisciplinary care.
+- Recommendations for continued SLP services following discharge, when indicated.
+
+### Discharge Considerations
+
+Discuss how Steve's communication abilities may influence discharge planning.
+
+Consider his prior level of independence, available family support, functional communication needs, and the findings of the interdisciplinary team.
+
+Avoid making discharge recommendations based on language assessment scores alone.
+
+---
+
+## Clinical Impression & Documentation
+
+Using your QAB findings, prepare a brief clinical summary that addresses:
+
+1. **Assessment Findings:** What language strengths and difficulties were identified?
+2. **Clinical Interpretation:** How do findings relate to Steve's history and current presentation?
+3. **Functional Implications:** How might his communication abilities influence participation in medical care and daily activities?
+4. **Recommendations:** What communication supports, additional assessment, or interventions are appropriate?
+5. **Clinical Justification:** What findings support your recommendations?
+
+::: {.info}
 **Clinical Takeaway**
 
-Assessment results should extend beyond test scores to describe how language deficits affect meaningful participation in everyday communication.
+Language assessment should extend beyond identifying impairment or reporting standardized scores.
 
+Clinical recommendations should reflect how language abilities influence meaningful communication, patient participation, and functional independence.
+
+The goal is not simply to describe what Steve can or cannot do during testing, but to explain what those findings mean for his care.
 :::
+
+---
+
+## Final Reflection
+
+Discuss with your group:
+
+1. How did information from Steve's son influence your interpretation of assessment findings?
+
+2. What was the most important clinical consideration when determining your recommendations?
+
+3. How did you balance standardized assessment results with observations of functional communication?
+
+4. What would you communicate to the interdisciplinary team regarding Steve's current communication needs?
+
+5. What additional information would increase your confidence in your clinical recommendations?
+
+---
+
+## Navigation
+
+[← Back: Communication Considerations](communication.html) | [Return to Simulation Home →](../../index.html)

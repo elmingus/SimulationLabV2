@@ -20,9 +20,13 @@ website:
       - href: simulations/sim3/index.qmd
         text: Simulation 3
 
+      - href: simulations/sim4/index.qmd
+        text: Simulation 4
+
 format:
   html:
     theme: cosmo
     toc: false
     page-layout: full
     css: styles.css
+

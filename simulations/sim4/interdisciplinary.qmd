@@ -1,75 +1,162 @@
+
 ---
 title: "Interdisciplinary Notes"
 ---
 
 ::: {.patient-banner}
-# Steven "Steve" Thompson
+## Interdisciplinary Documentation
 
-**SLP Consult:** Language Evaluation
+Review documentation from the healthcare team regarding Steven "Steve" Thompson's communication abilities, functional performance, and current medical status.
+
+Pay particular attention to differences between his reported baseline functioning and his presentation following the fall.
 :::
 
-## Nursing Note
+::: {.warning}
+## SLP Task
+
+You are preparing to complete a language evaluation for Steve Thompson, a 54-year-old male with a history of left hemisphere ischemic stroke.
+
+Steve's son is present at bedside and reports that his father's communication has changed since the fall.
+
+Review the interdisciplinary documentation and consider which findings may reflect longstanding language impairment, which may represent a change from baseline, and what additional information is needed before proceeding with assessment.
+:::
+
+## Nursing
 
 ::: {.note-box}
 
-Steve is pleasant and cooperative throughout the shift. Frequently pauses during conversation and appears frustrated when unable to find desired words. Follows simple directions with occasional repetition. Family reports communication appears similar to his baseline following his previous stroke.
+**08:00 – Morning Assessment**
+
+Patient is alert, pleasant, and cooperative with care.
+
+Frequently pauses during conversation and demonstrates difficulty expressing his needs. At times, becomes visibly frustrated when staff are unable to understand his responses.
+
+Follows simple verbal directions but requires repetition and additional processing time for more complex instructions.
+
+Patient's son is present at bedside and reports that Steve has been having greater difficulty communicating since his fall.
+
+Nursing staff have observed that communication improves when instructions are presented slowly and one step at a time.
 
 :::
+
+---
 
 ## Physical Therapy
 
 ::: {.note-box}
 
-Patient ambulates short distances with contact guard assistance secondary to hip pain. Demonstrates good participation in therapy. Able to follow one-step commands consistently but requires repetition for more complex directions.
+**09:15 – Mobility Evaluation**
+
+Patient ambulates short distances with contact guard assistance secondary to hip pain.
+
+Demonstrates good participation in therapy.
+
+Follows simple one-step commands consistently. Requires repetition, demonstration, and additional time when completing multistep tasks.
+
+Patient occasionally responds with words or phrases that do not clearly communicate his intended message.
+
+Therapist notes difficulty determining whether breakdowns are related to comprehension, hearing, or other factors.
 
 :::
+
+---
 
 ## Occupational Therapy
 
 ::: {.note-box}
 
-Patient independently completes basic grooming with additional time. Difficulty reading written instructions. Performs better when demonstrations accompany verbal directions.
+**10:00 – Functional Assessment**
+
+Patient completes basic grooming tasks with additional time.
+
+Demonstrates difficulty interpreting written instructions but performs better when verbal directions are accompanied by demonstration.
+
+Patient attempts to communicate needs independently but frequently relies on gestures when unable to retrieve words.
+
+Functional performance improves with familiar tasks and structured cues.
+
+Additional assessment of communication abilities may assist with determining appropriate supports for daily activities.
 
 :::
+
+---
 
 ## Physician Progress Note
 
 ::: {.note-box}
 
-History of left hemisphere ischemic stroke with residual mild aphasia. No evidence of new neurological injury following current fall. SLP consulted to reassess communication abilities during hospitalization.
+**10:30 – Medical Team**
+
+54-year-old male admitted following a fall at home resulting in a mild hip contusion. No fracture identified on initial imaging.
+
+Medical history significant for left hemisphere ischemic stroke approximately two years ago with residual language difficulties.
+
+No new focal motor deficits documented on current examination. However, family reports a change in communication abilities compared with baseline.
+
+The cause of the reported communication change has not yet been established. Medical team is continuing evaluation of possible contributing factors.
+
+SLP consultation requested to characterize current communication functioning and assist with identifying appropriate communication supports.
 
 :::
+
+---
 
 ## Family Report
 
 ::: {.info}
 
-Family reports Steve has remained largely independent since his stroke but occasionally struggles with word finding, especially when tired or stressed. They deny significant decline in cognition.
+**Steve's son is present at bedside.**
+
+Steve lives independently, and his son lives next door. His son checks in regularly and assists with transportation, appointments, and other activities as needed.
+
+According to his son, Steve has experienced word-finding difficulties since his stroke approximately two years ago. However, he has generally been able to communicate his needs, participate in conversations, and manage daily activities with occasional assistance.
+
+Since the fall, his son has noticed that Steve:
+
+- Takes longer to respond to questions.
+- Has greater difficulty finding words during conversation.
+- Occasionally provides responses that do not match the question asked.
+- Appears more frustrated when attempting to communicate.
+- Relies more heavily on gestures or assistance from family members.
+
+His son states:
+
+*"Dad has always had some trouble getting his words out since the stroke, but this is different. He's having a harder time understanding us and telling us what he needs."*
 
 :::
 
-## SLP-Relevant Flags
+---
 
-::: {.danger}
+## Clinical Considerations
 
-Consider:
+When reviewing the documentation, consider the following:
 
-- Expressive aphasia
-- Mild receptive deficits
-- Hearing loss
-- Fatigue
-- Emotional frustration during communication
+- **Baseline versus current functioning:** Which communication difficulties were present before the fall, and which appear to be new or more pronounced?
+- **Language comprehension and expression:** What observations suggest possible difficulties with understanding or producing language?
+- **Hearing loss:** How might Steve's documented hearing impairment influence his responses to spoken instructions?
+- **Medical status:** What additional medical information would help clarify possible contributors to his reported change in communication?
+- **Functional communication:** How might his current communication abilities influence participation in medical care, therapy, and discharge planning?
 
-:::
+---
 
-## Pause and Think
+## Clinical Reasoning
 
-1. Which findings support language assessment?
+Discuss with your group:
 
-2. Which findings suggest cognition may be relatively preserved?
+1. What information suggests Steve's communication abilities have changed from his baseline following the previous stroke?
 
-3. How may hearing loss influence assessment?
+2. Which observations suggest possible expressive language difficulties? Which suggest possible receptive language difficulties?
 
-## Continue
+3. How might hearing loss, fatigue, pain, or other medical factors contribute to his current presentation?
 
-[Communication Considerations](communication.html)
+4. What additional information would you request from the medical team before proceeding with the QAB?
+
+5. How would you involve Steve's son in the evaluation while ensuring that Steve remains the primary participant in his own care?
+
+6. What communication strategies could you implement immediately to support Steve's participation in care, even before completing a formal language assessment?
+
+---
+
+## Navigation
+
+[← Back: Medical Chart Review](chart.html) | [Next: Communication Considerations →](communication.html)
