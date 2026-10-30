@@ -14,7 +14,7 @@ Consider how his neurological history, current medical status, and reported chan
 ::: {.warning}
 ## SLP Task
 
-You have received a consult for a language evaluation for Steve Thompson, a 54-year-old male admitted following a fall at home.
+You have received a consult for a language evaluation for Steve Thompson, a 94-year-old male admitted following a fall at home.
 
 Steve has a history of left hemisphere ischemic stroke with residual language difficulties. His son reports that Steve's communication has worsened since the fall.
 
