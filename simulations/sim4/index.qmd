@@ -14,7 +14,7 @@ Students will review medical and interdisciplinary documentation, identify commu
 ::: {.warning}
 ## SLP Task
 
-You have received a consult for a language evaluation for Steven "Steve" Thompson, a 54-year-old male admitted following a fall with a history of left hemisphere cerebrovascular accident (CVA).
+You have received a consult for a language evaluation for Steven "Steve" Thompson, a 94-year-old male admitted following a fall with a history of left hemisphere cerebrovascular accident (CVA).
 
 Review the available clinical information to determine whether Steve is appropriate for language assessment at this time.
 
