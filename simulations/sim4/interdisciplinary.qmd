@@ -14,7 +14,7 @@ Pay particular attention to differences between his reported baseline functionin
 ::: {.warning}
 ## SLP Task
 
-You are preparing to complete a language evaluation for Steve Thompson, a 54-year-old male with a history of left hemisphere ischemic stroke.
+You are preparing to complete a language evaluation for Steve Thompson, a 94-year-old male with a history of left hemisphere ischemic stroke.
 
 Steve's son is present at bedside and reports that his father's communication has changed since the fall.
 
@@ -87,7 +87,7 @@ Additional assessment of communication abilities may assist with determining app
 
 **10:30 – Medical Team**
 
-54-year-old male admitted following a fall at home resulting in a mild hip contusion. No fracture identified on initial imaging.
+94-year-old male admitted following a fall at home resulting in a mild hip contusion. No fracture identified on initial imaging.
 
 Medical history significant for left hemisphere ischemic stroke approximately two years ago with residual language difficulties.
 
