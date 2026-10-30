@@ -26,7 +26,7 @@ Review the medical chart to identify relevant clinical information, distinguish 
 | Field | Information |
 |---|---|
 | Patient Name | Steven "Steve" Thompson |
-| Age | 54 years |
+| Age | 94 years |
 | Setting | Acute Care / Medical Unit |
 | Hospital Day | 1 |
 | Admitting Diagnosis | Fall with mild hip contusion |
