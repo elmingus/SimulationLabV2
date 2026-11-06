@@ -23,10 +23,12 @@ website:
       - href: simulations/sim4/index.qmd
         text: Simulation 4
 
+      - href: simulations/sim5/index.qmd
+        text: Simulation 5
+
 format:
   html:
     theme: cosmo
     toc: false
     page-layout: full
     css: styles.css
-

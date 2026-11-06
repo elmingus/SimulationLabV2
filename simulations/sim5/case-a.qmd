@@ -1,3 +1,4 @@
+
 ---
 title: "Case A: Quadriplegia and Loss of Speech"
 ---
@@ -5,19 +6,23 @@ title: "Case A: Quadriplegia and Loss of Speech"
 ::: {.patient-banner}
 # Benjamin Carter
 
-**38-year-old male** | **Consult:** AAC Evaluation
+**38-year-old male** | **Consult:** AAC Evaluation | **Location:** ICU
 :::
 
 ::: {.warning}
+## SLP Task
 
-**SLP Task:** Review the patient information below and determine the most appropriate AAC supports to facilitate functional communication in the acute care setting.
+You have received an AAC consultation for Benjamin Carter, a 38-year-old patient with a high cervical spinal cord injury who is mechanically ventilated and unable to produce functional speech.
 
+Review the available clinical information, independently develop an AAC assessment plan, and determine appropriate communication supports to address Benjamin's immediate needs.
+
+Be prepared to explain your clinical reasoning and discuss your assessment plan with your clinical supervisor before revealing the assessment guidance.
 :::
 
 ## Patient Snapshot
 
 | Patient Information | Details |
-|------|-------------|
+|---|---|
 | Name | Benjamin Carter |
 | Age | 38 |
 | Admitting Diagnosis | C3–C4 spinal cord injury |
@@ -26,200 +31,321 @@ title: "Case A: Quadriplegia and Loss of Speech"
 | Communication Status | Unable to produce functional speech |
 | Motor Status | Quadriplegia with minimal voluntary head movement |
 | Cognitive Status | Alert and able to follow commands |
-| Language | English |
+| Primary Language | English |
 | Family | Partner visits regularly |
 
-## Chief Concern
+---
+
+## Reason for Consultation
 
 ::: {.note-box}
+Nursing reports that Benjamin frequently attempts to gain the attention of staff but does not have an established method for communicating his needs.
 
-The patient has frequently attempted to gain the attention of staff. Nursing reports that the patient appears frustrated and uncomfortable.
+He appears frustrated and uncomfortable during care activities.
 
-Through informal yes/no questioning, staff believe that the patient may be experiencing:
+Through informal yes/no questioning, staff suspect that Benjamin may be experiencing a headache, positioning discomfort, bladder or hygiene needs, and a desire to contact his partner.
 
-- A headache
-- Discomfort related to positioning
-- A recent episode of urinary incontinence
-- A desire to speak with their partner
-
-Nursing has not yet established a consistent communication system.
-
+However, nursing has not established a consistent or reliable yes/no response.
 :::
+
+::: {.danger}
+**Immediate Clinical Concern:** Benjamin currently lacks a reliable means of communicating urgent medical, safety, and personal needs.
+
+A new headache in a patient with a high cervical spinal cord injury, particularly with possible bladder-related triggers, requires prompt nursing or medical assessment because of the risk of autonomic dysreflexia.
+:::
+
+---
+
+# Part 1: Develop Your AAC Assessment Plan
+
+Before reviewing any additional guidance, independently consider:
+
+1. What is Benjamin's primary communication barrier?
+2. What abilities appear to be preserved?
+3. Which domains of functioning would you assess?
+4. How would you evaluate potential communication access methods?
+5. What information would you gather from nursing, respiratory therapy, or the medical record?
 
 ::: {.warning}
+## Instructor Check-In
 
-**Immediate Clinical Concern:** The patient currently lacks a reliable method for communicating pain, physical discomfort, hygiene needs, and requests for assistance.
+Identify the domains you would include in an AAC evaluation and explain how you would assess each one.
 
+Discuss your plan with your clinical supervisor before revealing the assessment considerations below.
 :::
 
-## Step 1: Identify the Communication Barrier
+<details>
+<summary><strong>Reveal AAC Assessment Domains</strong></summary>
 
-Consider the following:
+### Communication Abilities
 
-- Why is verbal communication unavailable?
-- What communication abilities appear to be preserved?
-- What information is still needed before selecting an AAC method?
-- Are the patient's responses reliable and consistent?
-- Does the patient have sufficient vision for an eye-gaze system?
-- Can the patient move their eyes vertically and horizontally?
-- Is head movement reliable enough to use as an access method?
-- Can the patient tolerate sustained visual attention?
+- Current verbal and nonverbal communication
+- Ability to produce intentional responses
+- Consistency of yes/no responses
+- Ability to communicate beyond basic needs
+- Preferred communication methods
 
-## Step 2: Establish a Reliable Yes/No Response
+### Motor Access
 
-Before introducing a larger communication system, determine whether the patient has a reliable yes/no response.
+- Voluntary movement of the eyes, head, and extremities
+- Ability to point or activate a switch
+- Consistency and endurance of available movements
+- Positioning and fatigue
+- Potential access through eye gaze or scanning
 
-Possible response modes include:
+### Vision
+
+- Visual acuity and use of corrective lenses
+- Ability to locate written words or symbols
+- Visual scanning
+- Eye movement and fixation
+- Effects of positioning and fatigue
+
+### Hearing
+
+- Ability to hear spoken instructions
+- Hearing aid use or amplification needs
+- Ability to participate in auditory scanning
+- Environmental noise
+
+### Cognition and Language
+
+- Alertness and attention
+- Comprehension of spoken and written language
+- Ability to follow directions
+- Reading and symbol recognition
+- Ability to make intentional selections
+- Ability to formulate messages
+
+### Environmental and Medical Factors
+
+- Respiratory status and ventilator equipment
+- Positioning restrictions
+- Fatigue and endurance
+- Availability of communication partners
+- Access to a call system
+- Immediate medical and personal communication needs
+
+</details>
+
+---
+
+# Part 2: Establish Communication Reliability
+
+Before recommending an AAC system, determine how Benjamin can reliably indicate a response or make a selection.
+
+## Clinical Reasoning
+
+1. How would you establish an intentional yes/no response?
+2. How would you verify that responses are consistent?
+3. What would you do if responses became unreliable with fatigue?
+4. How would you distinguish difficulty accessing a system from difficulty understanding the question?
+
+<details>
+<summary><strong>Reveal Assessment Considerations</strong></summary>
+
+Potential response methods include:
 
 - Looking upward for yes and downward for no
-- Looking toward a written **YES** or **NO**
-- Blinking once for yes and twice for no
-- Moving the head in a consistent direction
-- Using partner-assisted scanning
+- Looking toward large-print YES and NO targets
+- A consistent blink or eye movement
+- Limited head movement, if reliable
+- Partner-assisted scanning using an established selection response
 
-Test the response using questions with known answers.
+Begin with questions that have known answers and include both expected yes and no responses.
 
-Examples:
+For example:
 
 - Is your name Benjamin?
 - Are you currently in the hospital?
 - Are you 10 years old?
-- Is your partner's name Maria?
 
-::: {.note-box}
+Repeat trials to assess consistency.
 
-A reliable yes/no response should be verified across multiple questions before it is used for medical decision-making.
+Avoid relying on unverified information when checking response accuracy.
 
-:::
+A response method should be evaluated across multiple trials and conditions before being relied upon for important medical communication.
 
-## Step 3: Evaluate Access Skills
+</details>
 
-Determine which access methods may be feasible.
+---
 
-### Motor Access
+# Part 3: AAC Selection
 
-- Can the patient move either hand?
-- Can the patient point?
-- Can the patient move their head?
-- Can the patient activate a switch?
-- Are eye movements consistent?
-- Does fatigue affect performance?
+Based on Benjamin's clinical presentation and your proposed assessment, determine which AAC methods you would trial.
 
-### Sensory Access
+## Clinical Reasoning
 
-- Can the patient see large written words?
-- Can the patient visually scan multiple options?
-- Does the patient require glasses?
-- Can the patient hear verbal choices?
-- Is background noise affecting performance?
+1. Which AAC approach would you introduce first?
+2. Which approach could be implemented immediately?
+3. Which method would require the least physical effort?
+4. How would Benjamin communicate something that is not represented on a basic needs board?
+5. What backup system would you recommend?
+6. When might a high-tech AAC system be appropriate?
 
-### Cognitive-Linguistic Skills
+<details>
+<summary><strong>Reveal AAC Options</strong></summary>
 
-- Can the patient follow one-step directions?
-- Can the patient read single words?
-- Can the patient identify pictures?
-- Can the patient make selections from a field of choices?
-- Can the patient maintain attention long enough to use a communication system?
+### Low-Tech AAC
 
-## Step 4: Select AAC Supports
-
-Which supports would you trial?
-
-- Eye-gaze communication board
 - Large-print yes/no board
-- Partner-assisted auditory scanning
+- Eye-gaze communication board
+- Alphabet board
 - Pain-rating board
 - Body-part or positioning board
-- Alphabet board
+- Partner-assisted auditory scanning
+
+### High-Tech AAC
+
 - Speech-generating device with eye-gaze access
-- Single-message switch
-- Call system adapted for head or eye movement
+- Switch-access communication system, if reliable activation is identified
+- Adapted electronic call system
 
-Consider:
+### Clinical Considerations
 
-1. Which option offers the fastest access to urgent needs?
-2. Which option requires the least physical effort?
-3. Which option can nursing staff use consistently across shifts?
-4. What backup method should be available if the primary system fails?
+A low-tech system may be implemented immediately to support urgent communication needs.
 
-## Step 5: Address Immediate Needs
+Eye-gaze access may be promising given Benjamin's limited voluntary motor movement, but visual and oculomotor abilities must be evaluated.
 
-Using the patient's established response method, determine the priority of the following concerns:
+Partner-assisted scanning may be useful as a primary or backup method depending on his access skills.
+
+A high-tech eye-gaze speech-generating device may be considered for more complex communication if appropriate access skills are demonstrated and the equipment is available.
+
+**The appropriate system depends on observed performance, not diagnosis alone.**
+
+</details>
+
+---
+
+# Part 4: Immediate Communication Needs
+
+Nursing suspects Benjamin may be attempting to communicate several concerns:
 
 - Headache
-- Repositioning
-- Incontinence and hygiene
-- Contacting the patient's partner
+- Discomfort related to positioning
+- Bladder or hygiene needs
+- Desire to contact his partner
 
-Consider how you would communicate each need to the appropriate team member.
+## Clinical Reasoning
+
+1. How would you clarify Benjamin's immediate concerns using an established communication method?
+2. Which concerns require prompt nursing or medical attention?
+3. How would you support communication if his yes/no response remained unreliable?
+4. How would you ensure Benjamin can request assistance when staff are not in the room?
+
+<details>
+<summary><strong>Reveal Clinical Considerations</strong></summary>
 
 | Patient Need | Appropriate Follow-Up |
-|------|-------------|
-| Headache | Notify nursing and support pain assessment |
-| Positioning discomfort | Notify nursing and/or physical or occupational therapy |
-| Hygiene needs | Notify nursing staff |
-| Contact partner | Confirm patient consent and assist with communication |
+|---|---|
+| Headache | Prompt nursing or medical assessment, including consideration of autonomic dysreflexia |
+| Positioning discomfort | Nursing assessment and repositioning; rehabilitation collaboration as appropriate |
+| Bladder or hygiene needs | Prompt nursing follow-up |
+| Contact partner | Support communication and confirm patient preferences |
+| Request for assistance | Establish an accessible call system or reliable alternative |
 
-## Step 6: Interdisciplinary Coordination
+Urgent symptoms should be escalated without delaying care for completion of the AAC consultation.
 
-Which team members may need to participate?
+If communication remains unreliable, continue to use supported communication approaches while collaborating with nursing and the medical team to address possible unmet needs.
+
+</details>
+
+---
+
+# Part 5: Interdisciplinary Implementation
+
+An AAC recommendation must be usable by Benjamin and the healthcare team.
+
+## Clinical Reasoning
+
+1. Which disciplines should participate in implementing the communication system?
+2. What information should be available at the bedside?
+3. How would you train nursing staff to support communication?
+4. What adjustments might be necessary as Benjamin's medical status changes?
+
+<details>
+<summary><strong>Reveal Implementation Considerations</strong></summary>
+
+### Interdisciplinary Collaboration
+
+Potential collaborators include:
 
 - Nursing
 - Respiratory therapy
 - Occupational therapy
 - Physical therapy
-- Physician or advanced practice provider
+- Medical team
 - Family or communication partner
-- Assistive technology specialist
+- Assistive technology specialists
 
-Consider what education should be placed at the bedside.
+### Bedside Communication Plan
 
-Examples:
+Consider documenting:
 
-- The patient's established yes/no response
-- Positioning instructions for the communication board
-- Instructions for partner-assisted scanning
-- A list of frequently requested messages
-- The patient's preferred communication method
-- Instructions for verifying responses
+- Established yes/no response
+- Instructions for positioning the AAC system
+- How to present choices
+- How to verify responses
+- Commonly requested messages
+- Backup communication method
+- Instructions for accessing assistance
+- Patient and communication partner preferences
 
-## Documentation Task
-
-Complete a SOAP note that includes:
-
-- The reason for consultation
-- Communication and access skills assessed
-- Reliability of yes/no responses
-- AAC strategies trialed
-- Level of assistance required
-- Immediate needs identified
-- Patient and staff education
-- Interdisciplinary recommendations
-- Plan for follow-up
-
-## Reflection Questions
-
-1. How did you determine the order in which the patient's immediate needs should be addressed?
-
-2. Which AAC method was most appropriate for this patient, and what patient-specific factors supported your choice?
-
-3. What backup communication method would you recommend if fatigue or visual changes reduced the patient's eye-gaze accuracy?
-
-<details>
-<summary><strong>Reveal Example Clinical Reasoning</strong></summary>
-
-The patient is alert, follows commands, and has severe motor limitations with no functional speech. Eye movement may represent the patient's most reliable access method.
-
-An initial low-tech system could include a large-print yes/no board and an eye-gaze communication board containing urgent messages such as pain, positioning, suction, bathroom, family, hot, cold, and call nurse.
-
-Partner-assisted scanning could serve as a backup method. The communication partner would verbally present categories and choices while the patient uses the established yes/no response.
-
-A high-tech eye-gaze speech-generating device could be considered if the communication impairment is expected to continue and the patient demonstrates adequate visual attention and language skills.
-
-The most urgent concerns are pain, positioning, and hygiene. Nursing should be notified immediately, while the patient's request to contact their partner should be addressed after consent is confirmed.
+The AAC system should be accessible across shifts, and staff should receive clear instructions for supporting its use.
 
 </details>
 
-## Continue
+---
 
-[Go to Case B](case-b.html)
+# Documentation Considerations
+
+Following the consultation, you will complete your AAC documentation in the separate document provided by your instructor.
+
+Before documenting, discuss which information should be included.
+
+<details>
+<summary><strong>Reveal Documentation Checklist</strong></summary>
+
+Your AAC consultation documentation should address:
+
+- Reason for consultation
+- Relevant medical and communication history
+- Communication strengths and limitations
+- Access domains assessed
+- Reliability of yes/no responses
+- AAC strategies trialed and patient response
+- Level of assistance required
+- Immediate communication needs identified
+- Patient, family, and staff education
+- Interdisciplinary recommendations
+- Follow-up plan
+
+Distinguish between information reported by staff, findings directly observed during assessment, and recommendations that require further evaluation.
+
+</details>
+
+---
+
+# Reflection
+
+Discuss the following:
+
+1. What assessment domains were most important for Benjamin?
+2. What factors influenced your AAC recommendations?
+3. How would you adapt the communication system if fatigue affected eye-gaze accuracy?
+4. How might communication needs change during recovery?
+5. What would you prioritize during a follow-up AAC consultation?
+
+::: {.note-box}
+## Clinical Pearl
+
+Effective AAC intervention in acute care begins with establishing a reliable method for communicating immediate needs.
+
+The most appropriate system is one the patient can access consistently and that communication partners can implement effectively.
+:::
+
+---
+
+## Navigation
+
+[← Back: Simulation 5 Overview](index.html) | [Next: Case B →](case-b.html)

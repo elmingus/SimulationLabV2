@@ -1,3 +1,4 @@
+
 ---
 title: "Case D: Hearing Impairment"
 ---
@@ -5,13 +6,19 @@ title: "Case D: Hearing Impairment"
 ::: {.patient-banner}
 # Robert Greene
 
-**79-year-old male** | **Consult:** AAC Evaluation
+**79-year-old male** | **Consult:** AAC Evaluation | **Location:** Acute Care Medical-Surgical Unit
 :::
 
 ::: {.warning}
+## SLP Task
 
-**SLP Task:** Review the patient information below and determine the most appropriate communication supports to facilitate functional communication in the acute care setting.
+You have received an AAC consultation for Robert Greene, a 79-year-old patient admitted following a right shoulder fracture.
 
+Nursing reports difficulty communicating with Robert and uncertainty regarding the accuracy of some of his responses.
+
+Review the available clinical information, independently develop a communication assessment plan, and determine which communication supports or environmental accommodations are appropriate.
+
+Be prepared to explain your clinical reasoning before revealing the assessment guidance.
 :::
 
 ## Patient Snapshot
@@ -27,16 +34,17 @@ title: "Case D: Hearing Impairment"
 | Vision | Functional with glasses |
 | Motor Status | Right arm immobilized; left hand functional |
 | Cognitive Status | Alert; staff report inconsistent responses |
-| Language | English |
+| Primary Language | English |
 | Family | Spouse available by telephone |
 
-## Chief Concern
+---
+
+## Reason for Consultation
 
 ::: {.note-box}
+Robert has difficulty hearing staff, particularly when they speak from outside his visual field or while wearing a mask.
 
-The patient has difficulty hearing staff, particularly when staff speak from outside his visual field or while wearing a mask.
-
-The patient has attempted to communicate the following:
+He has attempted to communicate several needs:
 
 - Right shoulder pain rated as **3/10**
 - Need for restroom assistance
@@ -45,156 +53,332 @@ The patient has attempted to communicate the following:
 - Request for his spouse to bring his hearing aids
 
 Staff are uncertain whether some incorrect responses reflect confusion or reduced auditory access.
-
 :::
+
+---
+
+# Part 1: Develop Your Communication Assessment Plan
+
+Before reviewing additional guidance, independently consider:
+
+1. What is Robert's primary communication barrier?
+2. Which communication abilities appear preserved?
+3. Which domains of functioning would you assess?
+4. How would you distinguish reduced hearing access from a potential cognitive or language impairment?
+5. What additional information would you gather from nursing, the medical record, or Robert himself?
 
 ::: {.warning}
+## Instructor Check-In
 
-**Immediate Clinical Concern:** A patient may appear confused, uncooperative, or cognitively impaired when spoken information is not accessible.
+Identify the domains you would assess and explain how you would evaluate each one.
 
+Discuss your assessment plan with your clinical supervisor before revealing the assessment considerations below.
 :::
 
-## Step 1: Identify the Communication Barrier
+<details>
+<summary><strong>Reveal AAC Assessment Domains</strong></summary>
 
-Consider:
+### Communication Abilities
 
-- Can the patient understand written language?
-- Can the patient read lips or facial cues?
-- Does masking affect communication?
-- Does the patient hear better in one ear?
-- Is the room noisy?
-- Can the patient use a personal amplifier?
-- Can the patient write with the unaffected hand?
-- Are inaccurate responses reduced when information is written?
+- Functional verbal expression
+- Ability to communicate needs and preferences
+- Reliability of responses
+- Comprehension of spoken and written information
+- Use of gestures and nonverbal communication
 
-## Step 2: Modify the Environment
+### Hearing and Auditory Access
 
-Before assuming cognitive impairment, trial:
+- Functional hearing during conversation
+- Hearing aid use and availability
+- Better-hearing ear, if applicable
+- Benefit from amplification
+- Effects of masking and speaker positioning
+- Effects of background noise
 
-- Gain the patient's attention before speaking.
-- Face the patient directly.
-- Reduce background noise.
-- Ensure adequate lighting.
-- Speak clearly at a normal rate.
-- Avoid shouting.
-- Present one message at a time.
-- Use written key words.
-- Use a whiteboard.
-- Provide a personal amplifier when available.
-- Confirm understanding through teach-back.
+### Vision
 
-## Step 3: Evaluate Communication Modalities
+- Functional vision with corrective lenses
+- Ability to read written information
+- Ability to identify pictures and symbols
+- Access to facial expressions and visual cues
+- Lighting and positioning
 
-Determine whether the patient can:
+### Motor Access
 
-- Understand large-print written questions
-- Read a whiteboard
-- Point to yes/no choices
-- Write short responses with the left hand
-- Follow directions when visual cues are provided
-- Use gestures
-- Understand speech with amplification
-- Use bedside call and television controls
+- Functional use of the left hand
+- Ability to point to communication targets
+- Ability to write short responses
+- Ability to access a call system
+- Ability to operate bedside devices
+- Effects of pain and right arm immobilization
 
-Consider comparing performance across conditions:
+### Cognition and Language
+
+- Alertness and attention
+- Orientation
+- Comprehension with appropriate hearing accommodations
+- Ability to follow written and spoken directions
+- Response consistency across communication conditions
+- Ability to retain and communicate information
+
+### Environmental and Medical Factors
+
+- Availability of hearing aids
+- Environmental noise
+- Staff communication practices
+- Pain and positioning
+- Access to written materials
+- Television and call-system accessibility
+- Family and caregiver support
+
+</details>
+
+---
+
+# Part 2: Evaluate Communication Access
+
+Robert is verbally communicative but has difficulty understanding spoken information without his hearing aids.
+
+## Clinical Reasoning
+
+1. How would you evaluate Robert's ability to understand spoken information?
+2. What environmental modifications would you trial?
+3. How would you determine whether written information improves comprehension?
+4. How might masking and speaker positioning affect communication?
+5. How would you evaluate communication without assuming that inconsistent responses indicate cognitive impairment?
+
+<details>
+<summary><strong>Reveal Assessment Considerations</strong></summary>
+
+Potential assessment activities include:
+
+- Gaining Robert's attention before speaking
+- Facing him directly during communication
+- Reducing background noise
+- Providing adequate lighting
+- Speaking clearly at a natural pace
+- Presenting written key words
+- Using a whiteboard or large-print written choices
+- Trialing a personal amplifier, if available
+- Assessing comprehension through teach-back
+
+### Compare Communication Conditions
+
+Consider evaluating performance under several conditions:
 
 1. Spoken instruction only
 2. Spoken instruction while facing the patient
-3. Spoken instruction plus written key words
+3. Spoken instruction with written key words
 4. Written instruction only
 5. Spoken instruction with amplification
 
-## Step 4: Select Communication Supports
+Compare response accuracy, independence, and need for repetition across conditions.
 
-Which supports would you trial?
+**Clinical Consideration**
+
+Improved performance with visual supports or amplification may indicate that reduced auditory access contributed to inaccurate responses.
+
+However, improved communication access does not independently rule out cognitive impairment.
+
+</details>
+
+---
+
+# Part 3: Communication Supports
+
+Based on Robert's presentation and your assessment plan, determine which supports would be appropriate.
+
+## Clinical Reasoning
+
+1. Does Robert require a dedicated AAC system?
+2. Which communication methods could be implemented immediately?
+3. What strategies would support communication until his hearing aids arrive?
+4. How might his shoulder injury influence communication access?
+5. What supports should remain available after his hearing aids are obtained?
+
+<details>
+<summary><strong>Reveal Communication Support Options</strong></summary>
+
+### Written and Visual Supports
 
 - Whiteboard
 - Large-print written choices
-- Yes/no board
-- Personal voice amplifier
+- Written yes/no questions
 - Written pain scale
-- Gesture
-- Closed captioning
 - Bedside communication card
-- Communication partner strategies
 - Tablet-based text
-- Family-provided hearing aids
+- Gestures and visual cues
 
-Consider:
+### Auditory Supports
 
-- Which method is fastest for immediate needs?
-- Which method can staff use consistently?
-- What should be documented at the bedside?
-- How will you verify that the hearing aids are functioning when they arrive?
+- Personal voice amplifier, when available and appropriate
+- Reduced background noise
+- Direct face-to-face communication
+- Clear speech at a natural pace
+- Hearing aids once available and functioning
 
-## Step 5: Address Immediate Needs
+### Environmental Supports
 
-The patient communicates:
+- Closed captioning
+- Accessible television controls
+- Bedside call system positioned for left-hand use
+- Communication materials within reach
+- Appropriate lighting and positioning
 
-- Shoulder pain is 3/10.
-- He needs restroom assistance.
-- He wants closed captions activated.
-- He would like his spouse to bring his hearing aids.
+### Clinical Considerations
 
-Determine the appropriate response.
+Robert's verbal expression is functional, so his primary need may be improved access to spoken information rather than an alternative expressive communication system.
+
+Written communication, amplification, and environmental accommodations may be sufficient.
+
+The most appropriate recommendations should be based on observed performance during assessment.
+
+</details>
+
+---
+
+# Part 4: Immediate Communication Needs
+
+Robert has communicated several concerns:
+
+- Right shoulder pain rated as 3/10
+- Need for restroom assistance
+- Difficulty using television controls
+- Desire to activate closed captioning
+- Request for his spouse to bring his hearing aids
+
+## Clinical Reasoning
+
+1. Which concerns should be addressed immediately?
+2. How would you ensure Robert can request assistance independently?
+3. How would you support communication regarding pain?
+4. What accommodations would improve access to his environment?
+5. How would you coordinate obtaining his hearing aids?
+
+<details>
+<summary><strong>Reveal Clinical Considerations</strong></summary>
 
 | Patient Need | Appropriate Follow-Up |
 |---|---|
-| Shoulder pain | Notify nursing and support pain communication |
-| Restroom assistance | Notify nursing immediately |
-| Television captions | Assist directly or coordinate with staff |
-| Hearing aids | Confirm consent and contact spouse |
-| Communication access | Establish bedside communication strategies |
+| Shoulder pain | Notify nursing and support accurate pain communication |
+| Restroom assistance | Notify nursing promptly |
+| Television captions | Assist with activation or coordinate with staff |
+| Hearing aids | With patient permission, contact spouse |
+| Communication access | Establish reliable bedside communication strategies |
+| Call system | Ensure accessibility with the unaffected hand |
 
-## Step 6: Patient and Staff Education
+Communication accommodations should support Robert's independence while accounting for his physical limitations.
 
-Education may include:
+Staff should verify that his call system and communication materials are accessible from his current position.
 
-- Approach from the front.
-- Gain attention before speaking.
+</details>
+
+---
+
+# Part 5: Patient and Staff Education
+
+## Clinical Reasoning
+
+1. Which communication strategies should nursing staff use consistently?
+2. How would you communicate recommendations across shifts?
+3. What instructions would you provide regarding hearing aid use?
+4. How could Robert's spouse support communication access?
+5. When should his communication abilities be reassessed?
+
+<details>
+<summary><strong>Reveal Education and Implementation Considerations</strong></summary>
+
+### Staff Communication Strategies
+
+- Approach Robert from the front.
+- Gain his attention before speaking.
 - Reduce environmental noise.
-- Face the patient during communication.
-- Use written key words and short sentences.
-- Confirm understanding.
-- Keep the whiteboard within reach.
-- Use closed captions.
-- Avoid interpreting reduced auditory access as cognitive impairment.
-- Ensure hearing aids are labeled and stored safely when not in use.
+- Face him during communication.
+- Speak clearly at a natural pace.
+- Use written key words when needed.
+- Present one message at a time.
+- Confirm understanding through teach-back.
+- Ensure written materials are within reach.
+- Activate closed captioning when requested.
 
-## Documentation Task
+### Hearing Aid Considerations
 
-Complete a SOAP note that includes:
+When Robert's hearing aids arrive:
 
-- Hearing and communication barriers identified
+- Confirm that they belong to Robert.
+- Check that they are appropriately positioned.
+- Verify basic function and battery or charging status.
+- Reassess communication with the hearing aids in place.
+- Ensure they are labeled and stored safely when not in use.
+
+### Interdisciplinary Collaboration
+
+Potential collaborators include:
+
+- Nursing
+- Medical team
+- Occupational therapy
+- Audiology, if additional hearing support is indicated
+- Family or communication partners
+- Speech-language pathology
+
+Recommendations should be updated if hearing access, cognition, or medical status changes.
+
+</details>
+
+---
+
+# Documentation Considerations
+
+Following the consultation, complete your documentation in the separate document provided by your instructor.
+
+Before documenting, discuss which information should be included.
+
+<details>
+<summary><strong>Reveal Documentation Checklist</strong></summary>
+
+Your consultation documentation should address:
+
+- Reason for consultation
+- Relevant medical and communication history
+- Hearing and communication barriers
 - Environmental modifications trialed
 - Communication modalities assessed
-- Patient performance with written versus spoken information
-- AAC or amplification supports provided
+- Performance with spoken versus written information
+- Amplification or communication supports trialed
+- Patient response to accommodations
 - Immediate needs identified
 - Staff and family education
 - Recommendations and follow-up plan
 
-## Reflection Questions
+Document whether hearing aids were available during assessment and any limitations this created when interpreting findings.
 
-1. Which communication methods were most effective for this patient?
-
-2. How did you distinguish reduced hearing access from possible cognitive impairment?
-
-3. What strategies should nursing staff use consistently across shifts?
-
-<details>
-<summary><strong>Reveal Example Clinical Reasoning</strong></summary>
-
-The patient's verbal expression is functional, but access to spoken information is limited because his hearing aids are unavailable. Written communication, direct visual access to the speaker, environmental modifications, and amplification should be trialed before drawing conclusions about cognition.
-
-A whiteboard or large-print written choice board may support immediate communication. A personal amplifier may improve access until the patient's hearing aids arrive.
-
-Staff should approach from the front, reduce background noise, face the patient, use written key words, and confirm comprehension. Closed captioning should be activated to improve environmental access.
-
-With the patient's consent, his spouse may be contacted and asked to bring the hearing aids. Nursing should address pain and restroom needs.
+Avoid concluding that Robert has a cognitive impairment based solely on responses obtained under inadequate listening conditions.
 
 </details>
 
-## Continue
+---
 
-[Review AAC Resources](resources.html)
+# Reflection
+
+Discuss the following:
+
+1. Which communication methods would you prioritize for Robert?
+2. How would you distinguish reduced auditory access from potential cognitive impairment?
+3. How might his shoulder injury influence your recommendations?
+4. What strategies should nursing staff use consistently across shifts?
+5. How would your recommendations change once his hearing aids become available?
+
+::: {.note-box}
+## Clinical Pearl
+
+Communication difficulties do not always indicate a language or cognitive disorder.
+
+Before interpreting inconsistent responses, consider whether the patient has adequate access to spoken information and whether environmental or sensory accommodations improve communication.
+:::
+
+---
+
+## Navigation
+
+[← Back: Case C](case-c.html) | [Next: AAC Resources →](resources.html)

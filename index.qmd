@@ -86,5 +86,24 @@ Students will complete:
 
 :::
 
+::: {.chart-card}
+## 🗣️ Simulation 5
+
+### Augmentative & Alternative Communication (AAC) Consultation
+
+Evaluate communication needs across four acute care patient cases involving motor, visual, auditory, and language-access barriers. Apply clinical reasoning to identify assessment priorities and recommend individualized communication supports.
+
+Students will complete:
+
+- Independent AAC Case Assessment
+- Identification of Communication Barriers
+- AAC Access & Feature-Matching Considerations
+- Communication Supports & Interdisciplinary Recommendations
+- Clinical Documentation & Reflection
+
+[Begin Simulation 5](simulations/sim5/index.html)
+
+:::
+
 :::
 

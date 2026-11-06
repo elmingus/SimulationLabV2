@@ -1,3 +1,4 @@
+
 ---
 title: "Case B: Visual Impairment and Pain"
 ---
@@ -5,19 +6,25 @@ title: "Case B: Visual Impairment and Pain"
 ::: {.patient-banner}
 # Patricia Lewis
 
-**71-year-old female** | **Consult:** AAC Evaluation
+**71-year-old female** | **Consult:** AAC Evaluation | **Location:** Acute Care Orthopedic Unit
 :::
 
 ::: {.warning}
+## SLP Task
 
-**SLP Task:** Review the patient information below and determine the most appropriate communication supports to facilitate functional communication in the acute care setting.
+You have received an AAC consultation for Patricia Lewis, a 71-year-old patient admitted following a left hip fracture.
 
+Nursing reports difficulty communicating with Patricia about her pain, comfort, and medication schedule.
+
+Review the available clinical information, independently develop a communication assessment plan, and determine whether AAC, environmental accommodations, or communication partner strategies are indicated.
+
+Be prepared to explain your clinical reasoning before revealing the assessment guidance.
 :::
 
 ## Patient Snapshot
 
 | Patient Information | Details |
-|------|-------------|
+|---|---|
 | Name | Patricia Lewis |
 | Age | 71 |
 | Admitting Diagnosis | Left hip fracture following a fall |
@@ -27,14 +34,15 @@ title: "Case B: Visual Impairment and Pain"
 | Hearing | Functional for conversational speech |
 | Motor Status | Able to move upper extremities; movement limited by pain |
 | Cognitive Status | Mild confusion noted following pain medication |
-| Language | English |
+| Primary Language | English |
 | Family | Daughter listed as primary contact |
 
-## Chief Concern
+---
+
+## Reason for Consultation
 
 ::: {.note-box}
-
-The patient reports sharp left hip pain rated as **6/10**. She repeatedly asks when she may receive her next pain medication.
+Patricia reports sharp left hip pain rated as **6/10** and repeatedly asks when she may receive her next pain medication.
 
 She also reports:
 
@@ -44,173 +52,296 @@ She also reports:
 - Wanting her daughter to bring her glasses
 - Uncertainty regarding the date and time
 
-Staff have attempted to provide written information, but the patient reports that the print is too small to read.
-
+Staff have attempted to provide written information, but Patricia reports that the print is too small to read.
 :::
+
+---
+
+# Part 1: Develop Your Communication Assessment Plan
+
+Before reviewing additional guidance, independently consider:
+
+1. What is Patricia's primary communication concern?
+2. Which communication abilities appear preserved?
+3. Which domains of functioning would you assess?
+4. How would you distinguish a communication impairment from barriers related to vision, pain, medication, or the environment?
+5. What additional information would you gather from nursing or the medical record?
 
 ::: {.warning}
+## Instructor Check-In
 
-**Immediate Clinical Concern:** A visual communication tool will not be effective unless its size, contrast, spacing, and presentation are adapted to the patient's visual needs.
+Identify the domains you would assess and explain how you would evaluate each one.
 
+Discuss your assessment plan with your clinical supervisor before revealing the assessment considerations below.
 :::
-
-## Step 1: Identify the Communication Barrier
-
-Consider:
-
-- Is the primary barrier speech, language, cognition, vision, pain, or a combination?
-- How may pain and medication affect attention and memory?
-- Can the patient reliably understand spoken information?
-- Can the patient read large print?
-- Can the patient point to large visual targets?
-- Would a verbal or auditory system be more effective than a picture board?
-
-## Step 2: Brief Communication and Cognitive Screening
-
-Determine whether the patient can:
-
-- State her name
-- Identify that she is in the hospital
-- State the reason for hospitalization
-- Follow one-step directions
-- Answer simple yes/no questions
-- Repeat back information regarding pain medication
-- Recall information following a brief delay
-- Identify large-print words or symbols
-- Point to a target using either hand
-
-Consider whether inaccurate responses reflect:
-
-- Reduced hearing
-- Reduced vision
-- Pain
-- Medication effects
-- Delirium
-- Language impairment
-- Baseline cognitive impairment
-
-## Step 3: Evaluate Visual Access
-
-Trial adjustments such as:
-
-- Large-print written choices
-- High-contrast text
-- Reduced number of choices
-- Increased spacing between targets
-- Verbal presentation of choices
-- A color-coded pain scale
-- Presentation within the patient's intact visual field
-- Improved lighting
-- Reduced visual clutter
-
-### Potential Trial
-
-Present a pain board with:
-
-- Large numbers
-- A simple 0–10 scale
-- Written descriptors
-- High visual contrast
-- Adequate spacing between selections
-
-Then confirm the patient's selection verbally.
-
-## Step 4: Select AAC and Communication Supports
-
-Which supports would you trial?
-
-- Large-print pain scale
-- High-contrast picture board
-- Large-print written choice board
-- Auditory choice presentation
-- Simple yes/no questions
-- Whiteboard with enlarged information
-- Orientation board
-- Bedside schedule
-- Tablet with enlarged icons
-- Verbal rehearsal or teach-back
-- Communication partner support
-
-Consider:
-
-1. Is the patient's speech functional?
-2. Does she primarily need expressive AAC or environmental communication support?
-3. How will you ensure that she understands the medication schedule?
-4. What should staff do if her confusion increases?
-
-## Step 5: Address Immediate Needs
-
-The patient communicates the following:
-
-- Pain is currently 6/10.
-- She would like medication.
-- She wants another pillow.
-- She would like her daughter to bring her glasses.
-- She does not remember when medication was last administered.
-
-Determine the appropriate response.
-
-| Patient Need | Appropriate Follow-Up |
-|------|-------------|
-| Pain medication | Notify nursing; do not independently promise medication |
-| Medication schedule | Provide simplified information in coordination with nursing |
-| Pillow and positioning | Notify nursing staff |
-| Glasses | Obtain consent and contact family |
-| Orientation support | Update large-print bedside information |
-
-::: {.note-box}
-
-The SLP may support the patient's ability to understand and communicate about pain. Medication decisions remain within the responsibility of nursing and the medical team.
-
-:::
-
-## Step 6: Patient and Staff Education
-
-Education may include:
-
-- Use large print and high contrast.
-- Present one idea or question at a time.
-- Reduce the number of visual choices.
-- Confirm the patient's message verbally.
-- Use teach-back for important medical information.
-- Keep the communication board within reach.
-- Reassess communication when pain or alertness changes.
-- Ensure the patient's glasses are available as soon as possible.
-
-## Documentation Task
-
-Complete a SOAP note that includes:
-
-- Communication barriers identified
-- Cognitive, motor, and sensory abilities observed
-- Visual accommodations trialed
-- Pain communication supports used
-- Patient response to AAC strategies
-- Education provided
-- Family and nursing coordination
-- Recommendations and follow-up plan
-
-## Reflection Questions
-
-1. How did you determine whether the patient's difficulty was primarily related to vision, cognition, pain, or language?
-
-2. Which communication tools were most effective given the patient's visual limitations?
-
-3. How would you ensure that the patient accurately understood when she could receive her next medication dose?
 
 <details>
-<summary><strong>Reveal Example Clinical Reasoning</strong></summary>
+<summary><strong>Reveal AAC Assessment Domains</strong></summary>
 
-The patient retains functional verbal communication but has difficulty accessing standard written information because her corrective lenses are unavailable. Pain, medication, and mild confusion may also affect her ability to retain information.
+### Communication Abilities
 
-A large-print, high-contrast pain scale and enlarged written choices may support communication. Auditory presentation and teach-back should be used for important information, including the pain medication schedule.
+- Functional speech and verbal expression
+- Ability to communicate pain, preferences, and personal needs
+- Reliability of yes/no responses
+- Ability to understand and respond to questions
+- Effectiveness of current communication methods
 
-The SLP should not independently interpret or promise medication timing. Nursing should provide the confirmed schedule, and the patient should be asked to repeat the information in her own words.
+### Vision
 
-With the patient's permission, the daughter may be contacted and asked to bring the patient's glasses. Staff should continue to monitor whether confusion changes after pain management or over the course of hospitalization.
+- Functional visual acuity without corrective lenses
+- Ability to read large-print information
+- Recognition of pictures and symbols
+- Visual scanning and target identification
+- Effects of lighting, contrast, and visual clutter
+
+### Hearing
+
+- Ability to understand conversational speech
+- Need for repetition or amplification
+- Effectiveness of auditory presentation of choices
+- Environmental noise
+
+### Motor Access
+
+- Ability to point or reach toward communication targets
+- Upper-extremity movement and coordination
+- Effects of pain on positioning and access
+- Ability to independently access bedside materials
+
+### Cognition and Language
+
+- Alertness and attention
+- Orientation
+- Comprehension of spoken and written information
+- Ability to follow directions
+- Immediate recall and retention of information
+- Possible effects of medication, pain, or delirium
+
+### Environmental and Medical Factors
+
+- Pain and comfort
+- Medication effects
+- Availability of corrective lenses
+- Positioning restrictions
+- Bedside communication materials
+- Access to nursing and family support
 
 </details>
 
-## Continue
+---
 
-[Go to Case C](case-c.html)
+# Part 2: Evaluate Communication Access
+
+Patricia can communicate verbally but has difficulty accessing written information and retaining details about her care.
+
+## Clinical Reasoning
+
+1. How would you determine whether Patricia understands spoken information?
+2. How would you evaluate her ability to access written information?
+3. What accommodations would you trial before introducing a dedicated AAC system?
+4. How might pain or medication effects influence her performance?
+5. What additional concerns would arise if her confusion worsened?
+
+<details>
+<summary><strong>Reveal Assessment Considerations</strong></summary>
+
+Potential assessment activities include:
+
+- Asking simple questions about immediate needs
+- Assessing comprehension of spoken information
+- Presenting large-print written choices
+- Trialing high-contrast text and symbols
+- Reducing the number of visual targets
+- Assessing ability to point to or identify choices
+- Presenting information verbally
+- Using teach-back to assess understanding
+- Observing changes in attention and response consistency
+
+Consider whether difficulty completing a task reflects impaired communication, reduced visual access, pain, medication effects, or another medical factor.
+
+New or worsening confusion should be communicated to the medical team rather than attributed automatically to medication.
+
+</details>
+
+---
+
+# Part 3: Communication Supports
+
+Based on Patricia's presentation and your assessment plan, determine which communication strategies you would trial.
+
+## Clinical Reasoning
+
+1. Does Patricia require an AAC system?
+2. What environmental accommodations might improve communication?
+3. Which strategies would support her ability to communicate pain?
+4. How could you make medical information more accessible?
+5. What supports would be appropriate if her attention or alertness fluctuated?
+
+<details>
+<summary><strong>Reveal Communication Support Options</strong></summary>
+
+### Visual Accommodations
+
+- Large-print written information
+- High-contrast text
+- Increased spacing between choices
+- Reduced visual clutter
+- Enlarged orientation board
+- Large-print pain scale
+- Tablet with enlarged text or icons
+
+### Auditory and Verbal Supports
+
+- Spoken presentation of choices
+- One question at a time
+- Short, direct instructions
+- Repetition or rephrasing
+- Teach-back for important information
+- Verification of patient responses
+
+### Environmental Supports
+
+- Improved lighting
+- Appropriate positioning
+- Communication materials within reach
+- Access to corrective lenses
+- Reduced distractions
+- Family and staff communication support
+
+### Clinical Considerations
+
+Patricia retains functional verbal communication. Her primary needs may be addressed through visual accommodations, environmental modifications, and communication partner strategies rather than a dedicated AAC device.
+
+The effectiveness of these strategies should be determined through direct assessment.
+
+</details>
+
+---
+
+# Part 4: Immediate Communication Needs
+
+Patricia has communicated several concerns:
+
+- Pain rated 6/10
+- Request for pain medication
+- Need for an additional pillow
+- Desire for her daughter to bring her glasses
+- Difficulty remembering when medication was last administered
+
+## Clinical Reasoning
+
+1. Which concerns should be addressed immediately?
+2. How would you help Patricia communicate her pain and comfort needs?
+3. How would you support her understanding of medication information?
+4. What information should be verified with nursing?
+5. How would you determine whether Patricia understood the information provided?
+
+<details>
+<summary><strong>Reveal Clinical Considerations</strong></summary>
+
+| Patient Need | Appropriate Follow-Up |
+|---|---|
+| Pain | Notify nursing for pain assessment and management |
+| Medication timing | Confirm information with nursing and support patient understanding |
+| Positioning discomfort | Notify nursing and assist with communication of preferences |
+| Corrective lenses | With patient permission, coordinate with family |
+| Orientation | Provide accessible orientation information and assess understanding |
+
+The SLP may support Patricia's ability to understand and communicate about pain and medication.
+
+Medication administration decisions remain with nursing and the medical team.
+
+Use teach-back when appropriate to evaluate understanding, rather than relying solely on a yes/no confirmation.
+
+</details>
+
+---
+
+# Part 5: Patient and Staff Education
+
+## Clinical Reasoning
+
+1. What strategies should nursing staff use when communicating with Patricia?
+2. How would you ensure written information is accessible?
+3. How might you support communication when Patricia is experiencing increased pain?
+4. What role could her daughter play?
+5. When should communication abilities be reassessed?
+
+<details>
+<summary><strong>Reveal Education and Implementation Considerations</strong></summary>
+
+### Staff Communication Strategies
+
+- Use large-print, high-contrast information.
+- Present one idea or question at a time.
+- Reduce the number of visual choices.
+- Confirm patient messages verbally.
+- Use teach-back for important medical information.
+- Allow additional response time.
+- Monitor changes in alertness and attention.
+- Keep accessible communication materials within reach.
+
+### Interdisciplinary Collaboration
+
+- Nursing: Pain management, medication information, and monitoring
+- Medical team: Evaluation of new or worsening confusion
+- Occupational therapy: Functional access and environmental accommodations
+- Family: Corrective lenses and communication preferences
+
+Recommendations should be updated as Patricia's pain, medical status, and access to corrective lenses change.
+
+</details>
+
+---
+
+# Documentation Considerations
+
+Following the consultation, complete your documentation in the separate document provided by your instructor.
+
+Before documenting, discuss which information should be included.
+
+<details>
+<summary><strong>Reveal Documentation Checklist</strong></summary>
+
+Your consultation documentation should address:
+
+- Reason for consultation
+- Relevant medical and communication history
+- Communication abilities and limitations
+- Sensory, cognitive, and motor access findings
+- Visual accommodations trialed
+- Patient response to communication supports
+- Pain communication strategies
+- Patient and staff education
+- Family and nursing coordination
+- Recommendations and follow-up plan
+
+Distinguish between directly observed findings, patient-reported concerns, and information obtained from nursing or the medical record.
+
+</details>
+
+---
+
+# Reflection
+
+Discuss the following:
+
+1. How did you determine whether Patricia's communication difficulties were related to vision, cognition, pain, or language?
+2. What factors influenced your decision to recommend AAC or alternative communication accommodations?
+3. How would you support Patricia's understanding of medication timing without providing information outside the SLP's scope?
+4. What would you recommend if her confusion increased?
+5. How might your recommendations change once her glasses become available?
+
+::: {.note-box}
+## Clinical Pearl
+
+Not every communication barrier requires a dedicated AAC device.
+
+In acute care, effective communication support may involve adapting the environment, modifying how information is presented, and ensuring the patient can access and understand information relevant to their care.
+:::
+
+---
+
+## Navigation
+
+[← Back: Case A](case-a.html) | [Next: Case C →](case-c.html)

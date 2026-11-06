@@ -1,3 +1,4 @@
+
 ---
 title: "Case C: Spanish-Speaking Patient"
 ---
@@ -5,13 +6,19 @@ title: "Case C: Spanish-Speaking Patient"
 ::: {.patient-banner}
 # Rosa Martínez
 
-**63-year-old female** | **Consult:** AAC Evaluation
+**63-year-old female** | **Consult:** AAC Evaluation | **Location:** Acute Care Medical Unit
 :::
 
 ::: {.warning}
+## SLP Task
 
-**SLP Task:** Review the patient information below and determine the most appropriate communication and language-access supports to facilitate functional communication in the acute care setting.
+You have received an AAC consultation for Rosa Martínez, a 63-year-old patient admitted with community-acquired pneumonia.
 
+Nursing reports difficulty understanding Rosa's requests and communicating information about her care.
+
+Review the available clinical information, independently develop a communication assessment plan, and determine which communication supports and language-access services are appropriate.
+
+Be prepared to explain your clinical reasoning before revealing the assessment guidance.
 :::
 
 ## Patient Snapshot
@@ -31,195 +38,314 @@ title: "Case C: Spanish-Speaking Patient"
 | Preferred Language | Spanish |
 | Family | Adult son listed as emergency contact |
 
-## Chief Concern
+---
+
+## Reason for Consultation
 
 ::: {.note-box}
+Rosa has attempted to communicate several needs to nursing staff, but staff have difficulty understanding her.
 
-The patient has attempted to communicate several needs to staff. Staff believe she may be indicating:
+Staff believe she may be communicating:
 
 - Hunger
 - Feeling cold
 - Itching
-- A desire to contact her family
+- A desire to contact family
 
-The patient appears frustrated when staff do not understand her. A family member has occasionally interpreted by telephone, but a qualified medical interpreter has not consistently been available during routine care.
+Rosa appears frustrated when her messages are not understood.
 
+A family member has occasionally interpreted by telephone, but qualified medical interpreter services have not been used consistently during routine care.
 :::
+
+---
+
+# Part 1: Develop Your Communication Assessment Plan
+
+Before reviewing additional guidance, independently consider:
+
+1. What is Rosa's primary communication barrier?
+2. Which communication abilities appear preserved?
+3. Which domains of functioning would you assess?
+4. How would you determine whether Rosa requires AAC, language-access services, or both?
+5. What additional information would you gather from nursing, the medical record, or Rosa herself?
 
 ::: {.warning}
+## Instructor Check-In
 
-**Language Difference Is Not a Communication Disorder:** Limited English proficiency should not be interpreted as aphasia, cognitive impairment, confusion, or reduced decision-making capacity.
+Identify the domains you would assess and explain how you would evaluate each one.
 
+Discuss your assessment plan with your clinical supervisor before revealing the assessment considerations below.
 :::
 
-## Step 1: Identify the Communication Barrier
+<details>
+<summary><strong>Reveal AAC Assessment Domains</strong></summary>
 
-Consider:
+### Communication Abilities
 
-- Does the patient have a communication impairment, a language-access barrier, or both?
-- Is a qualified medical interpreter required?
-- What information can be supported temporarily through pictures or gestures?
-- Which conversations should not rely solely on a picture board?
-- Is the patient able to read in Spanish?
-- Are cultural and dialect differences relevant?
-- Has the patient's preferred language been documented?
+- Functional verbal communication in Spanish
+- Ability to express needs and preferences
+- Reliability of yes/no responses when questions are presented in Spanish
+- Use of gestures and pointing
+- Ability to communicate with a qualified interpreter
 
-## Step 2: Establish Immediate Functional Communication
+### Language
 
-Use appropriate temporary supports to determine whether the patient is:
+- Preferred language and dialect
+- Language(s) used in daily communication
+- Comprehension and expression in Spanish
+- Reading and writing abilities in Spanish
+- Potential communication impairment beyond limited English proficiency
 
-- Hungry
-- Thirsty
-- Cold
-- Hot
-- Itching
-- In pain
-- Short of breath
-- In need of toileting assistance
-- Requesting family
-- Requesting nursing assistance
+### Cognition
 
-Possible supports include:
+- Alertness and attention
+- Orientation
+- Ability to follow directions in the preferred language
+- Ability to make intentional choices
+- Comprehension of information presented through an interpreter
 
+### Motor and Sensory Access
+
+- Ability to point and gesture
+- Ability to identify pictures or symbols
+- Visual access to written information
+- Hearing and auditory comprehension
+- Ability to access a telephone or tablet
+
+### Environmental and Medical Factors
+
+- Availability of qualified medical interpreters
+- Access to Spanish-language communication materials
+- Respiratory status and fatigue
+- Immediate medical and personal communication needs
+- Availability of family and communication partners
+- Staff familiarity with language-access procedures
+
+</details>
+
+---
+
+# Part 2: Evaluate Communication Access
+
+Rosa communicates verbally in Spanish but has difficulty communicating with staff who do not speak her preferred language.
+
+## Clinical Reasoning
+
+1. How would you evaluate Rosa's communication abilities without confusing language difference with impairment?
+2. What role should a qualified medical interpreter play during the assessment?
+3. How would you determine whether Rosa can use picture-based or written communication supports?
+4. How might her medical condition influence communication?
+5. What information would help you determine whether an AAC evaluation is clinically indicated?
+
+<details>
+<summary><strong>Reveal Assessment Considerations</strong></summary>
+
+Potential assessment activities include:
+
+- Establishing communication through a qualified medical interpreter
+- Confirming Rosa's preferred language and communication preferences
+- Assessing functional expression and comprehension in Spanish when clinically indicated
+- Determining whether she can communicate immediate needs verbally through an interpreter
+- Trialing pictures or gestures as supplemental supports
+- Evaluating ability to identify written Spanish words or symbols
+- Considering fatigue, respiratory status, and environmental barriers
+
+**Clinical Consideration**
+
+Limited English proficiency does not independently indicate a speech, language, cognitive, or communication disorder.
+
+An interpreter-supported interaction may establish that Rosa can communicate effectively in her preferred language without requiring a dedicated AAC system.
+
+</details>
+
+---
+
+# Part 3: Communication and Language-Access Supports
+
+Based on Rosa's presentation and your proposed assessment, determine which supports would be appropriate.
+
+## Clinical Reasoning
+
+1. What communication supports could be implemented immediately?
+2. Would Rosa benefit from a bilingual communication board?
+3. Which interactions require a qualified medical interpreter?
+4. What limitations should be considered when using pictures, gestures, or translated written materials?
+5. How would you support communication when an interpreter is not physically present?
+
+<details>
+<summary><strong>Reveal Communication Support Options</strong></summary>
+
+### Language-Access Services
+
+- Qualified medical interpreter
+- Telephone interpretation
+- Video remote interpretation
+- Spanish-language patient education materials
+- Documentation of preferred language and interpreter needs
+
+### Supplemental Communication Supports
+
+- Bilingual basic-needs board
 - Picture symbols
 - Spanish-language written choices
-- Gestures
-- Demonstration
-- Yes/no questions interpreted by a qualified interpreter
-- A bilingual basic-needs board
-- Pointing to body parts
-- A pain scale adapted to the patient's language and literacy level
+- Pain-rating scale
+- Body-part diagrams
+- Gestures and pointing
+- Telephone or tablet access
 
-## Step 3: Consider Interpreter Use
+### Clinical Considerations
 
-A qualified medical interpreter should be used for:
+A bilingual communication board may support immediate basic needs, but it should not replace qualified medical interpretation.
 
-- Medical history
-- Informed consent
-- Discussion of diagnosis or prognosis
-- Complex symptom descriptions
-- Treatment education
-- Decision-making
-- Discharge planning
-- Formal assessment
-- Conversations involving risk or safety
+Pictures and gestures may be ambiguous and should not be relied upon for complex medical communication.
 
-A family member should not routinely replace a qualified interpreter for medical communication.
+Translated materials should be appropriate for Rosa's language, dialect, literacy, and communication preferences.
 
-::: {.note-box}
+If Rosa communicates effectively in Spanish, a dedicated AAC system may not be necessary.
 
-AAC may supplement language access, but it does not replace a qualified medical interpreter.
+</details>
 
-:::
+---
 
-## Step 4: Evaluate AAC Access
+# Part 4: Immediate Communication Needs
 
-Determine whether the patient can:
-
-- Point accurately to pictures
-- Match a picture to a spoken Spanish word
-- Read basic Spanish words
-- Answer yes/no questions in Spanish
-- Use gestures consistently
-- Navigate a small field of choices
-- Use a telephone or tablet
-- Communicate preferences with an interpreter present
-
-Consider whether the board should include:
-
-- Pictures only
-- Spanish words
-- Spanish and English words
-- A pain scale
-- Body-part images
-- Family and telephone icons
-- Food and drink choices
-- Temperature and comfort needs
-
-## Step 5: Address Immediate Needs
-
-The patient appears to communicate that:
+Staff believe Rosa may be communicating the following:
 
 - She is cold.
 - She is hungry.
 - Her arm is itching.
-- She wants to call her son.
+- She wants to contact her son.
 
-Determine the appropriate follow-up.
+## Clinical Reasoning
+
+1. How would you confirm Rosa's intended messages?
+2. Which concerns should be communicated to nursing?
+3. What information must be verified before offering food or drink?
+4. How would you support Rosa's request to contact her family?
+5. What would you do if Rosa had questions about her diagnosis or treatment?
+
+<details>
+<summary><strong>Reveal Clinical Considerations</strong></summary>
 
 | Patient Need | Appropriate Follow-Up |
 |---|---|
-| Cold | Notify nursing and assist with comfort measures |
-| Hunger | Confirm diet status with nursing before offering food |
+| Feeling cold | Confirm the request and notify nursing for comfort measures |
+| Hunger | Confirm current diet status and swallowing recommendations before offering food |
 | Itching | Notify nursing for assessment |
-| Call family | Confirm consent and assist with contact |
-| Medical questions | Obtain a qualified interpreter |
+| Contact family | Confirm Rosa's preference and assist with contacting her son |
+| Medical questions | Arrange qualified medical interpretation |
 
-::: {.warning}
+A qualified interpreter should be used to clarify symptoms and medical concerns.
 
-**Immediate Clinical Concern:** Do not provide food or drink until the patient's diet status and swallowing recommendations have been confirmed.
-
-:::
-
-## Step 6: Interdisciplinary Coordination
-
-Potential team members include:
-
-- Qualified medical interpreter
-- Nursing
-- Physician or advanced practice provider
-- Dietary services
-- Respiratory therapy
-- Family
-- Case management
-- Speech-language pathology
-
-Staff education may include:
-
-- Document the patient's preferred language.
-- Use a qualified interpreter for medical discussions.
-- Keep the bilingual basic-needs board within reach.
-- Speak directly to the patient, not to the interpreter.
-- Use short, clear messages.
-- Allow additional response time.
-- Confirm meaning rather than assuming.
-- Avoid treating language difference as cognitive impairment.
-
-## Documentation Task
-
-Complete a SOAP note that includes:
-
-- The patient's preferred language
-- Communication barriers observed
-- Interpreter use
-- Functional communication abilities
-- AAC supports trialed
-- Patient response
-- Immediate needs communicated
-- Education provided to staff
-- Recommendations for language access and follow-up
-
-## Reflection Questions
-
-1. How did you distinguish a language-access barrier from a possible communication disorder?
-
-2. Which AAC resources were most effective for supporting immediate basic needs?
-
-3. Which aspects of this patient's care require a qualified medical interpreter rather than a communication board or family member?
-
-<details>
-<summary><strong>Reveal Example Clinical Reasoning</strong></summary>
-
-The patient is verbally communicative in Spanish. The immediate barrier is limited shared language between the patient and staff rather than confirmed speech, language, or cognitive impairment.
-
-A bilingual picture-and-word board may help the patient communicate urgent basic needs such as pain, temperature, hunger, toileting, itching, and family contact. However, this board should supplement rather than replace a qualified medical interpreter.
-
-A qualified interpreter is necessary for formal assessment, medical education, informed consent, complex symptom discussion, and care planning.
-
-The patient's request for food should be communicated to nursing, and diet status should be confirmed before food or drink is provided. Nursing should also address itching and comfort needs. With consent, staff may help the patient contact her son.
+Staff should avoid assuming the meaning of Rosa's gestures or expressions without confirming her intended message.
 
 </details>
 
-## Continue
+::: {.warning}
+## Patient Safety Consideration
 
-[Go to Case D](case-d.html)
+Rosa is hospitalized with pneumonia. Before providing food or drink, confirm her current diet orders and any swallowing-related restrictions.
+
+Do not assume that pneumonia establishes aspiration or dysphagia.
+:::
+
+---
+
+# Part 5: Interdisciplinary Implementation
+
+## Clinical Reasoning
+
+1. Which team members should be involved in supporting Rosa's communication?
+2. How should interpreter needs be communicated across shifts?
+3. What education should staff receive regarding language access?
+4. How could family members support communication without replacing qualified medical interpreters?
+5. What follow-up would be appropriate if a communication disorder were suspected?
+
+<details>
+<summary><strong>Reveal Implementation Considerations</strong></summary>
+
+### Interdisciplinary Collaboration
+
+Potential collaborators include:
+
+- Qualified medical interpreters
+- Nursing
+- Medical team
+- Dietary services
+- Respiratory therapy
+- Case management
+- Family or communication partners
+- Speech-language pathology, if clinically indicated
+
+### Staff Communication Strategies
+
+- Document Rosa's preferred language.
+- Arrange qualified interpretation for medical discussions.
+- Speak directly to Rosa rather than to the interpreter.
+- Use short, clear messages.
+- Allow additional response time.
+- Confirm meaning rather than assuming.
+- Provide accessible Spanish-language materials when appropriate.
+- Use supplemental picture or word boards for basic needs when helpful.
+- Avoid interpreting language difference as cognitive impairment.
+
+Family members may provide helpful information about Rosa's communication preferences but should not routinely replace qualified medical interpreters for medical communication.
+
+</details>
+
+---
+
+# Documentation Considerations
+
+Following the consultation, complete your documentation in the separate document provided by your instructor.
+
+Before documenting, discuss which information should be included.
+
+<details>
+<summary><strong>Reveal Documentation Checklist</strong></summary>
+
+Your consultation documentation should address:
+
+- Reason for consultation
+- Preferred language and communication preferences
+- Relevant medical and communication history
+- Communication abilities observed
+- Whether a qualified interpreter was used
+- Any limitations associated with assessment conditions
+- Supplemental communication supports trialed
+- Patient response to communication strategies
+- Immediate needs communicated
+- Staff education and interdisciplinary coordination
+- Recommendations for language access and follow-up
+
+Avoid describing limited English proficiency as a communication impairment.
+
+If a qualified interpreter was unavailable, document the resulting limitations rather than drawing unsupported conclusions about language or cognitive abilities.
+
+</details>
+
+---
+
+# Reflection
+
+Discuss the following:
+
+1. How did you distinguish a language-access barrier from a potential communication disorder?
+2. Which communication supports might help Rosa express immediate needs?
+3. When is a qualified medical interpreter necessary?
+4. How would you respond if staff requested that Rosa's son interpret complex medical information?
+5. Under what circumstances would an AAC evaluation become appropriate?
+
+::: {.note-box}
+## Clinical Pearl
+
+**Language access and AAC are not interchangeable.**
+
+Patients should have meaningful access to communication in their preferred language. AAC may supplement communication when appropriate, but limited English proficiency alone does not establish the need for AAC intervention.
+:::
+
+---
+
+## Navigation
+
+[← Back: Case B](case-b.html) | [Next: Case D →](case-d.html)

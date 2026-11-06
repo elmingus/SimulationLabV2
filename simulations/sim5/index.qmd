@@ -1,113 +1,89 @@
+
 ---
-title: "Simulation 5: AAC Consultation"
+title: "Simulation 5"
 ---
 
 ::: {.patient-banner}
-# AAC Consultation
+## Augmentative & Alternative Communication (AAC) Consultation
 
-**Acute Care Simulation** | **Consultation-Based Activity**
+Today's simulation focuses on evaluating communication barriers and implementing augmentative and alternative communication (AAC) strategies in the acute care setting.
+
+Students will review four patient consultations, identify barriers to functional communication, evaluate potential access methods, and select appropriate communication supports.
+
+Throughout the simulation, emphasis will be placed on patient-centered care, clinical reasoning, interdisciplinary collaboration, and establishing reliable communication for immediate medical and personal needs.
 :::
 
-## Simulation Overview
+::: {.warning}
+## SLP Task
 
-Patients in acute care may experience temporary or permanent barriers to communication related to neurological injury, intubation, motor impairment, sensory loss, language differences, pain, fatigue, or changes in cognition.
+You are the speech-language pathologist responding to AAC consultations for four patients experiencing different communication barriers in the acute care setting.
 
-In this simulation, you will assume the role of the consulting speech-language pathologist. You will review several patient scenarios, identify barriers to functional communication, and recommend appropriate augmentative and alternative communication (AAC) supports.
+For each patient, review the available clinical information, identify communication strengths and limitations, and determine appropriate AAC strategies to trial.
 
-Unlike previous simulations, this activity is primarily completed through the course website rather than through a mannequin-based encounter.
+Consider how motor abilities, vision, hearing, cognition, language, medical status, and environmental factors may influence communication access.
 
-::: {.note-box}
-
-**Clinical Focus**
-
-The goal of an acute care AAC consultation is not necessarily to identify the most advanced communication device. The immediate goal is to establish a reliable and efficient way for the patient to communicate medical needs, preferences, questions, and decisions.
-
+Develop recommendations that support the patient's ability to communicate immediate needs, participate in medical care, and interact with family and healthcare providers.
 :::
 
 ## Learning Objectives
 
-By the end of this simulation, students will be able to:
+By the end of this session, students will be able to:
 
-- Identify barriers affecting functional communication in the acute care setting.
-- Evaluate patient access abilities, including motor, visual, auditory, cognitive, and linguistic factors.
-- Select appropriate low-tech and high-tech AAC supports.
-- Develop strategies for communicating urgent medical and personal needs.
-- Provide patient, family, and staff education regarding AAC use.
-- Coordinate recommendations with the interdisciplinary team.
-- Document findings and recommendations using an acute care SOAP note.
-- Reflect on clinical reasoning and patient-centered decision-making.
+- Identify barriers to functional communication in the acute care setting.
+- Evaluate communication abilities and access methods, including motor, visual, auditory, cognitive, and linguistic factors.
+- Differentiate low-tech and high-tech AAC approaches based on patient presentation.
+- Select and trial individualized AAC strategies to support immediate communication needs.
+- Adapt communication approaches based on patient abilities, environmental barriers, and available resources.
+- Demonstrate patient-centered communication and education regarding AAC use.
+- Develop recommendations for interdisciplinary implementation and follow-up.
+- Communicate clinical findings and recommendations through professional documentation.
 
-## Your Role
+---
 
-You are the speech-language pathologist responding to a communication consultation.
+## Today's Modules
 
-For each patient case, you will:
+### 1. Case A: Quadriplegia & Loss of Speech
 
-1. Review the reason for consultation.
-2. Identify the primary communication barrier.
-3. Evaluate available communication and access skills.
-4. Select AAC strategies to trial.
-5. Address the patient's immediate communication needs.
-6. Identify appropriate interdisciplinary follow-up.
-7. Document your assessment and recommendations.
+Evaluate communication access for a patient with quadriplegia who is unable to communicate verbally and has limited voluntary movement.
 
-## AAC Assessment Framework
-
-When selecting an AAC approach, consider the following areas:
-
-| Area | Questions to Consider |
-|------|------------------------|
-| Communication | Can the patient speak, vocalize, gesture, write, read, or answer yes/no questions? |
-| Language | Does the patient understand spoken and written language? What is the patient's preferred language? |
-| Cognition | Can the patient attend, remember directions, make selections, and understand cause and effect? |
-| Motor Access | Can the patient point, reach, lift a hand, move their head, or use eye gaze? |
-| Vision | Can the patient see written words, pictures, colors, and communication targets? |
-| Hearing | Can the patient hear conversational speech? Are hearing aids or amplification available? |
-| Environment | Are noise, lighting, positioning, fatigue, or medical equipment affecting communication? |
-| Urgency | What medical, safety, comfort, or personal needs must be communicated immediately? |
-
-## Available Patient Consultations
-
-::: {.warning}
-
-**Student Task:** Complete each patient case and record your findings in the SOAP note provided by your instructor.
-
-:::
-
-### Case A: Quadriplegia and Loss of Speech
-
-A patient with quadriplegia is unable to verbally communicate basic needs and has limited voluntary movement.
+Consider alternative access methods, including eye gaze, partner-assisted scanning, and other appropriate AAC supports.
 
 [Begin Case A](case-a.html)
 
----
+### 2. Case B: Visual Impairment & Pain
 
-### Case B: Visual Impairment and Pain
+Evaluate a patient experiencing pain and difficulty communicating immediate needs without access to their glasses.
 
-A patient does not have access to their glasses and is experiencing pain, discomfort, and difficulty communicating immediate needs.
+Consider how visual limitations, positioning, and discomfort may affect communication access and the selection of AAC strategies.
 
 [Begin Case B](case-b.html)
 
----
+### 3. Case C: Spanish-Speaking Patient
 
-### Case C: Spanish-Speaking Patient
+Evaluate communication needs for a patient whose preferred language is Spanish.
 
-A patient who primarily communicates in Spanish needs assistance expressing basic needs and contacting family.
+Consider language access, culturally and linguistically appropriate communication supports, and collaboration with qualified medical interpreters.
 
 [Begin Case C](case-c.html)
 
----
+### 4. Case D: Hearing Impairment
 
-### Case D: Hearing Impairment
+Evaluate communication barriers for a patient who does not have access to their hearing aids.
 
-A patient does not have access to their hearing aids and is having difficulty communicating with staff.
+Consider how hearing loss may influence communication with medical staff and identify appropriate strategies to support comprehension and participation.
 
 [Begin Case D](case-d.html)
 
+### 5. AAC Resources & Clinical Considerations
+
+Review AAC assessment considerations, communication access methods, and strategies for supporting patient communication in acute care.
+
+Use these resources to inform clinical decisions and recommendations throughout the simulation.
+
+[Review AAC Resources](resources.html)
+
 ---
 
-## Additional Resources
+## Navigation
 
-Review AAC tools, clinical considerations, and documentation reminders before or during the activity.
-
-[View AAC Resources](resources.html)
+[← Back: Simulation Home](../../index.html) | [Next: Case A →](case-a.html)
